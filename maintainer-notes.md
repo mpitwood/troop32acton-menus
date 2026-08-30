@@ -84,17 +84,23 @@ site/
   images/        source images (build.js copies these into docs/assets/images/)
 ```
 
-To rebuild after editing any `.md` file, adding a recipe, or changing
-`site/`:
+**The site rebuilds and republishes itself automatically.** A GitHub
+Actions workflow (`.github/workflows/pages.yml`) runs `npm run build` and
+deploys the result to GitHub Pages on every push to `main` — including an
+edit made straight in GitHub's web editor, no local setup needed. Check
+the Actions tab on the repo to watch a deploy or see why one failed.
+`docs/` is git-ignored: it's a build artifact now, not something anyone
+commits.
+
+To preview a change locally before pushing:
 
 ```
 npm install   # first time only
 npm run build
 ```
 
-That regenerates `docs/` from scratch. Commit and push the result —
-GitHub Pages is configured to serve straight from the `docs/` folder on
-`main`, no CI build step involved.
+Then open `docs/index.html` in a browser (or the specific page you
+changed).
 
 A few pages are deliberately **not** linked from the site's main
 navigation, on purpose:
