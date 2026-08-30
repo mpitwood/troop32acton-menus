@@ -70,7 +70,7 @@ build: ~$3.25/scout/day with plant-based jerky (~$1.75) or ~$2.10/scout/
 day with sunflower seed butter (~$0.60) — plant-based jerky runs pricier
 per ounce than meat jerky, worth knowing before defaulting to it for
 budget-tight trips. Boston-area pricing — see
-[README.md](../README.md#pricing) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

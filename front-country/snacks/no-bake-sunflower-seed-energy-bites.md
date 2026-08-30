@@ -65,7 +65,7 @@ patrol activity to make together.
 
 ~$2.20/scout for 6: oats ~$2.10, sunflower seed butter ~$4.20, honey
 ~$2.80, chocolate chips ~$4.20. Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

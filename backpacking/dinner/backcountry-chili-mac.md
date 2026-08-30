@@ -92,7 +92,7 @@ Base: ~$2.55/scout (pasta/rice ~$0.50, black bean flakes ~$0.75, TVP
 ~$0.35, tomato powder ~$0.27, veggie flakes ~$0.30, cheese powder
 ~$0.25, oil negligible). Boost: ~$1.20 per meat-eating scout. Several
 base ingredients are specialty items — see
-[README.md](../README.md#pricing) for sourcing notes.
+[OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing notes.
 
 ## Scaling Notes
 

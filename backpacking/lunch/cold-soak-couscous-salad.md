@@ -84,7 +84,7 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 Base: ~$2.10/scout (couscous ~$0.50, oil ~$0.15, veggie flakes ~$0.40,
 parmesan powder ~$0.30, TVP ~$0.26, bar ~$1.50 rounds this up further —
 total with bar ~$3.10/scout). Boost: ~$1.10 per meat-eating scout.
-Boston-area pricing — see [README.md](../README.md#pricing) for sourcing.
+Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

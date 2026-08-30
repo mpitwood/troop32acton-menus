@@ -82,7 +82,7 @@ the shared pot.
 Base: ~$1.55/scout (pasta ~$0.90, cheese powder ~$0.50, milk powder
 ~$0.09, butter powder ~$0.19). Boost: ~$1.25 per meat-eating scout.
 Butter powder is a specialty item — see
-[README.md](../README.md#pricing) for sourcing notes.
+[OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing notes.
 
 ## Scaling Notes
 

@@ -70,7 +70,7 @@ to round out the meal without adding real cook-time complexity.
 
 ~$1.60/scout for 6: biscuit dough ~$7.50, butter ~$1.35, garlic/parsley
 ~$0.75. Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

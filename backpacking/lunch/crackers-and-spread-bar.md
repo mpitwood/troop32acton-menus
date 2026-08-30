@@ -79,7 +79,7 @@ Meat build: ~$4.02/scout (crackers ~$0.60, cheese wedge ~$0.90, meat
 stick ~$1.25, trail mix ~$0.32, bar ~$0.95... rounded, see below). Total
 with bar at ~$1.50: ~$4.57/scout. Vegetarian build: ~$4.07/scout with
 sunflower seed butter + jam (~$0.75) in place of the meat stick.
-Boston-area pricing — see [README.md](../README.md#pricing) for sourcing.
+Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

@@ -81,7 +81,7 @@ bags (bar + granola + fruit + protein) than a single granola bar alone.
 Meat build: ~$4.35/scout (bar ~$2.00, fruit pouch ~$0.35, granola pouch
 ~$0.30, drink mix ~$0.75, jerky ~$1.25). Vegetarian build: ~$3.70/scout
 (swap jerky for sunflower seed butter packet ~$0.60). Boston-area
-pricing — see [README.md](../README.md#pricing) for sourcing.
+pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

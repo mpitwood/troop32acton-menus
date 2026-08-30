@@ -66,7 +66,7 @@ good for the wait between arriving at camp and dinner being ready.
 
 ~$2.60/scout for 6: cheese ~$6.75, tomatoes ~$1.75, chips ~$7 (1-2 bags)
 (meat add-in extra ~$4.25 if used). Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

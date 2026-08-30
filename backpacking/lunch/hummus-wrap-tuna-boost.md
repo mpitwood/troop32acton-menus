@@ -82,7 +82,7 @@ Base: ~$2.35/scout (hummus powder ~$0.70, tortillas ~$0.70, veggie flakes
 ~$0.15, bar ~$1.50 → total adjusted ~$3.05/scout including bar). Boost:
 ~$2.25 per meat-eating scout — tuna/salmon pouches are one of the pricier
 boosts in the repo, worth knowing before defaulting to this every lunch.
-Boston-area pricing — see [README.md](../README.md#pricing) for sourcing.
+Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

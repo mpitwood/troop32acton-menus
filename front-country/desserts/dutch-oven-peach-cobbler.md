@@ -60,7 +60,7 @@ mixing bowl and no eggs. About as low-effort as a real dessert gets.
 ## Cost Estimate
 
 ~$2.05/scout for 6: peaches ~$6, cake mix ~$3.40, butter ~$2.75.
-Boston-area pricing — see [README.md](../../README.md#pricing-basis) for
+Boston-area pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for
 sourcing.
 
 ## Scaling Notes

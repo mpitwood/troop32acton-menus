@@ -160,7 +160,7 @@ have with the committee about the $25 figure.
 - Ingredients hold up in a cooler for a day or two — fresh, canned, or
   dehydrated, not relying on anything staying frozen.
 
-Backpacking has its own [guide](backpacking/README.md) — same page
+Backpacking has its own [guide](backpacking/OVERVIEW.md) — same page
 format, plus two backpacking-only additions: a **Weight & Calories** line
 (oz/serving, kcal/oz — pack weight is the constraint front-country
 doesn't have), and a **Packaging & Trash Notes** section (backpackers
@@ -252,20 +252,21 @@ toward:
   "the MyPlate food guide or the current USDA nutrition model" — as of
   January 2026 that current model is RealFood.gov, so use each page's Real
   Food Check for that conversation. Double-check the exact wording with
-  whoever signs off on the requirement, since official requirement text can
-  lag behind a guideline change. Requirement 2a has its own scout-facing
-  worksheet: [first-class-menu-worksheet.md](first-class-menu-worksheet.md).
+  the senior scout who signs off on the requirement, since official
+  requirement text can lag behind a guideline change. Requirement 2a has
+  its own scout-facing worksheet:
+  [first-class-menu-worksheet.md](first-class-menu-worksheet.md).
 - **Cooking merit badge (camp cooking)** — plan and cook using stove, dutch
   oven, and foil-pack/skewer methods. **Note:** per the current
-  requirements, meals used for Cooking MB requirements 4–6 can't be reused
+  requirements, meals used for Cooking MB requirements 5–6 can't be reused
   for rank advancement or repeated across those requirements — check with
-  the scout's counselor before double-counting a meal. Requirements 4, 5,
-  and 6 each have their own scout-facing worksheet:
-  [cooking-mb-worksheet-req4.md](cooking-mb-worksheet-req4.md) (home
-  cooking), [cooking-mb-worksheet-req5.md](cooking-mb-worksheet-req5.md)
-  (camp cooking), and
+  the scout's counselor before double-counting a meal. Requirements 5 and
+  6 each have their own scout-facing worksheet:
+  [cooking-mb-worksheet-req5.md](cooking-mb-worksheet-req5.md)
+  (camp cooking) and
   [cooking-mb-worksheet-req6.md](cooking-mb-worksheet-req6.md) (trail and
-  backpacking).
+  backpacking). Requirement 4 (cooking at home) isn't covered here — this
+  repo is built for camp and trail meals, not a home kitchen.
 
 - The worksheets above are deliberately scout-facing — sort a recipe's
   ingredients into food groups yourself, don't read it off "Real Food

@@ -91,7 +91,7 @@ Base: ~$3.25/scout for 6 (pasta ~$2.15, beans ~$3, sun-dried tomatoes ~$7,
 garlic ~$1, spinach ~$2.75, parmesan ~$1.50, cream ~$1.50, seasoning
 ~$0.50). Sausage boost: ~$1.00 per meat-eating scout (3/4 lb sausage
 ~$4.90, split 5 ways). Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

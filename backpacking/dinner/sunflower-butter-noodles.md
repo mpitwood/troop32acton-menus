@@ -89,7 +89,7 @@ protein.
 Base: ~$1.85/scout (noodles ~$0.70, sunflower seed butter ~$0.68, TVP
 ~$0.18, soy sauce powder ~$0.09, veggie flakes ~$0.40). Boost: ~$1.60 per
 meat-eating scout. Boston-area pricing — see
-[README.md](../README.md#pricing) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

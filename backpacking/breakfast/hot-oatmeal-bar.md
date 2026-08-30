@@ -82,7 +82,7 @@ included to land close to Philmont's ~700-1,000 kcal breakfast range.
 Base: ~$0.75/scout (oats ~$0.30, sugar/cinnamon ~$0.10, dried fruit
 ~$0.35, milk powder ~$0.15, sunflower seeds ~$0.45). Protein side: jerky/
 meat stick ~$1.25 or sunflower seed butter packet ~$0.60. Boston-area
-pricing — see [README.md](../README.md#pricing) for sourcing.
+pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

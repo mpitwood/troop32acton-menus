@@ -74,7 +74,7 @@ round it out.
 
 ~$3.00/scout for 6: biscuit dough ~$11.25 (3 cans), sugar/cinnamon ~$1.25,
 butter ~$5.50. Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

@@ -70,7 +70,7 @@ wrapped store bags.
 
 ~$1.35/scout/day (sunflower seeds ~$0.45, dried fruit ~$0.35, pretzels
 ~$0.15, chocolate chips ~$0.41). Boston-area pricing, bulk-bin prices
-where available — see [README.md](../README.md#pricing) for sourcing.
+where available — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

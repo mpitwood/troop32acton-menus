@@ -121,19 +121,18 @@ function depthPrefix(relOutPath) {
 
 const NAV_ITEMS = [
   ['index.html', 'Home'],
-  ['README.html', 'Front-Country Guide'],
-  ['backpacking/README.html', 'Backpacking Guide'],
+  ['OVERVIEW.html', 'Front-Country Guide'],
+  ['backpacking/OVERVIEW.html', 'Backpacking Guide'],
 ];
 
 const WORKSHEETS = [
   ['second-class-menu-worksheet.html', 'Second Class (req 2e)'],
   ['first-class-menu-worksheet.html', 'First Class (req 2a)'],
-  ['cooking-mb-worksheet-req4.html', 'Cooking MB — req 4 (home)'],
   ['cooking-mb-worksheet-req5.html', 'Cooking MB — req 5 (camp)'],
   ['cooking-mb-worksheet-req6.html', 'Cooking MB — req 6 (trail)'],
 ];
 
-function layout({ title, bodyHtml, relOutPath, description }) {
+function layout({ title, bodyHtml, relOutPath, description, bodyClass }) {
   const prefix = depthPrefix(relOutPath);
   const nav = NAV_ITEMS.map(
     ([href, label]) => `<a href="${prefix}${href}">${label}</a>`
@@ -149,7 +148,7 @@ function layout({ title, bodyHtml, relOutPath, description }) {
 <title>${escapeHtml(title)} · Troop 32 Acton Menu Book</title>
 ${description ? `<meta name="description" content="${escapeHtml(description)}">\n` : ''}<link rel="stylesheet" href="${prefix}assets/style.css">
 </head>
-<body>
+<body${bodyClass ? ` class="${bodyClass}"` : ''}>
 <header class="site-header">
   <div class="site-header-inner">
     <a class="brand" href="${prefix}index.html">Troop 32 Acton &middot; Menu Book</a>
@@ -194,12 +193,15 @@ function writeOut(relOutPath, html) {
 // generic markdown page -> html page
 // ---------------------------------------------------------------------
 
-function buildDocPage(relSrcMd, relOutPath, { linkedFromNav = true } = {}) {
+function buildDocPage(relSrcMd, relOutPath, { worksheet = false } = {}) {
   const raw = readMd(relSrcMd);
   const title = extractTitle(raw);
   const bodyMd = rewriteLinks(stripTitleLine(raw));
   const bodyHtml = `<h1>${escapeHtml(title)}</h1>\n` + renderMarkdownWithHeadingIds(bodyMd);
-  const html = layout({ title, bodyHtml, relOutPath });
+  // worksheet pages get taller table cells and write-in lines -- a fill-in
+  // table with a single blank row is useless if there's no room to
+  // actually write in it by hand.
+  const html = layout({ title, bodyHtml, relOutPath, bodyClass: worksheet ? 'worksheet-page' : undefined });
   writeOut(relOutPath, html);
   return title;
 }
@@ -270,10 +272,10 @@ function main() {
   }
 
   // root docs
-  buildDocPage('README.md', 'README.html');
-  buildDocPage('backpacking/README.md', 'backpacking/README.html');
+  buildDocPage('OVERVIEW.md', 'OVERVIEW.html');
+  buildDocPage('backpacking/OVERVIEW.md', 'backpacking/OVERVIEW.html');
   for (const [file] of WORKSHEETS) {
-    buildDocPage(file.replace(/\.html$/, '.md'), file);
+    buildDocPage(file.replace(/\.html$/, '.md'), file, { worksheet: true });
   }
   // leader answer key: built, but intentionally not linked from nav/index
   // (see NAV_ITEMS / homepage) so it isn't one click away from a scout
@@ -282,7 +284,7 @@ function main() {
   buildDocPage('leader-answer-key.md', 'leader-answer-key.html');
   // maintainer-only pages: built and cross-linked with each other, but
   // not in NAV_ITEMS -- only reachable via the link at the bottom of the
-  // published README.
+  // published Overview.
   buildDocPage('maintainer-notes.md', 'maintainer-notes.html');
   buildDocPage('TEMPLATE.md', 'TEMPLATE.html');
   buildDocPage('backpacking/TEMPLATE.md', 'backpacking/TEMPLATE.html');
@@ -331,8 +333,8 @@ function buildHomepage(recipes) {
 <p class="lede">A browsable library of pre-planned camp meals — ${recipes.length}
 recipes across front-country (car camping) and backpacking. Pick a meal,
 copy the ingredient list onto a shopping list, and go. See the
-<a href="README.html">Front-Country Guide</a> or the
-<a href="backpacking/README.html">Backpacking Guide</a> for the full
+<a href="OVERVIEW.html">Front-Country Guide</a> or the
+<a href="backpacking/OVERVIEW.html">Backpacking Guide</a> for the full
 system plus plain browsable tables, or use the search/filter below.</p>
 
 <p class="lede">Working on a rank or merit badge requirement? Start with a
@@ -342,7 +344,6 @@ page:</p>
 <ul class="worksheet-list">
   <li><a href="second-class-menu-worksheet.html">Second Class — requirement 2e</a></li>
   <li><a href="first-class-menu-worksheet.html">First Class — requirement 2a</a></li>
-  <li><a href="cooking-mb-worksheet-req4.html">Cooking merit badge — requirement 4 (home cooking)</a></li>
   <li><a href="cooking-mb-worksheet-req5.html">Cooking merit badge — requirement 5 (camp cooking)</a></li>
   <li><a href="cooking-mb-worksheet-req6.html">Cooking merit badge — requirement 6 (trail cooking)</a></li>
 </ul>

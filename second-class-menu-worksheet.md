@@ -6,8 +6,8 @@
   read it off a page.
 - Don't copy from a page's "Real Food Check" — read the **Ingredients**
   list yourself and work it out.
-- Bring the finished worksheet to whoever signs off (usually a senior
-  scout or your Scoutmaster — Second Class doesn't use merit badge
+- Bring the finished worksheet to the senior scout who signs off on this
+  requirement (not a merit badge counselor — Second Class doesn't use
   counselors).
 
 > **Requirement 2e, as written:** "On one campout, plan and cook one hot
@@ -27,8 +27,8 @@
 
 ## 2. Pick a hot meal
 
-- Browse [README.md](README.md#browse-the-menu) or
-  [backpacking/README.md](backpacking/README.md#browse-the-menu) and pick
+- Browse [OVERVIEW.md](OVERVIEW.md#browse-the-menu) or
+  [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu) and pick
   one breakfast or lunch page.
 - Must be **hot** — a cold meal doesn't count:
   - Front-country: tagged **2-burner stove**, **Dutch oven**, or **Foil
@@ -45,8 +45,7 @@ Page picked: ________________________ Cook method: ________________________
 - Check the page's Diet/Allergen tags against that list — does it work
   for everyone as written? ________________________________________________
 - If a substitution is needed, name it and where it happens (e.g. "Marcus
-  gets the vegetarian base, no meat boost in his bowl"):
-  ________________________________________________
+  gets the vegetarian base, no meat boost in his bowl"): ________________________________________________
 
 ## 4. Sort the ingredients into food groups yourself
 
@@ -55,6 +54,8 @@ Page picked: ________________________ Cook method: ________________________
 
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
+| | | | | |
+| | | | | |
 | | | | | |
 
 ## 5. Explain the importance of good nutrition
@@ -68,12 +69,17 @@ Page picked: ________________________ Cook method: ________________________
   - What happens to a scout's energy on a hike or busy camp day without
     a real breakfast?
 
-Your answer (3–5 sentences):
+Your answer (3–5 sentences, one per line below):
 
-________________________________________________
-________________________________________________
-________________________________________________
-________________________________________________
+Line 1: ________________________________________________
+
+Line 2: ________________________________________________
+
+Line 3: ________________________________________________
+
+Line 4: ________________________________________________
+
+Line 5: ________________________________________________
 
 ## 6. Demonstrate transport, storage, and prep
 
@@ -82,16 +88,15 @@ ________________________________________________
 - **Transport:** how does each ingredient get from store/pantry to camp
   without spoiling or getting crushed? ________________________________
 - **Storage:** once at camp, where does each ingredient live until cook
-  time? Anything that needs to stay cold the whole trip?
-  ________________________________________________
+  time? Anything that needs to stay cold the whole trip? ________________________________________________
 - **Prep:** read the page's **Advance Prep (at home)** and **Onsite**
-  sections — what happens before you leave, what happens at camp?
-  ________________________________________________
+  sections — what happens before you leave, what happens at camp? ________________________________________________
 - Raw meat, egg, or dairy needing extra care (keep separate, cook to a
   safe temperature, wash hands/utensils after)? ________________
 
 ---
 
 *Requirement text above is quoted from the troop's copy of the official
-Scouts BSA requirements. Double-check current wording with whoever signs
-off on this requirement, since official text can be revised.*
+Scouts BSA requirements. Double-check current wording with the senior
+scout who signs off on this requirement, since official text can be
+revised.*

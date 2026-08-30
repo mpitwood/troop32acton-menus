@@ -91,7 +91,7 @@ every diet in the patrol from one pot.
 chicken/tofu ~$5.50 (tofu is cheaper, chicken pricier — this splits the
 difference), soy sauce/sesame oil ~$1, green onion ~$1.75, optional eggs
 ~$2. Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

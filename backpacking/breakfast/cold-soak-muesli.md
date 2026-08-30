@@ -8,7 +8,7 @@ Zero fuel, ready when you wake up. Mix it in a bag the night before, add
 cold water, and by morning it's soft and ready to eat straight from the
 bag — good for alpine starts when lighting a stove costs you daylight.
 Sized to land near Philmont's own breakfast calorie and protein numbers
-(see [README.md](../README.md)), not a lighter "diet" version of one.
+(see [OVERVIEW.md](../OVERVIEW.md)), not a lighter "diet" version of one.
 
 ## Ingredients (per person)
 
@@ -89,7 +89,7 @@ Sized to land near Philmont's own breakfast calorie and protein numbers
 Base: ~$1.05/scout (oats ~$0.35, milk powder ~$0.20, dried fruit ~$0.35,
 chia ~$0.25, sunflower seeds ~$0.20). Protein side: jerky ~$1.25 or
 sunflower seed butter packet ~$0.60. Boston-area pricing — see
-[README.md](../README.md#pricing) for sourcing notes.
+[OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing notes.
 
 ## Scaling Notes
 

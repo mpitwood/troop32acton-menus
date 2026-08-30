@@ -3,7 +3,7 @@
 **This is your worksheet, not a recipe page.**
 
 - Requirement 5 plans and cooks for a patrol or group of up to 8 youth on
-  an actual campout — [README.md](README.md#browse-the-menu) is built for exactly this.
+  an actual campout — [OVERVIEW.md](OVERVIEW.md#browse-the-menu) is built for exactly this.
 - Don't copy answers from a page's "Real Food Check" — read the
   **Ingredients** list yourself and work it out.
 - Bring the finished worksheet to your merit badge counselor.
@@ -39,7 +39,7 @@
 
 Requirement 5d requires **four different meals, each using a specific
 method** — pick two breakfasts, one lunch, and one dinner from
-[README.md](README.md#browse-the-menu), then assign each to a method so all four are
+[OVERVIEW.md](OVERVIEW.md#browse-the-menu), then assign each to a method so all four are
 covered.
 
 | Meal | Page you picked | Method required | Method tag on the page matches? |
@@ -56,7 +56,7 @@ land on "2-burner stove," one lands on "Dutch oven," and one lands on
 
 ## 3. Pick a snack and a dessert
 
-Both prepared outdoors, from [README.md](README.md#browse-the-menu)'s snacks and desserts
+Both prepared outdoors, from [OVERVIEW.md](OVERVIEW.md#browse-the-menu)'s snacks and desserts
 sections.
 
 - Snack: ________________________
@@ -71,29 +71,54 @@ sections.
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
 | | | | | |
+| | | | | |
+| | | | | |
 
 ## 5. Recipes, shopping list, and budget
 
 - Scale each page's ingredients from its base serving size to your actual
   headcount (each page's **Scaling Notes** section tells you how). Any
-  adjustments beyond straight scaling? ________________________________
-- Shopping list with quantities (attach a separate sheet if it's long):
-  ________________________________________________
+  adjustments beyond straight scaling?
+
+  Line 1: ________________________________________________
+
+- **Shopping list with quantities: use a separate sheet of paper.** A
+  full patrol shopping list rarely fits here — write it out separately
+  and bring both sheets to your counselor.
 - Budget/total cost: ________________________ (each page has a **Cost
   Estimate** section to build from)
 
 ## 6. Cook, serve, evaluate
 
-- Feedback from your patrol on each meal: ________________________
-- Your own evaluation — what worked, what would you change? ________________
-- Notes to discuss with your counselor: ________________________________
+**Feedback from your patrol** — one row per scout who ate, add more rows
+by hand if your patrol is bigger than the table:
+
+| Scout | What they liked | What they'd change |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+**Your own evaluation** — what worked, what would you change?
+
+Line 1: ________________________________________________
+
+Line 2: ________________________________________________
+
+**Notes to discuss with your counselor:**
+
+Line 1: ________________________________________________
+
+Line 2: ________________________________________________
 
 ## 7. Cleanup and Leave No Trace
 
 - Describe how you led cleanup of equipment, utensils, and the cooking
   site after each meal: ________________________________________________
-- How did you dispose of camp garbage, cans, and waste water?
-  ________________________________________________
+- How did you dispose of camp garbage, cans, and waste water? ________________________________________________
 - How did this menu and cleanup follow the Outdoor Code and Leave No
   Trace principles? ________________________________________________
 

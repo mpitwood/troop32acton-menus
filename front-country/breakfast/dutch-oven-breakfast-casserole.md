@@ -95,7 +95,7 @@ through seconds.
 Base: ~$2.85/scout for 6 (hash browns ~$4, eggs ~$3.85, milk ~$1.25,
 veggies ~$3.05, cheese ~$3.75, spices/oil ~$1.25). Sausage boost: ~$0.90
 per meat-eating scout (3/4 lb sausage ~$4.70, split ~5-6 ways). Boston-area
-pricing — see [README.md](../../README.md#pricing-basis) for sourcing.
+pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

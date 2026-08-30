@@ -1,14 +1,14 @@
 # Maintainer Notes
 
 This page is for whoever maintains the repo and the website it builds —
-not needed to plan a menu or work a requirement. See [README.md](README.md)
+not needed to plan a menu or work a requirement. See [OVERVIEW.md](OVERVIEW.md)
 for that.
 
 ## Folder structure
 
 ```
 food/
-  README.md              scout/leader-facing guide + browsable front-country menu tables
+  OVERVIEW.md              scout/leader-facing guide + browsable front-country menu tables
   maintainer-notes.md     this file
   TEMPLATE.md             blank page to copy when adding a new recipe
   leader-answer-key.md    compiled Real Food Check answers, for leaders/counselors
@@ -21,7 +21,7 @@ food/
     desserts/
     snacks/
   backpacking/              weight-critical menus
-    README.md                own guide + browsable menu tables, own TEMPLATE
+    OVERVIEW.md                own guide + browsable menu tables, own TEMPLATE
     breakfast/
     lunch/
     dinner/
@@ -30,18 +30,18 @@ food/
   docs/                       generated website output — GitHub Pages serves this folder
 ```
 
-Front-country and backpacking each keep one combined README (guide +
-browsable menu tables) rather than a separate README/INDEX pair — having
+Front-country and backpacking each keep one combined Overview (guide +
+browsable menu tables) rather than a separate Overview/INDEX pair — having
 two documents for the same section was confusing to read.
 
 ## Adding a new recipe
 
 Copy [TEMPLATE.md](TEMPLATE.md) into the right `front-country/<category>/`
 folder, fill it in, and add a row to the
-[Browse the menu](README.md#browse-the-menu) tables in README.md. For
+[Browse the menu](OVERVIEW.md#browse-the-menu) tables in OVERVIEW.md. For
 backpacking recipes, use [backpacking/TEMPLATE.md](backpacking/TEMPLATE.md)
 and add a row to
-[backpacking/README.md](backpacking/README.md#browse-the-menu) instead —
+[backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu) instead —
 different template, different tables. Then rebuild the site (below) so
 the new page actually appears.
 
@@ -112,12 +112,12 @@ A few pages are deliberately **not** linked from the site's main
 navigation, on purpose:
 
 - `leader-answer-key.md` — linked once, from the bottom of the published
-  README, not from the nav or homepage. It compiles the same Real Food
+  Overview, not from the nav or homepage. It compiles the same Real Food
   Check content that's already public on every recipe page, so this isn't
   real access control — it's just not one click away from a scout
   browsing the site.
 - `maintainer-notes.md` (this file) — linked once, from the bottom of the
-  published README.
+  published Overview.
 - `TEMPLATE.md` / `backpacking/TEMPLATE.md` — built and linked from this
   page, but not from the main nav.
 

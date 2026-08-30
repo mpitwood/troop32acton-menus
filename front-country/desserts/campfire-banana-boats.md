@@ -68,7 +68,7 @@ dessert in the repo.
 ## Cost Estimate
 
 ~$1.15/scout for 6: bananas ~$2, chocolate chips ~$2.75, marshmallows ~$2.
-Boston-area pricing — see [README.md](../../README.md#pricing-basis) for
+Boston-area pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for
 sourcing.
 
 ## Scaling Notes

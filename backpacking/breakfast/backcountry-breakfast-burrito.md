@@ -95,7 +95,7 @@ cheese powder ~$0.40, tortilla ~$0.35, spices negligible). Sausage boost:
 ~$0.65 per meat-eating scout. Bean flakes, TVP, and cheese powder are
 specialty items, typically from an outdoor retailer or bulk-foods seller
 rather than a regular grocery store — see
-[README.md](../README.md#pricing).
+[OVERVIEW.md](../OVERVIEW.md#pricing).
 
 ## Scaling Notes
 

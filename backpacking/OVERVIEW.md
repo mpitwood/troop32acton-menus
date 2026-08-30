@@ -1,6 +1,6 @@
 # Backpacking Menu Repository
 
-Same system as [../README.md](../README.md) — one page per course, browse
+Same system as [../OVERVIEW.md](../OVERVIEW.md) — one page per course, browse
 a la carte, vegetarian scouts get a real option, not a bolt-on — adapted
 for trips where every ounce is carried on someone's back for days, and
 every wrapper comes back out too. Jump to
@@ -111,7 +111,7 @@ in case" is often heavier than the fuel it would have saved.
 
 ## Allergy tags
 
-Same definitions as [../README.md](../README.md): **Nut-free** means no
+Same definitions as [../OVERVIEW.md](../OVERVIEW.md): **Nut-free** means no
 tree nuts or peanuts and no unlabeled "may contain traces" products;
 **Egg-free** means no egg ingredient. Backpacking leans hard on sunflower
 seed butter as the peanut butter stand-in, same as front-country, since
@@ -151,7 +151,7 @@ as possible in the first place, and make what's left small and sealed.
 ## Pricing
 
 Boston-area estimates, same sourcing basis as
-[../README.md#pricing-basis](../README.md#pricing-basis) — but several
+[../OVERVIEW.md#pricing-basis](../OVERVIEW.md#pricing-basis) — but several
 backpacking staples here (TVP, cheese powder, freeze-dried meat,
 dehydrated vegetable flakes, coconut milk powder) are specialty items
 usually bought from an outdoor retailer or online bulk-foods seller

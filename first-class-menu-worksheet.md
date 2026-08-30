@@ -6,8 +6,8 @@
   not read it off a page.
 - Don't copy from a page's "Real Food Check" — read the **Ingredients**
   list yourself and work it out.
-- Bring the finished worksheet to whoever signs off (usually a senior
-  scout or your Scoutmaster — First Class doesn't use merit badge
+- Bring the finished worksheet to the senior scout who signs off on this
+  requirement (not a merit badge counselor — First Class doesn't use
   counselors).
 
 > **Requirement 2a, as written:** "Help plan a menu for one of the above
@@ -36,8 +36,8 @@
 
 ## 2. Pick your three meals
 
-- Browse [README.md](README.md#browse-the-menu) or
-  [backpacking/README.md](backpacking/README.md#browse-the-menu) and pick
+- Browse [OVERVIEW.md](OVERVIEW.md#browse-the-menu) or
+  [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu) and pick
   one breakfast, one lunch, one dinner.
 - **At least 2 of the 3 must require cooking** — a "No-Cook" page doesn't
   count.
@@ -58,8 +58,7 @@
 - Check each meal's Diet/Allergen tags against that list — does it work
   for everyone as written? ________________________________________________
 - If a substitution is needed, name it and where it happens (e.g. "Priya
-  gets the vegetarian base, no meat boost in her bowl"):
-  ________________________________________________
+  gets the vegetarian base, no meat boost in her bowl"): ________________________________________________
 
 ## 4. Sort the ingredients into food groups yourself
 
@@ -71,17 +70,23 @@
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
 | | | | | |
+| | | | | |
+| | | | | |
 
 **Lunch — ____________________**
 
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
 | | | | | |
+| | | | | |
+| | | | | |
 
 **Dinner — ____________________**
 
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
+| | | | | |
+| | | | | |
 | | | | | |
 
 Across all three meals:
@@ -95,9 +100,9 @@ Across all three meals:
 
 **Backpacking trip:**
 
-- Look up your three picks in
-  [backpacking/README.md](backpacking/README.md#browse-the-menu) and
-  record the calorie/protein figures.
+- Look up your three picks in the Backpacking Overview document (ask
+  your leader for a copy if you don't have one) and record the
+  calorie/protein figures there.
 
 | Meal | Calories | Protein |
 |---|---|---|
@@ -106,17 +111,15 @@ Across all three meals:
 | Dinner | | |
 | **Total** | | |
 
-- Target ([backpacking/README.md](backpacking/README.md)): **2,600–2,900
-  kcal and 90–100g protein/day**. In range? ________________
+- The Backpacking Overview targets **2,600–2,900 kcal and 90–100g
+  protein/day**. In range? ________________
 - If low, what would you add or swap — bigger portion, protein boost, or
   a snack from the snacks folder? ________________________________________________
 
 **Front-country trip** (no calorie table — answer in your own words):
 
-- Real protein source at each meal, not just a side dish?
-  ________________________________________________
-- Vegetable or fruit at more than one meal?
-  ________________________________________________
+- Real protein source at each meal, not just a side dish? ________________________________________________
+- Vegetable or fruit at more than one meal? ________________________________________________
 - Given your activity level from Section 1, does this menu feel like
   enough food? ________________________________________________
 
@@ -126,13 +129,18 @@ Across all three meals:
   needs of *this* campout.
 - Use what you found in Sections 4–5 — explain *why* it works, don't just
   relist ingredients.
-- This is what you'll tell whoever signs off on this requirement.
+- This is what you'll tell the senior scout who signs off on this
+  requirement.
 
-________________________________________________
-________________________________________________
-________________________________________________
-________________________________________________
-________________________________________________
+Line 1: ________________________________________________
+
+Line 2: ________________________________________________
+
+Line 3: ________________________________________________
+
+Line 4: ________________________________________________
+
+Line 5: ________________________________________________
 
 ---
 
@@ -152,5 +160,6 @@ worksheet:
 ---
 
 *Requirement text above is quoted from the troop's copy of the official
-Scouts BSA requirements. Double-check current wording with whoever signs
-off on this requirement, since official text can be revised.*
+Scouts BSA requirements. Double-check current wording with the senior
+scout who signs off on this requirement, since official text can be
+revised.*

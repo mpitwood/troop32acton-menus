@@ -3,7 +3,7 @@
 **This is your worksheet, not a recipe page.**
 
 - Requirement 6 plans and cooks trail food for 3–5 people —
-  [backpacking/README.md](backpacking/README.md#browse-the-menu) is built for exactly this:
+  [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu) is built for exactly this:
   lightweight, shelf-stable, no resupply needed.
 - Don't copy answers from a page's "Real Food Check" — read the
   **Ingredients** list yourself and work it out.
@@ -33,13 +33,12 @@
   allergy, egg allergy, etc.): ________________________________________
 - For every meal picked below, check its Diet/Allergen tags against that
   list. Anyone need a substitution called out? See
-  [backpacking/README.md](backpacking/README.md)'s vegetarian policy for
-  how bases and boosts split by ingredient rather than by whole dish.
-  ________________________________________________
+  [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md)'s vegetarian policy for
+  how bases and boosts split by ingredient rather than by whole dish. ________________________________________________
 
 ## 2. Pick your menu — one breakfast, one lunch, one dinner, one snack
 
-From [backpacking/README.md](backpacking/README.md#browse-the-menu):
+From [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu):
 
 | Meal | Page you picked | Weight (oz/serving) | Cook method |
 |---|---|---|---|
@@ -59,14 +58,16 @@ From [backpacking/README.md](backpacking/README.md#browse-the-menu):
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
 | | | | | |
+| | | | | |
+| | | | | |
 
 ## 4. Weight, shopping list, and cost
 
 - Total weight per person per day (add up your four picks' weights):
-  ________________ (compare against [backpacking/README.md](backpacking/README.md)'s
+  ________________ (compare against [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md)'s
   under-2-lb/person/day target)
-- Shopping list with quantities (attach a separate sheet if it's long):
-  ________________________________________________
+- **Shopping list with quantities: use a separate sheet of paper** and
+  attach it to this worksheet.
 - Per-meal costs (each page has a **Cost Estimate** section): ________________
 
 ## 5. Repackaging plan
@@ -76,26 +77,42 @@ From [backpacking/README.md](backpacking/README.md#browse-the-menu):
 - What gets stripped out of store packaging before the trip (boxes,
   outer sleeves) and repacked into what (zip-top bags, per-person
   portions)? ________________________________________________
-- How does this cut weight, bulk, and trash all at once?
-  ________________________________________________
+- How does this cut weight, bulk, and trash all at once? ________________________________________________
 
 ## 6. Cook, serve, evaluate
 
 - Which two meals and one snack did you actually prepare and serve on
   the trip? ________________________________________________
-- Which one was cooked over fire or trail stove, and who supervised?
-  ________________________________________________
-- Feedback from those you served: ________________________________________
-- Your own evaluation — what worked, what would you change?
-  ________________________________________________
-- Notes to discuss with your counselor: ________________________________
+- Which one was cooked over fire or trail stove, and who supervised? ________________________________________________
+
+**Feedback from those you served** — one row per person, add more rows
+by hand if your group is bigger than the table:
+
+| Person | What they liked | What they'd change |
+|---|---|---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+**Your own evaluation** — what worked, what would you change?
+
+Line 1: ________________________________________________
+
+Line 2: ________________________________________________
+
+**Notes to discuss with your counselor:**
+
+Line 1: ________________________________________________
+
+Line 2: ________________________________________________
 
 ## 7. Dividing the load, cleanup, and food storage
 
 - How did you divide food and cooking supplies equitably among the
-  group, so no one carries a disproportionate share?
-  ________________________________________________
-- Cleanup plan (see [backpacking/README.md](backpacking/README.md)'s
+  group, so no one carries a disproportionate share? ________________________________________________
+- Cleanup plan (see [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md)'s
   packaging/trash section — everything gets carried out): ________________
 - Animal-safe food storage plan for overnight (bear bag, canister,
   hanging, etc.): ________________________________________________

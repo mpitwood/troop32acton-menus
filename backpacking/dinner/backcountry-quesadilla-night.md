@@ -86,7 +86,7 @@ cold wrap if you're not.
 Base: ~$2.13/scout (tortillas ~$0.70, cheese powder ~$0.50, black bean
 flakes ~$0.60, TVP ~$0.18, veggie flakes ~$0.40, rounding adjustments
 included). Boost: ~$1.15 per meat-eating scout. Boston-area pricing —
-see [README.md](../README.md#pricing) for sourcing.
+see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

@@ -74,7 +74,7 @@ sandwiches only for scouts who want it.
 Base: ~$2.65/scout for 6 (bread ~$4.25, cheese ~$5.65, butter ~$0.75,
 soup ~$4.50). Ham boost: ~$0.70 per meat-eating scout (8 slices ~$4.75,
 split ~6-8 ways). Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

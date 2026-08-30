@@ -136,6 +136,16 @@ code { background: #f0ece1; padding: 0.1rem 0.3rem; border-radius: 3px; font-siz
 
 ul, ol { padding-left: 1.4rem; }
 
+/* worksheet pages: fill-in tables need room to actually write in by hand,
+   on screen or on paper -- the default table padding is sized for dense
+   reference tables (recipe indexes), not a blank cell someone writes in */
+.worksheet-page table td, .worksheet-page table th {
+  padding: 0.9rem 0.6rem;
+}
+.worksheet-page table td:empty {
+  height: 2.5em;
+}
+
 .worksheet-list { margin: 0.5rem 0 1.5rem; }
 
 /* recipe browser */

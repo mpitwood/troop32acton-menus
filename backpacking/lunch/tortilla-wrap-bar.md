@@ -82,7 +82,7 @@ Meat build: ~$4.35/scout (tortillas ~$0.70, cheese ~$1.20, pepperoni
 ~$1.65, flakes ~$0.15, bar ~$1.50 [~1.65]). Vegetarian build: ~$3.90/
 scout (tortillas ~$0.70, cheese ~$1.20, hummus powder ~$0.53, flakes
 ~$0.15, bar ~$1.50). Boston-area pricing — see
-[README.md](../README.md#pricing) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes
 

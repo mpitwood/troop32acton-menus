@@ -93,7 +93,7 @@ Base: ~$2.95/scout for 6 (sweet potatoes ~$4.20, black beans ~$3, spices
 ~$1, bell pepper/onion ~$3.05, cheese ~$1.90, tortillas ~$4.40). Sausage
 boost: ~$0.85 per meat-eating scout (3/4 lb sausage ~$4.70, split ~5-6
 ways). Boston-area pricing — see
-[README.md](../../README.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
@@ -108,7 +108,7 @@ ways). Boston-area pricing — see
 - **Tenderfoot:** assist in preparing this meal.
 - **Second Class:** counts as the hot breakfast a scout cooks solo.
 - **First Class:** a strong example for explaining how a menu covers every
-  scout's diet from one shared base — see the README for how this ties to
+  scout's diet from one shared base — see the Overview for how this ties to
   the current RealFood.gov guidance referenced in the requirement.
 - **Cooking merit badge:** satisfies the camp stove cooking method
   requirement.
