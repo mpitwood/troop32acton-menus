@@ -3,7 +3,7 @@
 **This is your worksheet, not a recipe page.**
 
 - Requirement 5 plans and cooks for a patrol or group of up to 8 youth on
-  an actual campout — [INDEX.md](INDEX.md) is built for exactly this.
+  an actual campout — [README.md](README.md#browse-the-menu) is built for exactly this.
 - Don't copy answers from a page's "Real Food Check" — read the
   **Ingredients** list yourself and work it out.
 - Bring the finished worksheet to your merit badge counselor.
@@ -39,7 +39,7 @@
 
 Requirement 5d requires **four different meals, each using a specific
 method** — pick two breakfasts, one lunch, and one dinner from
-[INDEX.md](INDEX.md), then assign each to a method so all four are
+[README.md](README.md#browse-the-menu), then assign each to a method so all four are
 covered.
 
 | Meal | Page you picked | Method required | Method tag on the page matches? |
@@ -56,7 +56,7 @@ land on "2-burner stove," one lands on "Dutch oven," and one lands on
 
 ## 3. Pick a snack and a dessert
 
-Both prepared outdoors, from [INDEX.md](INDEX.md)'s snacks and desserts
+Both prepared outdoors, from [README.md](README.md#browse-the-menu)'s snacks and desserts
 sections.
 
 - Snack: ________________________

@@ -8,10 +8,9 @@ for that.
 
 ```
 food/
-  README.md              scout/leader-facing guide
+  README.md              scout/leader-facing guide + browsable front-country menu tables
   maintainer-notes.md     this file
   TEMPLATE.md             blank page to copy when adding a new recipe
-  INDEX.md                sortable table of every front-country page
   leader-answer-key.md    compiled Real Food Check answers, for leaders/counselors
   *-worksheet.md          rank/merit-badge worksheets (scout-facing)
   front-country/           car camping — coolers and car-transportable gear OK
@@ -21,7 +20,8 @@ food/
     sides-and-appetizers/
     desserts/
     snacks/
-  backpacking/              weight-critical menus, own README/INDEX/TEMPLATE
+  backpacking/              weight-critical menus
+    README.md                own guide + browsable menu tables, own TEMPLATE
     breakfast/
     lunch/
     dinner/
@@ -30,14 +30,20 @@ food/
   docs/                       generated website output — GitHub Pages serves this folder
 ```
 
+Front-country and backpacking each keep one combined README (guide +
+browsable menu tables) rather than a separate README/INDEX pair — having
+two documents for the same section was confusing to read.
+
 ## Adding a new recipe
 
 Copy [TEMPLATE.md](TEMPLATE.md) into the right `front-country/<category>/`
-folder, fill it in, and add a row to [INDEX.md](INDEX.md). For
+folder, fill it in, and add a row to the
+[Browse the menu](README.md#browse-the-menu) tables in README.md. For
 backpacking recipes, use [backpacking/TEMPLATE.md](backpacking/TEMPLATE.md)
-and [backpacking/INDEX.md](backpacking/INDEX.md) instead — different
-template, different index. Then rebuild the site (below) so the new page
-actually appears.
+and add a row to
+[backpacking/README.md](backpacking/README.md#browse-the-menu) instead —
+different template, different tables. Then rebuild the site (below) so
+the new page actually appears.
 
 ## Pricing methodology
 

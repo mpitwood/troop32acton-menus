@@ -3,7 +3,7 @@
 **This is your worksheet, not a recipe page.**
 
 - Requirement 6 plans and cooks trail food for 3–5 people —
-  [backpacking/INDEX.md](backpacking/INDEX.md) is built for exactly this:
+  [backpacking/README.md](backpacking/README.md#browse-the-menu) is built for exactly this:
   lightweight, shelf-stable, no resupply needed.
 - Don't copy answers from a page's "Real Food Check" — read the
   **Ingredients** list yourself and work it out.
@@ -39,7 +39,7 @@
 
 ## 2. Pick your menu — one breakfast, one lunch, one dinner, one snack
 
-From [backpacking/INDEX.md](backpacking/INDEX.md):
+From [backpacking/README.md](backpacking/README.md#browse-the-menu):
 
 | Meal | Page you picked | Weight (oz/serving) | Cook method |
 |---|---|---|---|

@@ -36,7 +36,7 @@
 
 - You need breakfast + lunch + dinner for 3 days, plus 1 dessert — 10
   items total.
-- [INDEX.md](INDEX.md) can help with ideas even though it's written for a
+- [README.md](README.md#browse-the-menu) can help with ideas even though it's written for a
   patrol at a campsite:
   - Scale portions down from a patrol of 6 to two people.
   - Swap cook method — Dutch oven → home oven, 2-burner stove → your

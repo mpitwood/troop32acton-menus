@@ -211,6 +211,86 @@ ul, ol { padding-left: 1.4rem; }
 }
 
 @media print {
-  .site-header, .site-footer, .browser { display: none; }
-  body { background: #fff; }
+  @page {
+    margin: 0.6in;
+  }
+
+  /* browsing chrome doesn't belong on paper */
+  .site-header, .site-footer, .browser, .hero {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+    font-size: 11pt;
+    line-height: 1.35;
+  }
+
+  .page {
+    max-width: none;
+    padding: 0;
+  }
+
+  /* plain black text -- no colored ink, and printed pages have no hover
+     state to distinguish a link from a heading anyway */
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  h1, h2, h3 {
+    color: #000;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+  h2 {
+    border-bottom-color: #000;
+  }
+
+  .crumb {
+    color: #000;
+  }
+
+  /* the on-screen table scrolls horizontally past the viewport; a printed
+     page has no scrollbar, so a wide menu table (8+ columns) would just
+     get clipped at the page edge instead. Force it back to a normal
+     block-level table that wraps cell text, and shrink the font a touch
+     to fit more of it on a Letter/A4 page. */
+  table {
+    display: table;
+    overflow: visible;
+    table-layout: auto;
+    font-size: 8.5pt;
+  }
+  td, th {
+    word-break: break-word;
+  }
+
+  /* accent fills print as gray blocks on a B&W printer and cost ink on a
+     color one for no benefit -- borders alone carry the structure */
+  th {
+    background: none;
+    border-bottom-width: 2px;
+  }
+  blockquote {
+    background: none;
+    border-left-color: #000;
+  }
+  code {
+    background: none;
+    border: 1px solid #ccc;
+  }
+
+  /* keep a table, a blockquote, or a list item from splitting across a
+     page break where possible -- a shopping-list table cut mid-row is
+     useless at the store */
+  table, blockquote, tr, li {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  p, li {
+    orphans: 3;
+    widows: 3;
+  }
 }

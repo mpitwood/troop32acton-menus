@@ -27,8 +27,9 @@
 
 ## 2. Pick a hot meal
 
-- Browse [INDEX.md](INDEX.md) or [backpacking/INDEX.md](backpacking/INDEX.md)
-  and pick one breakfast or lunch page.
+- Browse [README.md](README.md#browse-the-menu) or
+  [backpacking/README.md](backpacking/README.md#browse-the-menu) and pick
+  one breakfast or lunch page.
 - Must be **hot** — a cold meal doesn't count:
   - Front-country: tagged **2-burner stove**, **Dutch oven**, or **Foil
     pack / coals** — not "No-Cook."

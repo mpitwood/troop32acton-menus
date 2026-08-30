@@ -31,15 +31,28 @@ function githubSlug(text, seen) {
   return slug;
 }
 
+// Recipe pages write "~5.3 oz" / "~613 kcal" style approximations, often
+// several to a line. marked's GFM "del" (strikethrough) rule matches a
+// single "~" against the *next* single "~" it finds -- not just proper
+// "~~double~~" syntax -- so two unrelated approximations on the same line
+// were getting swallowed into a <del> span. Escaping every literal "~"
+// keeps the character but stops marked from reading it as syntax; this
+// repo never uses real strikethrough, so this is safe everywhere.
+function escapeTildes(md) {
+  return md.replace(/~/g, '\\~');
+}
+
 function renderMarkdownWithHeadingIds(md) {
   const seen = new Set();
   const renderer = new marked.Renderer();
   renderer.heading = (text, level, raw) => {
-    const plain = typeof text === 'string' ? text : raw;
-    const id = githubSlug(plain, seen);
+    // `raw` is the plain heading text; `text` is HTML-escaped (an
+    // apostrophe becomes "&#39;"), which corrupted slugs like
+    // "Sample day's menu" into "sample-day39s-menu".
+    const id = githubSlug(raw, seen);
     return `<h${level} id="${id}">${text}</h${level}>\n`;
   };
-  return marked.parse(md, { renderer });
+  return marked.parse(escapeTildes(md), { renderer });
 }
 
 // ---------------------------------------------------------------------
@@ -50,24 +63,11 @@ function readMd(relPath) {
   return fs.readFileSync(path.join(ROOT, relPath), 'utf8');
 }
 
-function rewriteLinks(md, relSrcMd) {
-  // The root INDEX.md (front-country) and backpacking/INDEX.md would both
-  // build to "INDEX.html" -- identical to "index.html" (the new homepage)
-  // on a case-insensitive filesystem (Windows/macOS) and confusing even on
-  // a case-sensitive one. Rename the front-country one before swapping
-  // extensions. A bare "INDEX.md" link means "my own directory's index",
-  // so only rewrite it when the *source* file isn't itself under
-  // backpacking/ -- files inside backpacking/ that say "INDEX.md" mean
-  // their own sibling index, not the front-country one.
-  const isBackpackingSource = relSrcMd.startsWith('backpacking/');
-  let out = md;
-  if (!isBackpackingSource) {
-    out = out.replace(/(?<!backpacking\/)\bINDEX\.md\b/g, 'front-country-index.md');
-  }
+function rewriteLinks(md) {
   // internal links point at .md files; the site serves .html instead.
   // (anchor chars restricted to word/hyphen so this can't run past a "]"
   // into the visible link label when text and href both mention a path)
-  return out.replace(/\.md(#[\w-]*)?\)/g, '.html$1)');
+  return md.replace(/\.md(#[\w-]*)?\)/g, '.html$1)');
 }
 
 function extractTitle(md) {
@@ -121,9 +121,8 @@ function depthPrefix(relOutPath) {
 
 const NAV_ITEMS = [
   ['index.html', 'Home'],
-  ['front-country-index.html', 'Front-Country Index'],
-  ['backpacking/INDEX.html', 'Backpacking Index'],
-  ['README.html', 'Full Guide'],
+  ['README.html', 'Front-Country Guide'],
+  ['backpacking/README.html', 'Backpacking Guide'],
 ];
 
 const WORKSHEETS = [
@@ -198,7 +197,7 @@ function writeOut(relOutPath, html) {
 function buildDocPage(relSrcMd, relOutPath, { linkedFromNav = true } = {}) {
   const raw = readMd(relSrcMd);
   const title = extractTitle(raw);
-  const bodyMd = rewriteLinks(stripTitleLine(raw), relSrcMd);
+  const bodyMd = rewriteLinks(stripTitleLine(raw));
   const bodyHtml = `<h1>${escapeHtml(title)}</h1>\n` + renderMarkdownWithHeadingIds(bodyMd);
   const html = layout({ title, bodyHtml, relOutPath });
   writeOut(relOutPath, html);
@@ -214,7 +213,7 @@ function buildRecipePage(relSrcMd, relOutPath, location, category) {
   const title = extractTitle(raw);
   const summary = extractSummary(raw);
   const meta = parseRecipeMeta(summary);
-  const bodyMd = rewriteLinks(stripTitleLine(raw), relSrcMd);
+  const bodyMd = rewriteLinks(stripTitleLine(raw));
   const bodyHtml = `<p class="crumb">${location} &rsaquo; ${category}</p>\n<h1>${escapeHtml(title)}</h1>\n` + renderMarkdownWithHeadingIds(bodyMd);
   const description = summary ? summary.replace(/·/g, '—').slice(0, 200) : '';
   const html = layout({ title, bodyHtml, relOutPath, description });
@@ -272,9 +271,7 @@ function main() {
 
   // root docs
   buildDocPage('README.md', 'README.html');
-  buildDocPage('INDEX.md', 'front-country-index.html');
   buildDocPage('backpacking/README.md', 'backpacking/README.html');
-  buildDocPage('backpacking/INDEX.md', 'backpacking/INDEX.html');
   for (const [file] of WORKSHEETS) {
     buildDocPage(file.replace(/\.html$/, '.md'), file);
   }
@@ -334,10 +331,9 @@ function buildHomepage(recipes) {
 <p class="lede">A browsable library of pre-planned camp meals — ${recipes.length}
 recipes across front-country (car camping) and backpacking. Pick a meal,
 copy the ingredient list onto a shopping list, and go. See the
-<a href="README.html">Full Guide</a> for how the whole system works, or the
-<a href="front-country-index.html">Front-Country Index</a> and
-<a href="backpacking/INDEX.html">Backpacking Index</a> for the plain
-browsable tables.</p>
+<a href="README.html">Front-Country Guide</a> or the
+<a href="backpacking/README.html">Backpacking Guide</a> for the full
+system plus plain browsable tables, or use the search/filter below.</p>
 
 <p class="lede">Working on a rank or merit badge requirement? Start with a
 worksheet instead of a recipe page — they walk you through the same

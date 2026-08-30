@@ -36,8 +36,9 @@
 
 ## 2. Pick your three meals
 
-- Browse [INDEX.md](INDEX.md) or [backpacking/INDEX.md](backpacking/INDEX.md)
-  and pick one breakfast, one lunch, one dinner.
+- Browse [README.md](README.md#browse-the-menu) or
+  [backpacking/README.md](backpacking/README.md#browse-the-menu) and pick
+  one breakfast, one lunch, one dinner.
 - **At least 2 of the 3 must require cooking** — a "No-Cook" page doesn't
   count.
 
@@ -94,8 +95,9 @@ Across all three meals:
 
 **Backpacking trip:**
 
-- Look up your three picks in [backpacking/INDEX.md](backpacking/INDEX.md)
-  and record the calorie/protein figures.
+- Look up your three picks in
+  [backpacking/README.md](backpacking/README.md#browse-the-menu) and
+  record the calorie/protein figures.
 
 | Meal | Calories | Protein |
 |---|---|---|
