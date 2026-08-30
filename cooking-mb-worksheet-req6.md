@@ -2,15 +2,16 @@
 
 **This is your worksheet, not a recipe page.**
 
-- Requirement 6 plans and cooks trail food for 3–5 people —
-  [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu) is built for exactly this:
-  lightweight, shelf-stable, no resupply needed.
+- Requirement 6 plans and cooks trail food for 3–5 people — the
+  Backpacking Overview document (find it through the menu at the top of
+  the page) is built for exactly this: lightweight, shelf-stable, no
+  resupply needed.
 - Don't copy answers from a page's "Real Food Check" — read the
   **Ingredients** list yourself and work it out.
 - Bring the finished worksheet to your merit badge counselor.
 
 > **Requirement 6 (Trail and Backpacking Meals), as written at
-> scouting.org:**
+> scouting.org (current as of 2026):**
 >
 > (a) Using the MyPlate food guide or the current USDA nutrition model,
 > plan a day of meals for trail hiking or backpacking that includes one
@@ -55,13 +56,13 @@
 - List anyone with a food allergy, intolerance, or diet (vegetarian, nut
   allergy, egg allergy, etc.): ________________________________________
 - For every meal picked below, check its Diet/Allergen tags against that
-  list. Anyone need a substitution called out? See
-  [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md)'s vegetarian policy for
-  how bases and boosts split by ingredient rather than by whole dish. ________________________________________________
+  list. Anyone need a substitution called out? See the Backpacking
+  Overview document's vegetarian policy for how bases and boosts split
+  by ingredient rather than by whole dish. ________________________________________________
 
 ## 2. Pick your menu — one breakfast, one lunch, one dinner, one snack
 
-From [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu):
+From the Backpacking Overview document:
 
 | Meal | Page you picked | Weight (oz/serving) | Cook method |
 |---|---|---|---|
@@ -93,7 +94,7 @@ From [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu):
 ## 4. Weight, shopping list, and cost
 
 - Total weight per person per day (add up your four picks' weights):
-  ________________ (compare against [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md)'s
+  ________________ (compare against the Backpacking Overview document's
   under-2-lb/person/day target)
 - **Shopping list with quantities: use a separate sheet of paper** and
   attach it to this worksheet.
@@ -141,14 +142,14 @@ Line 2: ________________________________________________
 
 - How did you divide food and cooking supplies equitably among the
   group, so no one carries a disproportionate share? ________________________________________________
-- Cleanup plan (see [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md)'s
-  packaging/trash section — everything gets carried out): ________________
+- Cleanup plan (see the Backpacking Overview document's packaging/trash
+  section — everything gets carried out): ________________
 - Animal-safe food storage plan for overnight (bear bag, canister,
   hanging, etc.): ________________________________________________
 
 ---
 
 *Requirement text above is quoted verbatim from the Cooking merit badge
-requirements at scouting.org. Requirements can be revised — confirm with
-your counselor that this is still the current wording before you rely on
-it.*
+requirements at scouting.org, confirmed current as of 2026. Requirements
+can be revised — confirm with your counselor that this is still the
+current wording before you rely on it.*

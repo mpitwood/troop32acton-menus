@@ -3,12 +3,14 @@
 **This is your worksheet, not a recipe page.**
 
 - Requirement 5 plans and cooks for a patrol or group of up to 8 youth on
-  an actual campout — [OVERVIEW.md](OVERVIEW.md#browse-the-menu) is built for exactly this.
+  an actual campout — the Front-Country Overview document (find it
+  through the menu at the top of the page) is built for exactly this.
 - Don't copy answers from a page's "Real Food Check" — read the
   **Ingredients** list yourself and work it out.
 - Bring the finished worksheet to your merit badge counselor.
 
-> **Requirement 5 (Camp Cooking), as written at scouting.org:**
+> **Requirement 5 (Camp Cooking), as written at scouting.org (current as
+> of 2026):**
 >
 > (a) Using the MyPlate food guide or the current USDA nutrition model,
 > plan a menu that includes four meals, one snack, and one dessert for
@@ -69,9 +71,9 @@
 ## 2. Pick four main meals — one per cooking method
 
 Requirement 5d requires **four different meals, each using a specific
-method** — pick two breakfasts, one lunch, and one dinner from
-[OVERVIEW.md](OVERVIEW.md#browse-the-menu), then assign each to a method so all four are
-covered.
+method** — pick two breakfasts, one lunch, and one dinner from the
+Front-Country Overview document, then assign each to a method so all
+four are covered.
 
 | Meal | Page you picked | Method required | Method tag on the page matches? |
 |---|---|---|---|
@@ -87,8 +89,8 @@ land on "2-burner stove," one lands on "Dutch oven," and one lands on
 
 ## 3. Pick a snack and a dessert
 
-Both prepared outdoors, from [OVERVIEW.md](OVERVIEW.md#browse-the-menu)'s snacks and desserts
-sections.
+Both prepared outdoors, from the Front-Country Overview document's
+snacks and desserts sections.
 
 - Snack: ________________________
 - Dessert: ________________________
@@ -165,6 +167,6 @@ Line 2: ________________________________________________
 ---
 
 *Requirement text above is quoted verbatim from the Cooking merit badge
-requirements at scouting.org. Requirements can be revised — confirm with
-your counselor that this is still the current wording before you rely on
-it.*
+requirements at scouting.org, confirmed current as of 2026. Requirements
+can be revised — confirm with your counselor that this is still the
+current wording before you rely on it.*

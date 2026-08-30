@@ -138,7 +138,14 @@ ul, ol { padding-left: 1.4rem; }
 
 /* worksheet pages: fill-in tables need room to actually write in by hand,
    on screen or on paper -- the default table padding is sized for dense
-   reference tables (recipe indexes), not a blank cell someone writes in */
+   reference tables (recipe indexes), not a blank cell someone writes in.
+   table-layout:fixed also stops short headers (Protein, Grains, Dairy)
+   from getting squeezed thinner than long ones (Vegetables/Fruit,
+   Other/processed) under the default content-based auto layout -- fixed
+   splits the width evenly across all columns instead. */
+.worksheet-page table {
+  table-layout: fixed;
+}
 .worksheet-page table td, .worksheet-page table th {
   padding: 0.9rem 0.6rem;
 }

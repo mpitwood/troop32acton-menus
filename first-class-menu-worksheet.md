@@ -35,9 +35,9 @@
 
 ## 2. Pick your three meals
 
-- Browse [OVERVIEW.md](OVERVIEW.md#browse-the-menu) or
-  [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu) and pick
-  one breakfast, one lunch, one dinner.
+- Browse the Front-Country Overview or the Backpacking Overview document
+  (find both through the menu at the top of the page) and pick one
+  breakfast, one lunch, one dinner.
 - **At least 2 of the 3 must require cooking** — a "No-Cook" page doesn't
   count.
 
