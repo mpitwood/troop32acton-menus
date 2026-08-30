@@ -1,0 +1,7 @@
+node_modules/
+.claude/
+
+# Official BSA requirement PDFs and working source files - not for public redistribution
+First-Class.pdf
+Second-Class-v2.pdf
+import/

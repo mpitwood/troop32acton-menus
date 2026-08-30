@@ -1,0 +1,12 @@
+{
+  "name": "troop-menu-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static site build for the Troop 32 Acton menu repository (GitHub Pages, served from /docs).",
+  "scripts": {
+    "build": "node site/build.js"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  }
+}

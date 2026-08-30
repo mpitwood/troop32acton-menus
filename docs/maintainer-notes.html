@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maintainer Notes · Troop 32 Acton Menu Book</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand" href="index.html">Troop 32 Acton &middot; Menu Book</a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="front-country-index.html">Front-Country Index</a>
+      <a href="backpacking/INDEX.html">Backpacking Index</a>
+      <a href="README.html">Full Guide</a>
+      <span class="nav-group">Worksheets
+        <span class="nav-dropdown">
+          <a href="second-class-menu-worksheet.html">Second Class (req 2e)</a>
+      <a href="first-class-menu-worksheet.html">First Class (req 2a)</a>
+      <a href="cooking-mb-worksheet-req4.html">Cooking MB — req 4 (home)</a>
+      <a href="cooking-mb-worksheet-req5.html">Cooking MB — req 5 (camp)</a>
+      <a href="cooking-mb-worksheet-req6.html">Cooking MB — req 6 (trail)</a>
+        </span>
+      </span>
+    </nav>
+  </div>
+</header>
+<main class="page">
+<h1>Maintainer Notes</h1>
+<p>This page is for whoever maintains the repo and the website it builds —
+not needed to plan a menu or work a requirement. See <a href="README.html">README.md</a>
+for that.</p>
+<h2 id="folder-structure">Folder structure</h2>
+<pre><code>food/
+  README.md              scout/leader-facing guide
+  maintainer-notes.md     this file
+  TEMPLATE.md             blank page to copy when adding a new recipe
+  front-country-index.md                sortable table of every front-country page
+  leader-answer-key.md    compiled Real Food Check answers, for leaders/counselors
+  *-worksheet.md          rank/merit-badge worksheets (scout-facing)
+  front-country/           car camping — coolers and car-transportable gear OK
+    breakfast/
+    lunch/
+    dinner/
+    sides-and-appetizers/
+    desserts/
+    snacks/
+  backpacking/              weight-critical menus, own README/INDEX/TEMPLATE
+    breakfast/
+    lunch/
+    dinner/
+    snacks/
+  site/                      website build tooling (see &quot;Building the website&quot; below)
+  docs/                       generated website output — GitHub Pages serves this folder
+</code></pre>
+<h2 id="adding-a-new-recipe">Adding a new recipe</h2>
+<p>Copy <a href="TEMPLATE.html">TEMPLATE.md</a> into the right <code>front-country/&lt;category&gt;/</code>
+folder, fill it in, and add a row to <a href="front-country-index.html">front-country-index.md</a>. For
+backpacking recipes, use <a href="backpacking/TEMPLATE.html">backpacking/TEMPLATE.md</a>
+and <a href="backpacking/INDEX.html">backpacking/INDEX.md</a> instead — different
+template, different index. Then rebuild the site (below) so the new page
+actually appears.</p>
+<h2 id="pricing-methodology">Pricing methodology</h2>
+<p>Cost estimates are built for a <strong>Boston-area (Greater Boston) grocery
+trip</strong>, not a national average — this troop is in a high-cost-of-living
+area and national figures were running noticeably low.</p>
+<ul>
+<li><strong>Directly sourced Boston prices</strong> (via <a href="https://www.numbeo.com/food-prices/in/Boston">Numbeo Boston food
+prices</a>, a
+crowd-sourced/aggregated price index, checked July 2026): milk $4.65/gal,
+eggs $5.75/dozen, cheese ~$7/lb, chicken (breast/fillet) $6.35/lb, beef
+(round/steak-cut) $8.55/lb, bread ~$4/loaf, rice $3.00/lb, apples
+$3.40/lb, bananas $0.96/lb, tomatoes $3.25/lb, potatoes $2.00/lb, onions
+$1.85/lb, lettuce $2.80/head.</li>
+<li><strong>Everything else</strong> (bacon, sausage, deli meat, canned goods, pasta,
+tortillas, box mixes, most produce not listed above, pantry items) is a
+<strong>national average estimate</strong> (rough figures from general knowledge, not
+a live price check) <strong>scaled up ~1.35x</strong> — the Boston-vs-national premium
+observed across the sourced staples above ran from about 1.27x (beef) to
+1.52x (chicken), so 1.35x is a middle-of-the-road estimate applied
+consistently rather than a per-item lookup.</li>
+<li>Eggs are a known exception: the sourced Boston price was running about
+2.7x the national figure at the time of the check, likely reflecting a
+temporary regional supply issue rather than a stable premium — treat the
+egg-heavy recipes&#39; costs as the most likely to have moved since.</li>
+<li><strong>None of this is a live per-store price check.</strong> It&#39;s a planning-stage
+estimate, not a receipt. Before finalizing a shopping budget, a patrol
+should sanity-check a few line items against Market Basket, Stop &amp; Shop,
+or wherever they&#39;re actually shopping — prices vary by store even within
+Boston, and grocery inflation was running ~4% year-over-year in the
+Boston area as of mid-2026.</li>
+</ul>
+<h2 id="building-the-website">Building the website</h2>
+<p>The site under <code>docs/</code> is generated from the Markdown files — the Markdown
+stays the single source of truth. All the build tooling lives in <code>site/</code>,
+away from the recipe content:</p>
+<pre><code>site/
+  build.js       Node build script — reads every .md file, writes docs/
+  style.css      site stylesheet
+  filter.js      client-side recipe search/filter, used on the homepage
+  images/        source images (build.js copies these into docs/assets/images/)
+</code></pre>
+<p>To rebuild after editing any <code>.md</code> file, adding a recipe, or changing
+<code>site/</code>:</p>
+<pre><code>npm install   # first time only
+npm run build
+</code></pre>
+<p>That regenerates <code>docs/</code> from scratch. Commit and push the result —
+GitHub Pages is configured to serve straight from the <code>docs/</code> folder on
+<code>main</code>, no CI build step involved.</p>
+<p>A few pages are deliberately <strong>not</strong> linked from the site&#39;s main
+navigation, on purpose:</p>
+<ul>
+<li><code>leader-answer-key.md</code> — linked once, from the bottom of the published
+README, not from the nav or homepage. It compiles the same Real Food
+Check content that&#39;s already public on every recipe page, so this isn&#39;t
+real access control — it&#39;s just not one click away from a scout
+browsing the site.</li>
+<li><code>maintainer-notes.md</code> (this file) — linked once, from the bottom of the
+published README.</li>
+<li><code>TEMPLATE.md</code> / <code>backpacking/TEMPLATE.md</code> — built and linked from this
+page, but not from the main nav.</li>
+</ul>
+<p>The two official BSA requirement PDFs (<code>First-Class.pdf</code>,
+<code>Second-Class-v2.pdf</code>) and the <code>import/</code> folder are intentionally excluded
+from git via <code>.gitignore</code> — they&#39;re either copyrighted BSA material or raw
+working files, not meant for a public repo.</p>
+
+</main>
+<footer class="site-footer">
+  <p>Menu-planning reference for Troop 32 Acton, not a substitute for
+  reading the current requirements at scouting.org. Source Markdown lives
+  in the project repository.</p>
+</footer>
+</body>
+</html>

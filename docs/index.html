@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home · Troop 32 Acton Menu Book</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand" href="index.html">Troop 32 Acton &middot; Menu Book</a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="front-country-index.html">Front-Country Index</a>
+      <a href="backpacking/INDEX.html">Backpacking Index</a>
+      <a href="README.html">Full Guide</a>
+      <span class="nav-group">Worksheets
+        <span class="nav-dropdown">
+          <a href="second-class-menu-worksheet.html">Second Class (req 2e)</a>
+      <a href="first-class-menu-worksheet.html">First Class (req 2a)</a>
+      <a href="cooking-mb-worksheet-req4.html">Cooking MB — req 4 (home)</a>
+      <a href="cooking-mb-worksheet-req5.html">Cooking MB — req 5 (camp)</a>
+      <a href="cooking-mb-worksheet-req6.html">Cooking MB — req 6 (trail)</a>
+        </span>
+      </span>
+    </nav>
+  </div>
+</header>
+<main class="page">
+
+<figure class="hero">
+  <img src="assets/images/hero-dutch-oven.jpg" alt="A dutch oven meal cooking over campfire coals">
+  <figcaption>Photo: vastateparksstaff, <a href="https://commons.wikimedia.org/wiki/File:Campfire_Cooking-_Steak_Dinner-_smashed_potatoes_cooking_in_the_dutch_oven_ksu_(9201699045).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption>
+</figure>
+<h1>Troop 32 Acton Menu Book</h1>
+<p class="lede">A browsable library of pre-planned camp meals — 51
+recipes across front-country (car camping) and backpacking. Pick a meal,
+copy the ingredient list onto a shopping list, and go. See the
+<a href="README.html">Full Guide</a> for how the whole system works, or the
+<a href="front-country-index.html">Front-Country Index</a> and
+<a href="backpacking/INDEX.html">Backpacking Index</a> for the plain
+browsable tables.</p>
+
+<p class="lede">Working on a rank or merit badge requirement? Start with a
+worksheet instead of a recipe page — they walk you through the same
+food-group and nutrition reasoning yourself, rather than reading it off a
+page:</p>
+<ul class="worksheet-list">
+  <li><a href="second-class-menu-worksheet.html">Second Class — requirement 2e</a></li>
+  <li><a href="first-class-menu-worksheet.html">First Class — requirement 2a</a></li>
+  <li><a href="cooking-mb-worksheet-req4.html">Cooking merit badge — requirement 4 (home cooking)</a></li>
+  <li><a href="cooking-mb-worksheet-req5.html">Cooking merit badge — requirement 5 (camp cooking)</a></li>
+  <li><a href="cooking-mb-worksheet-req6.html">Cooking merit badge — requirement 6 (trail cooking)</a></li>
+</ul>
+
+<section class="browser">
+  <h2>Browse recipes</h2>
+  <div class="filters">
+    <input id="f-search" type="search" placeholder="Search titles...">
+    <select id="f-location">
+      <option value="">Any trip type</option>
+      <option value="Front-Country">Front-Country</option>
+      <option value="Backpacking">Backpacking</option>
+    </select>
+    <select id="f-meal">
+      <option value="">Any meal</option>
+      <option value="Any meal">Any meal</option>
+      <option value="Breakfast">Breakfast</option>
+      <option value="Dinner">Dinner</option>
+      <option value="Dinner (dessert)">Dinner (dessert)</option>
+      <option value="Lunch">Lunch</option>
+    </select>
+    <select id="f-method">
+      <option value="">Any cook method</option>
+      <option value="2-Burner Stove">2-Burner Stove</option>
+      <option value="Boil-and-Steep">Boil-and-Steep</option>
+      <option value="Boil-and-Steep (for the base filling)">Boil-and-Steep (for the base filling)</option>
+      <option value="Cold-Soak">Cold-Soak</option>
+      <option value="Dutch Oven">Dutch Oven</option>
+      <option value="Foil Pack/Coals">Foil Pack/Coals</option>
+      <option value="No-Cook">No-Cook</option>
+      <option value="Pie Iron/Coals">Pie Iron/Coals</option>
+      <option value="Simmer (short)">Simmer (short)</option>
+    </select>
+    <label><input type="checkbox" id="f-nutfree"> Nut-free only</label>
+    <label><input type="checkbox" id="f-eggfree"> Egg-free only</label>
+    <label><input type="checkbox" id="f-veg"> Vegetarian/vegan-friendly only</label>
+  </div>
+  <p id="f-count" class="f-count"></p>
+  <div id="f-results" class="recipe-grid"></div>
+</section>
+
+</main>
+<footer class="site-footer">
+  <p>Menu-planning reference for Troop 32 Acton, not a substitute for
+  reading the current requirements at scouting.org. Source Markdown lives
+  in the project repository.</p>
+</footer>
+<script src="assets/recipes-data.js"></script>
+<script src="assets/filter.js"></script>
+</body>
+</html>
