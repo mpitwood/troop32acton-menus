@@ -7,8 +7,7 @@
 - Don't copy from a page's "Real Food Check" — read the **Ingredients**
   list yourself and work it out.
 - Bring the finished worksheet to the senior scout who signs off on this
-  requirement (not a merit badge counselor — First Class doesn't use
-  counselors).
+  requirement.
 
 > **Requirement 2a, as written:** "Help plan a menu for one of the above
 > campouts that includes at least one breakfast, one lunch, and one

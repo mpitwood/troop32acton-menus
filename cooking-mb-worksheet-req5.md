@@ -8,22 +8,53 @@
   **Ingredients** list yourself and work it out.
 - Bring the finished worksheet to your merit badge counselor.
 
-> **Requirement 5, as summarized from scouting.org** (paraphrased — see
-> the caveat at the bottom):
+> **Requirement 5 (Camp Cooking), as written at scouting.org:**
 >
-> - Plan a menu for a patrol/group of up to 8 youth: 2 breakfasts, 1
->   lunch, 1 dinner, plus 1 snack and 1 dessert, accounting for allergies
->   and food safety.
-> - Create or adjust recipes for the group size; build a shopping list
->   and budget. Discuss the plan with your counselor.
-> - Cook the four main meals with specific methods: 2 on a camp/backpacking
->   stove, 1 in a skillet or Dutch oven over campfire coals, 1 in a foil
->   pack or on a skewer.
-> - Prepare the snack and dessert outdoors too.
-> - Get feedback, evaluate the meals yourself, discuss improvements with
->   your counselor.
-> - Lead cleanup of equipment, utensils, and the cooking site; discuss
->   how you followed the Outdoor Code and Leave No Trace.
+> (a) Using the MyPlate food guide or the current USDA nutrition model,
+> plan a menu that includes four meals, one snack, and one dessert for
+> your patrol (or a similar size group of up to eight youth, including
+> you) on a camping trip. These four meals must include two breakfasts,
+> one lunch, and one dinner. Additionally, you must plan one snack and
+> one dessert. Your menus should include enough food for each person,
+> keeping in mind any special needs (such as food allergies) and how you
+> keep your foods safe and free from cross-contamination. List the
+> equipment and utensils needed to prepare and serve these meals.
+>
+> (b) Find or create recipes for the four meals, the snack, and the
+> dessert you have planned. Adjust menu items in the recipes for the
+> number to be served. Create a shopping list and budget to determine the
+> per-person cost.
+>
+> (c) Share and discuss your menu plans and shopping list with your
+> counselor.
+>
+> (d) In the outdoors, using your menu plans and recipes for this
+> requirement, cook two of the four meals you planned using either a camp
+> stove OR backpacking stove. Use a skillet OR a Dutch oven over campfire
+> coals for the third meal, and cook the fourth meal in a foil pack OR on
+> a skewer. Serve all of these meals to your patrol or a group of youth.
+>
+> (e) In the outdoors, using your menu plans and recipes for this
+> requirement, prepare one snack and one dessert. Serve both of these to
+> your patrol or a group of youth.
+>
+> (f) After each meal, have those you served evaluate the meal on
+> presentation and taste, and then evaluate your own meal. Discuss what
+> you learned with your counselor, including any adjustments that could
+> have improved or enhanced your meals. Tell how planning and preparation
+> help ensure successful outdoor cooking.
+>
+> (g) Lead the clean-up of equipment, utensils, and the cooking site
+> thoroughly after each meal. Properly store or dispose unused
+> ingredients, leftover food, dishwater and garbage.
+>
+> (h) Discuss how you followed the Leave No Trace Seven Principles and
+> the Outdoor Code when preparing your meals.
+>
+> **Note on repeating meals:** meals used for requirements 4, 5, and 6
+> count only toward the Cooking merit badge — they can't be reused for
+> rank advancement or another merit badge, and menus across 4/5/6 can't
+> repeat each other.
 
 ## 1. The group
 
@@ -61,6 +92,15 @@ sections.
 
 - Snack: ________________________
 - Dessert: ________________________
+
+- **Equipment and utensils needed** for all four meals plus the snack and
+  dessert (requirement 5a):
+
+  Line 1: ________________________________________________
+
+  Line 2: ________________________________________________
+
+  Line 3: ________________________________________________
 
 ## 4. Sort one meal into food groups
 
@@ -124,7 +164,7 @@ Line 2: ________________________________________________
 
 ---
 
-*Requirement text above is paraphrased from multiple secondary sources
-(scouting.org itself returned an access error when checked) — treat it as
-a close approximation, not the authoritative text, and confirm exact
-current wording with your counselor before you rely on it.*
+*Requirement text above is quoted verbatim from the Cooking merit badge
+requirements at scouting.org. Requirements can be revised — confirm with
+your counselor that this is still the current wording before you rely on
+it.*

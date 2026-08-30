@@ -257,11 +257,13 @@ toward:
   its own scout-facing worksheet:
   [first-class-menu-worksheet.md](first-class-menu-worksheet.md).
 - **Cooking merit badge (camp cooking)** — plan and cook using stove, dutch
-  oven, and foil-pack/skewer methods. **Note:** per the current
-  requirements, meals used for Cooking MB requirements 5–6 can't be reused
-  for rank advancement or repeated across those requirements — check with
-  the scout's counselor before double-counting a meal. Requirements 5 and
-  6 each have their own scout-facing worksheet:
+  oven, and foil-pack/skewer methods. **Note:** per the official
+  requirements, meals used for Cooking MB requirements 4, 5, and 6 count
+  only toward the Cooking merit badge — they can't be reused for rank
+  advancement or any other merit badge, and menus can't repeat across
+  those three requirements. Check with the scout's counselor before
+  double-counting a meal. Requirements 5 and 6 each have their own
+  scout-facing worksheet:
   [cooking-mb-worksheet-req5.md](cooking-mb-worksheet-req5.md)
   (camp cooking) and
   [cooking-mb-worksheet-req6.md](cooking-mb-worksheet-req6.md) (trail and

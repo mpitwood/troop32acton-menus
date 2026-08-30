@@ -7,8 +7,7 @@
 - Don't copy from a page's "Real Food Check" — read the **Ingredients**
   list yourself and work it out.
 - Bring the finished worksheet to the senior scout who signs off on this
-  requirement (not a merit badge counselor — Second Class doesn't use
-  counselors).
+  requirement.
 
 > **Requirement 2e, as written:** "On one campout, plan and cook one hot
 > breakfast or lunch, selecting foods from MyPlate or the current USDA

@@ -9,21 +9,44 @@
   **Ingredients** list yourself and work it out.
 - Bring the finished worksheet to your merit badge counselor.
 
-> **Requirement 6, as summarized from scouting.org** (paraphrased — see
-> the caveat at the bottom):
+> **Requirement 6 (Trail and Backpacking Meals), as written at
+> scouting.org:**
 >
-> - Plan a menu for 3–5 people on a hike/backpacking trip: 1 breakfast, 1
->   lunch, 1 dinner, 1 snack — lightweight, non-perishable foods.
-> - Build a shopping list with amounts and per-meal costs.
-> - Discuss the plan with your counselor, including how you'll repackage
->   food to cut bulk, weight, and garbage.
-> - On the actual trip, prepare and serve 2 meals and 1 snack, with at
->   least 1 meal cooked over fire or approved trail stove under
->   supervision.
-> - Get feedback, evaluate the meals yourself, discuss improvements with
->   your counselor.
-> - Explain how to divide food and cooking supplies equitably among the
->   group; discuss proper cleanup and animal-safe food storage.
+> (a) Using the MyPlate food guide or the current USDA nutrition model,
+> plan a day of meals for trail hiking or backpacking that includes one
+> breakfast, one lunch, one dinner, and one snack. These meals must
+> consider weight, not require refrigeration and are to be consumed by
+> three to five people (including you). List the equipment and utensils
+> needed to prepare and serve these meals.
+>
+> (b) Create a shopping list for your meals, showing the amount of food
+> needed to prepare and serve each meal, and the cost for each meal.
+>
+> (c) Share and discuss your menu and shopping list with your counselor.
+> Your plan must include how to repackage foods for your hike or
+> backpacking trip to eliminate as much bulk, weight, and garbage as
+> possible.
+>
+> (d) While on a trail hike or backpacking trip, prepare and serve two
+> meals and a snack from the menu planned for this requirement. At least
+> one of those meals must be cooked over a fire, or an approved trail
+> stove (with proper supervision).
+>
+> (e) After each meal, have those you served evaluate the meal on
+> presentation and taste, then evaluate your own meal. Discuss what you
+> learned with your counselor, including any adjustments that could have
+> improved or enhanced your meals. Tell how planning and preparation help
+> ensure successful trail hiking or backpacking meals.
+>
+> (f) Explain to your counselor how you should divide the food and
+> cooking supplies among the patrol in order to share the load. Discuss
+> how to properly clean the cooking area and store your food to protect
+> it from animals.
+>
+> **Note on repeating meals:** meals used for requirements 4, 5, and 6
+> count only toward the Cooking merit badge — they can't be reused for
+> rank advancement or another merit badge, and menus across 4/5/6 can't
+> repeat each other.
 
 ## 1. The group and trip
 
@@ -46,6 +69,12 @@ From [backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu):
 | Lunch | | | |
 | Dinner | | | |
 | Snack | | | |
+
+- **Equipment and utensils needed** for all four items (requirement 6a):
+
+  Line 1: ________________________________________________
+
+  Line 2: ________________________________________________
 
 - Requirement 6d needs **at least one cooked meal** on the actual trip —
   make sure one of your picks above is tagged Boil-and-Steep or Simmer,
@@ -119,7 +148,7 @@ Line 2: ________________________________________________
 
 ---
 
-*Requirement text above is paraphrased from multiple secondary sources
-(scouting.org itself returned an access error when checked) — treat it as
-a close approximation, not the authoritative text, and confirm exact
-current wording with your counselor before you rely on it.*
+*Requirement text above is quoted verbatim from the Cooking merit badge
+requirements at scouting.org. Requirements can be revised — confirm with
+your counselor that this is still the current wording before you rely on
+it.*
