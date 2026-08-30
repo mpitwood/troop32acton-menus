@@ -1,26 +1,29 @@
 # Cooking Merit Badge Worksheet — Requirement 6 (Trail and Backpacking Meals)
 
-This is **your** worksheet, not a page from the recipe book. Requirement
-6 plans and cooks trail food for 3–5 people —
-[backpacking/INDEX.md](backpacking/INDEX.md) is built for exactly this:
-lightweight, shelf-stable, no resupply needed. Don't copy answers from a
-page's "Real Food Check" section — read the **Ingredients** list yourself
-and fill this in from scratch. Bring the finished worksheet to your merit
-badge counselor.
+**This is your worksheet, not a recipe page.**
 
-> **Requirement 6, as summarized from scouting.org** (see the caveat at
-> the bottom — verify exact current wording with your counselor): Plan a
-> menu for 3–5 people on a hike or backpacking trip — one breakfast, one
-> lunch, one dinner, and one snack — using lightweight, non-perishable
-> foods. Build a shopping list showing amounts and per-meal costs.
-> Discuss your plan with your counselor, including how you'll repackage
-> food to cut bulk, weight, and garbage. On the actual trip, prepare and
-> serve two meals and one snack, with at least one meal cooked over a
-> fire or approved trail stove under supervision. Get feedback from those
-> you served, evaluate the meals yourself, and discuss improvements with
-> your counselor. Explain how to divide food and cooking supplies
-> equitably among the group, and discuss proper cleanup and animal-safe
-> food storage.
+- Requirement 6 plans and cooks trail food for 3–5 people —
+  [backpacking/INDEX.md](backpacking/INDEX.md) is built for exactly this:
+  lightweight, shelf-stable, no resupply needed.
+- Don't copy answers from a page's "Real Food Check" — read the
+  **Ingredients** list yourself and work it out.
+- Bring the finished worksheet to your merit badge counselor.
+
+> **Requirement 6, as summarized from scouting.org** (paraphrased — see
+> the caveat at the bottom):
+>
+> - Plan a menu for 3–5 people on a hike/backpacking trip: 1 breakfast, 1
+>   lunch, 1 dinner, 1 snack — lightweight, non-perishable foods.
+> - Build a shopping list with amounts and per-meal costs.
+> - Discuss the plan with your counselor, including how you'll repackage
+>   food to cut bulk, weight, and garbage.
+> - On the actual trip, prepare and serve 2 meals and 1 snack, with at
+>   least 1 meal cooked over fire or approved trail stove under
+>   supervision.
+> - Get feedback, evaluate the meals yourself, discuss improvements with
+>   your counselor.
+> - Explain how to divide food and cooking supplies equitably among the
+>   group; discuss proper cleanup and animal-safe food storage.
 
 ## 1. The group and trip
 
@@ -45,13 +48,13 @@ From [backpacking/INDEX.md](backpacking/INDEX.md):
 | Dinner | | | |
 | Snack | | | |
 
-Requirement 6d needs **at least one cooked meal** on the actual trip —
-make sure at least one of your picks above is tagged Boil-and-Steep or
-Simmer, not No-Cook or Cold-Soak.
+- Requirement 6d needs **at least one cooked meal** on the actual trip —
+  make sure one of your picks above is tagged Boil-and-Steep or Simmer,
+  not No-Cook or Cold-Soak.
 
 ## 3. Sort one meal into food groups
 
-Pick one meal and sort its ingredients into food groups yourself.
+- Pick one meal and sort its ingredients into food groups yourself.
 
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
@@ -68,9 +71,8 @@ Pick one meal and sort its ingredients into food groups yourself.
 
 ## 5. Repackaging plan
 
-Read each page's **Packaging & Trash Notes** section, then describe your
-own plan:
-
+- Read each page's **Packaging & Trash Notes** section, then describe
+  your own plan:
 - What gets stripped out of store packaging before the trip (boxes,
   outer sleeves) and repacked into what (zip-top bags, per-person
   portions)? ________________________________________________
@@ -91,7 +93,7 @@ own plan:
 ## 7. Dividing the load, cleanup, and food storage
 
 - How did you divide food and cooking supplies equitably among the
-  group, so no one person carries a disproportionate share?
+  group, so no one carries a disproportionate share?
   ________________________________________________
 - Cleanup plan (see [backpacking/README.md](backpacking/README.md)'s
   packaging/trash section — everything gets carried out): ________________

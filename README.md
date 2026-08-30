@@ -1,10 +1,13 @@
 # Troop 32 Acton Menu Repository
 
-A browsable library of pre-planned camp meals for Troop 32 Acton. Instead of
-burning a whole troop meeting planning menus from scratch, patrols pick pages a la carte — one page
-per **course** of one meal (appetizer/side, main, dessert) — and copy the
-ingredient list straight onto a shopping list. Start here, then check
-[INDEX.md](INDEX.md) to browse everything at a glance.
+A browsable library of pre-planned camp meals for Troop 32 Acton.
+
+- Patrols pick pages a la carte — one page per **course** of one meal
+  (appetizer/side, main, dessert) — instead of planning menus from
+  scratch at a troop meeting.
+- Copy the ingredient list straight onto a shopping list.
+- Start here, then check [INDEX.md](INDEX.md) to browse everything at a
+  glance.
 
 ## How to plan a campout meal in 15 minutes
 
@@ -25,56 +28,44 @@ ingredient list straight onto a shopping list. Start here, then check
 
 ## Page format
 
-Each recipe page opens with the title and a one-line summary (meal,
-course, diet, allergens, cook method, serves, timing) — no metadata table,
-just enough to check at a glance before you commit to a page. Instructions
-are split into two sections:
-
-- **Advance Prep (at home)** — what to chop, marinate, par-cook, or portion
-  before the trip, including decanting small quantities of oil, sauces, or
-  spices into travel-size containers instead of hauling full bottles for a
-  weekend.
+- Title + one-line summary (meal, course, diet, allergens, cook method,
+  serves, timing) — enough to check at a glance before you commit to a
+  page.
+- **Advance Prep (at home)** — what to chop, marinate, par-cook, or
+  portion before the trip, including decanting oil/sauces/spices into
+  travel-size containers instead of hauling full bottles.
 - **Onsite (at camp)** — the actual cook steps at the site.
-
-Ingredients are chosen to hold up in a cooler for a day or two — fresh,
-canned, or dehydrated where possible, rather than relying on anything
-staying frozen. A cooler keeps food cold, not frozen, once you're a day or
-more into a trip.
+- Ingredients hold up in a cooler for a day or two — fresh, canned, or
+  dehydrated, not relying on anything staying frozen.
 
 Backpacking has its own [README](backpacking/README.md) and
-[INDEX](backpacking/INDEX.md) — the page format is the same, with two
-backpacking-specific additions: a **Weight & Calories** line on every
-page (oz/serving and kcal/oz, since pack weight is the constraint
-front-country doesn't have), and a **Packaging & Trash Notes** section,
-since backpackers carry every wrapper out for days instead of tossing it
-in a car.
+[INDEX](backpacking/INDEX.md) — same page format, plus two
+backpacking-only additions: a **Weight & Calories** line (oz/serving,
+kcal/oz — pack weight is the constraint front-country doesn't have), and
+a **Packaging & Trash Notes** section (backpackers carry every wrapper
+out).
 
 ## Vegetarian policy (read this one)
 
-Older scouts have not always been considerate of vegetarian patrol members.
-Most patrols only have one vegetarian scout, not half the group — so the fix
-isn't cooking two full separate dishes (wasteful, and it still singles
-someone out). Every "big pot" main in this repo — chili, one-pot pasta,
-foil packet fajitas, dutch oven pizza, breakfast burritos, breakfast
-casserole — is built as a **vegetarian base + a small meat boost cooked
-separately and added at serving time**:
-
-- The base (the dutch oven, the pot, the packet filling, the pizza
-  topping) is hearty and vegetarian by default, sized for the whole patrol.
-- Meat is browned or prepped in its own small pan, sized to how many
-  scouts actually eat meat (usually most of the patrol, not all of it) —
-  not bought or cooked as a second full recipe.
-- Meat is added to **individual bowls or portions at serving time**, never
-  stirred into the shared pot. That means the vegetarian scout can go back
-  for seconds from the same pot everyone else is eating from, with no risk
-  that meat got mixed in partway through the meal.
-- For meals that are naturally single-serving (foil packets, personal
-  pizzas, burritos, wraps, quesadillas), assemble the vegetarian scout's
-  portion first, before the meat bowl is even opened.
-
-Every recipe page spells out the base quantities and the meat-boost
-quantities separately, with the meat sized "per meat-eating scout" so the
-patrol buys and cooks the right amount instead of guessing.
+- Most patrols have one vegetarian scout, not half the group — the fix
+  isn't cooking two full separate dishes (wasteful, and it singles
+  someone out).
+- Every "big pot" main (chili, one-pot pasta, foil packet fajitas, dutch
+  oven pizza, breakfast burritos, breakfast casserole) is a **vegetarian
+  base + a small meat boost cooked separately, added at serving time**:
+  - The base (dutch oven, pot, packet filling, pizza topping) is hearty
+    and vegetarian by default, sized for the whole patrol.
+  - Meat is browned in its own small pan, sized to how many scouts
+    actually eat meat — not bought/cooked as a second full recipe.
+  - Meat goes into **individual bowls at serving time**, never stirred
+    into the shared pot — the vegetarian scout can go back for seconds
+    from the same pot everyone else eats from.
+  - For single-serving meals (foil packets, personal pizzas, burritos,
+    wraps, quesadillas), assemble the vegetarian portion first, before
+    the meat bowl is even opened.
+- Every recipe page spells out base and meat-boost quantities separately,
+  meat sized "per meat-eating scout," so the patrol buys the right amount
+  instead of guessing.
 
 ## Allergy tags
 
@@ -102,31 +93,27 @@ Every recipe uses one of the following, matching standard troop gear:
 
 ## Nutrition
 
-Each page has a **Real Food Check** instead of a nutrition-numbers table.
-On January 7, 2026, USDA/HHS retired MyPlate and replaced it with
-RealFood.gov and the 2025-2030 Dietary Guidelines for Americans, which lead
-with "eat real food": protein at every meal, real whole-food ingredients
-over ultra-processed ones, vegetables at the center of the plate, healthy
-fats, and less emphasis on grains. Each page's Real Food Check is a short,
-factual list — what protein source(s) are in the base, what vegetables/
-fruit are present, and which ingredients (if any) are processed shortcuts
-— not a narrative pitch for the dish. This is a planning aid, not a
-diet-tracking tool: there are no calorie/macro numbers on these pages.
+- Each page has a **Real Food Check** instead of a nutrition-numbers
+  table — a short, factual list of what protein/vegetables/fruit are
+  present and which ingredients (if any) are processed shortcuts.
+- Based on RealFood.gov and the 2025-2030 Dietary Guidelines (replaced
+  MyPlate, January 7 2026): protein at every meal, real whole-food
+  ingredients over ultra-processed ones, vegetables front and center.
+- Planning aid, not a diet-tracking tool — no calorie/macro numbers on
+  front-country pages.
 
 ## Pricing basis
 
-Cost estimates are built for **Boston-area grocery prices**, not a national
-average — this troop is in a high-cost-of-living area and national figures
-were running noticeably low. Most mains land in the $3–$6/scout range
-(vegetarian bases; add the meat-boost figure for meat-eating scouts).
-Across a typical weekend (Fri dinner + Sat breakfast/lunch/dinner + Sun
-breakfast, plus a dessert and snacks), a meat-eating scout's share runs
-close to — or over — a $25/scout budget. See each page's Cost Estimate and
-[INDEX.md](INDEX.md)'s sample weekend menu for the running total, and
-[Maintainer Notes](maintainer-notes.md#pricing-methodology) for exactly how
-these numbers are sourced. **This is a real conversation to have with the
-committee about the $25 figure** rather than assuming it still covers a
-full weekend the way it might have when that number was set.
+- Cost estimates use **Boston-area grocery prices**, not a national
+  average — this troop is in a high-cost-of-living area.
+- Most mains: $3–$6/scout (vegetarian bases; add the meat-boost figure
+  for meat-eating scouts).
+- A typical weekend (Fri dinner + Sat breakfast/lunch/dinner + Sun
+  breakfast, plus dessert and snacks) runs a meat-eating scout's share
+  close to — or over — a $25/scout budget. See each page's Cost Estimate
+  and [INDEX.md](INDEX.md)'s sample weekend menu for the running total.
+- **This is a real conversation to have with the committee about the
+  $25 figure.** Full sourcing: [Maintainer Notes](maintainer-notes.md#pricing-methodology).
 
 ## Advancement tie-ins
 
@@ -158,15 +145,13 @@ toward:
   [cooking-mb-worksheet-req6.md](cooking-mb-worksheet-req6.md) (trail and
   backpacking).
 
-All of the above worksheets are deliberately scout-facing — they walk a
-scout through sorting a recipe's own ingredients into food groups and
-reasoning about nutritional fit themselves, rather than reading it off
-each page's "Real Food Check" section. Leaders and counselors verifying a
-scout's answers should use
-[leader-answer-key.md](leader-answer-key.md), which compiles every
-recipe's Real Food Check content and (for backpacking) its calorie/protein
-figures in one place — don't hand that document to a scout before they've
-done their own worksheet.
+- The worksheets above are deliberately scout-facing — sort a recipe's
+  ingredients into food groups yourself, don't read it off "Real Food
+  Check."
+- Leaders/counselors verifying answers: use
+  [leader-answer-key.md](leader-answer-key.md) (compiles every recipe's
+  Real Food Check + backpacking calorie/protein figures) — don't hand it
+  to a scout before they've done their own worksheet.
 
 This isn't a substitute for reading the current requirements at
 scouting.org — tags are a planning aid, not a sign-off.

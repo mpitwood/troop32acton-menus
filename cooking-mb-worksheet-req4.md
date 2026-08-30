@@ -1,27 +1,29 @@
 # Cooking Merit Badge Worksheet — Requirement 4 (Cooking at Home)
 
-This is **your** worksheet, not a page from the recipe book. Requirement
-4 is planned and cooked **at home**, not on a campout — this troop's
-recipe book is built for car camping and backpacking, so most pages need
-real adaptation (equipment, portions, cook method) rather than being
-usable as-is. Use the food-group sorting and planning process below as
-your own work, and bring the finished worksheet to your merit badge
-counselor.
+**This is your worksheet, not a recipe page.**
 
-> **Requirement 4, as summarized from scouting.org** (see the caveat at
-> the bottom — verify exact current wording with your counselor):
-> Plan menus for three full days (breakfast, lunch, and dinner each day)
-> plus one dessert, for yourself and at least one adult, using MyPlate or
-> the current USDA nutritional model, and accounting for allergies and
-> food safety. Find recipes and build a shopping list showing quantities
-> and cost. Discuss the plan and shopping list with your counselor.
-> Prepare and serve one breakfast, one lunch, one dinner, and one dessert
-> from your plan, using at least five of the ten cooking methods from
-> requirement 3 (baking, boiling, broiling, pan frying, simmering,
-> microwaving, air frying, grilling, foil cooking, Dutch oven). Time the
-> meals so all the components are ready together, with an adult verifying
-> your timing. Get feedback from whoever you served, evaluate the meals
-> yourself, and discuss what you'd improve with your counselor.
+- Requirement 4 is planned and cooked **at home**, not on a campout.
+- This repo is built for car camping and backpacking — most pages need
+  real adaptation (equipment, portions, cook method) to use at home.
+- Bring the finished worksheet to your merit badge counselor.
+
+> **Requirement 4, as summarized from scouting.org** (paraphrased — see
+> the caveat at the bottom):
+>
+> - Plan menus for 3 full days (breakfast, lunch, dinner each day) plus 1
+>   dessert, for yourself and at least 1 adult.
+> - Use MyPlate or the current USDA nutritional model; account for
+>   allergies and food safety.
+> - Find recipes, build a shopping list with quantities and cost.
+> - Discuss the plan and shopping list with your counselor.
+> - Prepare and serve 1 breakfast, 1 lunch, 1 dinner, and 1 dessert from
+>   the plan, using **at least 5 of the 10 cooking methods** from
+>   requirement 3 (baking, boiling, broiling, pan frying, simmering,
+>   microwaving, air frying, grilling, foil cooking, Dutch oven).
+> - Time the meals so everything's ready together, with an adult
+>   verifying your timing.
+> - Get feedback, evaluate the meals yourself, discuss improvements with
+>   your counselor.
 
 ## 1. Who you're cooking for
 
@@ -32,14 +34,13 @@ counselor.
 
 ## 2. Plan three full days of meals
 
-You need breakfast + lunch + dinner for three days, plus one dessert —
-ten items total. This troop's front-country pages ([INDEX.md](INDEX.md))
-can genuinely help with ideas even though they're written for a patrol at
-a campsite: the ingredients and food-group balance transfer to a home
-kitchen fine, but you'll need to (a) scale portions down from a patrol of
-6 to two people, and (b) swap the cook method — a "Dutch oven" page
-becomes a home oven, a "2-burner stove" page is just your stovetop, "foil
-pack / coals" becomes a grill or a sheet pan under the broiler.
+- You need breakfast + lunch + dinner for 3 days, plus 1 dessert — 10
+  items total.
+- [INDEX.md](INDEX.md) can help with ideas even though it's written for a
+  patrol at a campsite:
+  - Scale portions down from a patrol of 6 to two people.
+  - Swap cook method — Dutch oven → home oven, 2-burner stove → your
+    stovetop, foil pack/coals → grill or sheet pan under the broiler.
 
 | Day | Breakfast | Lunch | Dinner |
 |---|---|---|---|
@@ -51,10 +52,10 @@ Dessert (one, any day): ________________________
 
 ## 3. Sort one full day into food groups
 
-Pick one of your three days and sort its breakfast + lunch + dinner into
-food groups yourself — don't just copy a "Real Food Check" section if
-you borrowed an idea from this repo, work it out from your own actual
-ingredient list.
+- Pick one of your three days and sort breakfast + lunch + dinner into
+  food groups yourself.
+- Don't copy a "Real Food Check" if you borrowed an idea from this repo —
+  work it out from your own ingredient list.
 
 | Meal | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|---|
@@ -75,10 +76,10 @@ actually cook and serve (pick these from your 3-day plan above):
 
 ## 5. Cover five cooking methods
 
-List the four meals you're actually cooking (not just planning) and the
-method each one uses. You need **at least five distinct methods** across
-them — a single meal can use more than one (e.g. pan-frying an egg and
-toasting bread counts as two methods in one breakfast).
+- List the four meals you're actually cooking and the method(s) each
+  uses.
+- Need **5+ distinct methods** across them — a single meal can use more
+  than one (e.g. pan-frying an egg + toasting bread = two methods).
 
 | Meal | Method(s) used |
 |---|---|

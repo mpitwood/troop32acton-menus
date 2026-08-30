@@ -1,26 +1,29 @@
 # Cooking Merit Badge Worksheet — Requirement 5 (Camp Cooking)
 
-This is **your** worksheet, not a page from the recipe book. Requirement
-5 plans and cooks for a patrol or group of up to eight youth on an actual
-campout — [front-country/INDEX.md](front-country/INDEX.md) is built for
-exactly this. Don't copy answers from a page's "Real Food Check" section
-— read the **Ingredients** list yourself and fill this in from scratch.
-Bring the finished worksheet to your merit badge counselor.
+**This is your worksheet, not a recipe page.**
 
-> **Requirement 5, as summarized from scouting.org** (see the caveat at
-> the bottom — verify exact current wording with your counselor):
-> Plan a menu for a patrol or group of up to eight youth, including two
-> breakfasts, one lunch, and one dinner, plus one snack and one dessert,
-> accounting for allergies and food safety. Create or adjust recipes for
-> the group size, and build a shopping list and budget. Discuss the plan
-> with your counselor. Cook two of the four main meals using a camp or
-> backpacking stove; cook a third in a skillet or Dutch oven over
-> campfire coals; cook the fourth in a foil pack or on a skewer. Prepare
-> the snack and dessert outdoors as well. Get feedback from those you
-> served, evaluate the meals yourself, and discuss improvements with your
-> counselor. Lead the cleanup of equipment, utensils, and the cooking
-> site, and discuss how you followed the Outdoor Code and Leave No Trace
-> principles.
+- Requirement 5 plans and cooks for a patrol or group of up to 8 youth on
+  an actual campout — [INDEX.md](INDEX.md) is built for exactly this.
+- Don't copy answers from a page's "Real Food Check" — read the
+  **Ingredients** list yourself and work it out.
+- Bring the finished worksheet to your merit badge counselor.
+
+> **Requirement 5, as summarized from scouting.org** (paraphrased — see
+> the caveat at the bottom):
+>
+> - Plan a menu for a patrol/group of up to 8 youth: 2 breakfasts, 1
+>   lunch, 1 dinner, plus 1 snack and 1 dessert, accounting for allergies
+>   and food safety.
+> - Create or adjust recipes for the group size; build a shopping list
+>   and budget. Discuss the plan with your counselor.
+> - Cook the four main meals with specific methods: 2 on a camp/backpacking
+>   stove, 1 in a skillet or Dutch oven over campfire coals, 1 in a foil
+>   pack or on a skewer.
+> - Prepare the snack and dessert outdoors too.
+> - Get feedback, evaluate the meals yourself, discuss improvements with
+>   your counselor.
+> - Lead cleanup of equipment, utensils, and the cooking site; discuss
+>   how you followed the Outdoor Code and Leave No Trace.
 
 ## 1. The group
 
@@ -36,8 +39,8 @@ Bring the finished worksheet to your merit badge counselor.
 
 Requirement 5d requires **four different meals, each using a specific
 method** — pick two breakfasts, one lunch, and one dinner from
-[front-country/INDEX.md](front-country/INDEX.md), then assign each to a
-method so all four are covered.
+[INDEX.md](INDEX.md), then assign each to a method so all four are
+covered.
 
 | Meal | Page you picked | Method required | Method tag on the page matches? |
 |---|---|---|---|
@@ -53,17 +56,17 @@ land on "2-burner stove," one lands on "Dutch oven," and one lands on
 
 ## 3. Pick a snack and a dessert
 
-Both prepared outdoors, from [front-country/INDEX.md](front-country/INDEX.md)'s
-snacks and desserts sections.
+Both prepared outdoors, from [INDEX.md](INDEX.md)'s snacks and desserts
+sections.
 
 - Snack: ________________________
 - Dessert: ________________________
 
 ## 4. Sort one meal into food groups
 
-Pick one of your four main meals and sort its ingredients into food
-groups yourself — read the page's **Ingredients** list, don't read its
-Real Food Check section.
+- Pick one of your four main meals and sort its ingredients into food
+  groups yourself — read the page's **Ingredients** list, not its Real
+  Food Check section.
 
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
@@ -71,9 +74,9 @@ Real Food Check section.
 
 ## 5. Recipes, shopping list, and budget
 
-- Scale each page's ingredients from its own base serving size to your
-  actual headcount (each page's **Scaling Notes** section tells you how).
-  Any adjustments you made beyond straight scaling? ________________
+- Scale each page's ingredients from its base serving size to your actual
+  headcount (each page's **Scaling Notes** section tells you how). Any
+  adjustments beyond straight scaling? ________________________________
 - Shopping list with quantities (attach a separate sheet if it's long):
   ________________________________________________
 - Budget/total cost: ________________________ (each page has a **Cost
