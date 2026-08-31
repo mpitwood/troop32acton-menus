@@ -79,7 +79,7 @@ Base: ~$2.80/scout for 6 (pasta ~$2.15, dressing ~$4, tomatoes ~$1.70,
 cucumber ~$1.35, onion ~$0.65, cheese ~$4.75, chickpeas ~$1.50). Meat
 add-in: ~$0.95 per meat-eating scout (6 oz pepperoni/salami ~$5.60, split
 ~6 ways). Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

@@ -86,7 +86,7 @@ andouille sausage browned separately for meat-eating scouts to stir in.
 Base: ~$2.45/scout for 6 (rice ~$2.65, beans ~$3, onion/pepper/celery
 ~$6.30, garlic ~$1, seasoning ~$1, broth/oil ~$0.75). Andouille boost:
 ~$0.95 per meat-eating scout (~0.875 lb ~$5.75, split ~6 ways). Boston-area
-pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

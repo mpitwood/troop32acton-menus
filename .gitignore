@@ -8,6 +8,6 @@ node_modules/
 docs/
 
 # Official BSA requirement PDFs and working source files - not for public redistribution
-First-Class.pdf
-Second-Class-v2.pdf
+requirements/First-Class.pdf
+requirements/Second-Class-v2.pdf
 import/

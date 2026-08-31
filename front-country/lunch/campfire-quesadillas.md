@@ -74,7 +74,7 @@ something hot but not a long cook.
 
 ~$4.20/scout for 6: tortillas ~$3.50, cheese ~$3.75, chicken ~$7, beans
 ~$1.50, corn ~$1.50, pepper ~$1.75, salsa/sour cream ~$5.75. Boston-area
-pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

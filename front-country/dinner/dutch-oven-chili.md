@@ -105,7 +105,7 @@ garlic ~$1, beans ~$3, corn ~$1.50, crushed tomatoes ~$3, spices ~$1.25,
 optional toppings ~$2). Meat boost: ~$1.65 per meat-eating scout (1 lb
 ground beef ~$8.25, split 5 ways) — buy it sized to how many scouts
 actually want meat, not the whole patrol. Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

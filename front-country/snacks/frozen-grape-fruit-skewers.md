@@ -61,7 +61,7 @@ weekend; plan on it for day one, and cold-but-thawed for the rest.
 ## Cost Estimate
 
 ~$3.30/scout for 6: grapes ~$9, melon ~$5.75, strawberries ~$5.
-Boston-area pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for
+Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for
 sourcing.
 
 ## Scaling Notes

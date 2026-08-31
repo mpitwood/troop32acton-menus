@@ -79,7 +79,7 @@ scouts add to their own bowl.
 Base: ~$1.20/scout for 6 (beans ~$4.50, brown sugar/mustard/ketchup/
 paprika ~$1.50, onion ~$0.65, oil ~$0.50). Bacon boost: ~$0.70 per
 meat-eating scout (~5 slices ~$3.90, split ~5-6 ways). Boston-area
-pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

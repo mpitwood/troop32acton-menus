@@ -1,10 +1,9 @@
 # Backpacking Menu Repository
 
-Same system as [../OVERVIEW.md](../OVERVIEW.md) — one page per course, browse
+Same system as the Front-Country Overview — one page per course, browse
 a la carte, vegetarian scouts get a real option, not a bolt-on — adapted
 for trips where every ounce is carried on someone's back for days, and
-every wrapper comes back out too. Jump to
-[Browse the menu](#browse-the-menu) below.
+every wrapper comes back out too. See the [Recipe List](#recipe-list).
 
 ## Where this started
 
@@ -111,7 +110,7 @@ in case" is often heavier than the fuel it would have saved.
 
 ## Allergy tags
 
-Same definitions as [../OVERVIEW.md](../OVERVIEW.md): **Nut-free** means no
+Same definitions as the Front-Country Overview: **Nut-free** means no
 tree nuts or peanuts and no unlabeled "may contain traces" products;
 **Egg-free** means no egg ingredient. Backpacking leans hard on sunflower
 seed butter as the peanut butter stand-in, same as front-country, since
@@ -150,16 +149,15 @@ as possible in the first place, and make what's left small and sealed.
 
 ## Pricing
 
-Boston-area estimates, same sourcing basis as
-[../OVERVIEW.md#pricing-basis](../OVERVIEW.md#pricing-basis) — but several
-backpacking staples here (TVP, cheese powder, freeze-dried meat,
+Boston-area estimates, same sourcing basis as the Front-Country
+Overview's pricing section — but several backpacking staples here (TVP, cheese powder, freeze-dried meat,
 dehydrated vegetable flakes, coconut milk powder) are specialty items
 usually bought from an outdoor retailer or online bulk-foods seller
 rather than a grocery store, and Boston-specific pricing data for those
 is thinner. Treat those cost estimates as rougher than the front-country
 numbers, and check current prices before finalizing a shopping list.
 
-## Browse the menu
+## Recipe List
 
 Same a la carte browsing as front-country — pick one main per meal slot,
 add snacks, check the Diet/Allergen columns before picking. This folder
@@ -249,6 +247,6 @@ portioning per leg — not covered by this folder yet.
 ## Adding a new recipe
 
 Copy [TEMPLATE.md](TEMPLATE.md), fill it in, and add a row to the
-[Browse the menu](#browse-the-menu) tables above. Same as front-country,
-but note the extra Weight & Calories line and Packaging & Trash Notes
+[Recipe List](#recipe-list) tables above. Same as front-country, but
+note the extra Weight & Calories line and Packaging & Trash Notes
 section every backpacking page needs.

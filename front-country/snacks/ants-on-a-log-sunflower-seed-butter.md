@@ -56,7 +56,7 @@ simply doesn't.
 
 ~$2.10/scout for 6: celery ~$2.80, sunflower seed butter ~$7, raisins
 ~$2.80. Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

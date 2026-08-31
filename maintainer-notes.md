@@ -1,19 +1,23 @@
 # Maintainer Notes
 
 This page is for whoever maintains the repo and the website it builds —
-not needed to plan a menu or work a requirement. See [OVERVIEW.md](OVERVIEW.md)
-for that.
+not needed to plan a menu or work a requirement. See
+[front-country/OVERVIEW.md](front-country/OVERVIEW.md) for that.
 
 ## Folder structure
 
 ```
 food/
-  OVERVIEW.md              scout/leader-facing guide + browsable front-country menu tables
   maintainer-notes.md     this file
-  TEMPLATE.md             blank page to copy when adding a new recipe
   leader-answer-key.md    compiled Real Food Check answers, for leaders/counselors
   *-worksheet.md          rank/merit-badge worksheets (scout-facing)
+  requirements/            source copies of official requirement text
+    First-Class.pdf          gitignored, not in the public repo
+    Second-Class-v2.pdf      gitignored, not in the public repo
+    cooking-merit-badge.md   tracked -- used to write the Cooking MB worksheets
   front-country/           car camping — coolers and car-transportable gear OK
+    OVERVIEW.md              scout/leader-facing guide + browsable menu tables
+    TEMPLATE.md              blank page to copy when adding a new recipe
     breakfast/
     lunch/
     dinner/
@@ -32,16 +36,18 @@ food/
 
 Front-country and backpacking each keep one combined Overview (guide +
 browsable menu tables) rather than a separate Overview/INDEX pair — having
-two documents for the same section was confusing to read.
+two documents for the same section was confusing to read. The two
+Overview pages don't link to each other, on purpose — both are meant to
+stand alone if printed.
 
 ## Adding a new recipe
 
-Copy [TEMPLATE.md](TEMPLATE.md) into the right `front-country/<category>/`
-folder, fill it in, and add a row to the
-[Browse the menu](OVERVIEW.md#browse-the-menu) tables in OVERVIEW.md. For
-backpacking recipes, use [backpacking/TEMPLATE.md](backpacking/TEMPLATE.md)
-and add a row to
-[backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#browse-the-menu) instead —
+Copy [front-country/TEMPLATE.md](front-country/TEMPLATE.md) into the
+right `front-country/<category>/` folder, fill it in, and add a row to
+the [Recipe List](front-country/OVERVIEW.md#recipe-list) tables in
+front-country/OVERVIEW.md. For backpacking recipes, use
+[backpacking/TEMPLATE.md](backpacking/TEMPLATE.md) and add a row to
+[backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#recipe-list) instead —
 different template, different tables. Then rebuild the site (below) so
 the new page actually appears.
 
@@ -118,10 +124,14 @@ navigation, on purpose:
   browsing the site.
 - `maintainer-notes.md` (this file) — linked once, from the bottom of the
   published Overview.
-- `TEMPLATE.md` / `backpacking/TEMPLATE.md` — built and linked from this
-  page, but not from the main nav.
+- `front-country/TEMPLATE.md` / `backpacking/TEMPLATE.md` — built and
+  linked from this page, but not from the main nav.
 
-The two official BSA requirement PDFs (`First-Class.pdf`,
-`Second-Class-v2.pdf`) and the `import/` folder are intentionally excluded
-from git via `.gitignore` — they're either copyrighted BSA material or raw
-working files, not meant for a public repo.
+The two official BSA requirement PDFs
+(`requirements/First-Class.pdf`, `requirements/Second-Class-v2.pdf`) and
+the `import/` folder are intentionally excluded from git via
+`.gitignore` — they're either copyrighted BSA material or raw working
+files, not meant for a public repo. `requirements/cooking-merit-badge.md`
+*is* tracked (it's our own transcription, not a redistributed PDF) and
+isn't built into the site — it's a reference copy for whoever next
+updates the Cooking MB worksheets.

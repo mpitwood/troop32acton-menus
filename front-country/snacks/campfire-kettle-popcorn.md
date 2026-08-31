@@ -58,7 +58,7 @@ part of the fun — good for a campfire program night.
 ## Cost Estimate
 
 ~$0.80/scout for 6: kernels ~$3.50, oil ~$0.75, salt negligible.
-Boston-area pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for
+Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for
 sourcing.
 
 ## Scaling Notes

@@ -77,7 +77,7 @@ graze between activities.
 ~$5.50/scout for 6: sunflower seeds ~$5.50, dried fruit ~$4, pretzels
 ~$2.75, chocolate ~$4, apples ~$2.75, grapes ~$4.50, cheese ~$5.50,
 crackers ~$4. Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

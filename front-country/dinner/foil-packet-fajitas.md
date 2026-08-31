@@ -93,7 +93,7 @@ Base: ~$4.10/scout for 6 (mushrooms ~$7.50, black beans ~$1.50, peppers
 ~$5.25, onion ~$1.30, oil/seasoning ~$1.75, tortillas ~$4.40, cheese
 ~$2.85). Meat boost: ~$1.45 per meat-eating scout with chicken (1 lb
 ~$5.75, split ~4 ways) — steak runs closer to ~$3.25/scout. Boston-area
-pricing — see [OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

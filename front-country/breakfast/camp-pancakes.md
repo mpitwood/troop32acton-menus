@@ -71,7 +71,7 @@ sausage links) that isn't tracked as a separate page here.
 
 ~$1.95/scout for 6: mix ~$3.50, milk ~$1.20, eggs ~$0.95, oil/butter ~$0.50,
 syrup ~$5.50. Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

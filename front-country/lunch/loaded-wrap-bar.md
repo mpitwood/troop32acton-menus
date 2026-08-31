@@ -75,7 +75,7 @@ builds their own wrap, meat and vegetarian scouts use the same table.
 
 ~$3.85/scout for 6: tortillas ~$3.50, deli meat ~$9.50, hummus ~$4.50,
 cheese ~$1.90, lettuce ~$1.40, tomatoes ~$2.30. Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

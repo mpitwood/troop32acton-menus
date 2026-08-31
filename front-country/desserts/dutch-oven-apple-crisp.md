@@ -74,7 +74,7 @@ dutch oven skills.
 
 ~$2.30/scout for 6: apples ~$6.80, oats/flour/sugar/cinnamon/lemon juice
 ~$4.35, butter ~$2.75. Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

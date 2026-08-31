@@ -88,7 +88,7 @@ Base: ~$3.15/scout for 6 (naan/flatbread ~$5.40, sauce ~$3, black beans
 ~$1.50, corn ~$1.50, onion/pepper ~$1.55, cheese ~$3.75, cilantro ~$1.50,
 oil/cornmeal ~$0.75). Pepperoni boost: ~$0.75 per meat-eating scout (4 oz
 pepperoni ~$3.75, split ~5 ways). Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

@@ -83,7 +83,7 @@ Base: ~$2.85/scout for 6 (tortillas ~$4, enchilada sauce ~$4.70, beans
 ~$1.50, corn ~$1.50, onion ~$0.65, cheese ~$4.70). Chicken boost: ~$1.25
 per meat-eating scout (2 cups canned/rotisserie chicken ~$7, split ~5-6
 ways). Boston-area pricing — see
-[OVERVIEW.md](../../OVERVIEW.md#pricing-basis) for sourcing.
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

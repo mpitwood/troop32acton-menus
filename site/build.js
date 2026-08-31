@@ -121,7 +121,7 @@ function depthPrefix(relOutPath) {
 
 const NAV_ITEMS = [
   ['index.html', 'Home'],
-  ['OVERVIEW.html', 'Front-Country Guide'],
+  ['front-country/OVERVIEW.html', 'Front-Country Guide'],
   ['backpacking/OVERVIEW.html', 'Backpacking Guide'],
 ];
 
@@ -272,7 +272,7 @@ function main() {
   }
 
   // root docs
-  buildDocPage('OVERVIEW.md', 'OVERVIEW.html');
+  buildDocPage('front-country/OVERVIEW.md', 'front-country/OVERVIEW.html');
   buildDocPage('backpacking/OVERVIEW.md', 'backpacking/OVERVIEW.html');
   for (const [file] of WORKSHEETS) {
     buildDocPage(file.replace(/\.html$/, '.md'), file, { worksheet: true });
@@ -286,7 +286,7 @@ function main() {
   // not in NAV_ITEMS -- only reachable via the link at the bottom of the
   // published Overview.
   buildDocPage('maintainer-notes.md', 'maintainer-notes.html');
-  buildDocPage('TEMPLATE.md', 'TEMPLATE.html');
+  buildDocPage('front-country/TEMPLATE.md', 'front-country/TEMPLATE.html');
   buildDocPage('backpacking/TEMPLATE.md', 'backpacking/TEMPLATE.html');
 
   // recipes
@@ -333,7 +333,7 @@ function buildHomepage(recipes) {
 <p class="lede">A browsable library of pre-planned camp meals — ${recipes.length}
 recipes across front-country (car camping) and backpacking. Pick a meal,
 copy the ingredient list onto a shopping list, and go. See the
-<a href="OVERVIEW.html">Front-Country Guide</a> or the
+<a href="front-country/OVERVIEW.html">Front-Country Guide</a> or the
 <a href="backpacking/OVERVIEW.html">Backpacking Guide</a> for the full
 system plus plain browsable tables, or use the search/filter below.</p>
 
