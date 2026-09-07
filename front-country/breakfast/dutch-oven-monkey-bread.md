@@ -18,7 +18,7 @@ round it out.
 - 1/2 cup brown sugar
 - Oil, for the dutch oven
 - Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  don't skip this at the store, it's easy to forget
+  easy to forget
 
 ## Shopping List
 

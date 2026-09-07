@@ -32,7 +32,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 
 **Drink:**
 - Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  don't skip this at the store, it's easy to forget
+  easy to forget
 
 ## Shopping List
 

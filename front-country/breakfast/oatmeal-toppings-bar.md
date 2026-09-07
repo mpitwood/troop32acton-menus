@@ -20,7 +20,7 @@ of oats, a spread of toppings, everyone builds their own bowl.
 - Banana, sliced
 - Optional: shelf-stable milk or yogurt cups
 - Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  don't skip this at the store, it's easy to forget
+  easy to forget
 
 ## Shopping List
 
