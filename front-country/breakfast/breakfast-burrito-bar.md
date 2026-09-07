@@ -28,6 +28,10 @@ for scouts who want it.
 **Meat boost (sized to meat-eating scouts):**
 - 3/4 lb breakfast sausage (covers up to 5-6 meat-eating scouts)
 
+**Drink:**
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
+  don't skip this at the store, it's easy to forget
+
 ## Shopping List
 
 - [ ] Sweet potatoes, 2 large
@@ -40,6 +44,7 @@ for scouts who want it.
 - [ ] Breakfast sausage — buy based on headcount of meat-eaters
 - [ ] Oil
 - [ ] Optional: avocado, salsa
+- [ ] Breakfast drink, patrol's choice
 
 ## Equipment
 
@@ -92,7 +97,8 @@ for scouts who want it.
 Base: $2.95/scout for 6 (sweet potatoes $4.20, black beans $3, spices
 $1, bell pepper/onion $3.05, cheese $1.90, tortillas $4.40). Sausage
 boost: $0.85 per meat-eating scout (3/4 lb sausage $4.70, split 5-6
-ways). Boston-area pricing — see
+ways). Add $0.75-1.00/scout for the breakfast drink — not in the totals
+above, budget it separately. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

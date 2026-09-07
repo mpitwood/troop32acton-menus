@@ -27,6 +27,10 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 - 2 bananas, sliced
 - Cinnamon-sugar: 2 tsp cinnamon whisked into 3 tbsp brown sugar
 
+**Drink:**
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
+  don't skip this at the store, it's easy to forget
+
 ## Shopping List
 
 - [ ] Pancake mix, one box (enough for 3 cups)
@@ -37,6 +41,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 - [ ] Mix-ins — pick 2-3 of: mini chocolate chips (nut-free brand),
       blueberries, bananas, cinnamon + brown sugar, based on what the
       patrol actually wants
+- [ ] Breakfast drink, patrol's choice
 
 ## Equipment
 
@@ -99,7 +104,8 @@ $0.50, syrup $5.50. Mix-ins add roughly $0.60-0.90/scout depending on
 picks: chocolate chips $4.20/bag, blueberries $4.50/pint, bananas
 $0.96/lb, cinnamon-sugar under $0.50 total. Total lands close to
 $2.60/scout for a bag of chips plus a pint of berries split across the
-patrol.
+patrol. Add $0.75-1.00/scout for the breakfast drink — not in the totals
+above, budget it separately.
 
 ## Scaling Notes
 

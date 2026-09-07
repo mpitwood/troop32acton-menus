@@ -17,6 +17,8 @@ round it out.
 - 1 cup (2 sticks) butter, melted
 - 1/2 cup brown sugar
 - Oil, for the dutch oven
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
+  don't skip this at the store, it's easy to forget
 
 ## Shopping List
 
@@ -25,6 +27,7 @@ round it out.
 - [ ] Cinnamon
 - [ ] Butter, 2 sticks
 - [ ] Brown sugar, 1/2 cup
+- [ ] Breakfast drink, patrol's choice
 
 ## Equipment
 
@@ -73,7 +76,8 @@ round it out.
 ## Cost Estimate
 
 $3.00/scout for 6: biscuit dough $11.25 (3 cans), sugar/cinnamon $1.25,
-butter $5.50. Boston-area pricing — see
+butter $5.50. Add $0.75-1.00/scout for the breakfast drink — not in the
+total above, budget it separately. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

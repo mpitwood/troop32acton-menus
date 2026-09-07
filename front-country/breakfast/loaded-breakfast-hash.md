@@ -23,6 +23,10 @@ it.
 **Meat boost (sized to meat-eating scouts):**
 - 6-8 slices bacon, chopped (covers up to 5-6 meat-eating scouts)
 
+**Drink:**
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
+  don't skip this at the store, it's easy to forget
+
 ## Shopping List
 
 - [ ] Frozen diced hash potatoes, 2 lb (or 6 medium potatoes)
@@ -31,6 +35,7 @@ it.
 - [ ] Paprika, garlic powder
 - [ ] Optional: shredded cheese, green onion
 - [ ] Bacon — buy based on headcount of meat-eaters
+- [ ] Breakfast drink, patrol's choice
 
 ## Equipment
 
@@ -79,8 +84,9 @@ it.
 
 Base: $2.00/scout for 6 (potatoes $4.75, onion/pepper $3.05, cheese
 $1.90, spices/oil $1.25). Bacon boost: $0.90 per meat-eating scout (8
-slices $5, split 5-6 ways). Boston-area pricing — see
-[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
+slices $5, split 5-6 ways). Add $0.75-1.00/scout for the breakfast drink
+— not in the totals above, budget it separately. Boston-area pricing —
+see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

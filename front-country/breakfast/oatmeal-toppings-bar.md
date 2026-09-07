@@ -19,6 +19,8 @@ of oats, a spread of toppings, everyone builds their own bowl.
 - Sunflower seeds (nut-free crunch)
 - Banana, sliced
 - Optional: shelf-stable milk or yogurt cups
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
+  don't skip this at the store, it's easy to forget
 
 ## Shopping List
 
@@ -30,6 +32,7 @@ of oats, a spread of toppings, everyone builds their own bowl.
 - [ ] Sunflower seeds
 - [ ] Bananas
 - [ ] Optional: yogurt cups
+- [ ] Breakfast drink, patrol's choice
 
 ## Equipment
 
@@ -75,7 +78,9 @@ of oats, a spread of toppings, everyone builds their own bowl.
 ## Cost Estimate
 
 $2.20/scout for 6: oats $3.50, milk $1.75, toppings (dried fruit,
-sunflower seeds, brown sugar, bananas) $8. Boston-area pricing — see
+sunflower seeds, brown sugar, bananas) $8. Add $0.75-1.00/scout for the
+breakfast drink — not in the total above, budget it separately.
+Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

@@ -29,8 +29,7 @@ A browsable library of pre-planned camp meals for Troop 32 Acton.
 
 Browse a la carte: pick one Main per meal, add a Side/Appetizer if you want
 one, and a Dessert for Saturday dinner. Filter by the Diet/Allergen columns
-before you pick, not after. Most courses below have 6 options; breakfast
-has 7, since it also includes a drinks bar.
+before you pick, not after. Every course below has 6 options.
 
 Most dinner and breakfast mains are **vegetarian base + meat boost**: one
 shared vegetarian-hearty pot/packet/dish, with meat browned separately and
@@ -43,7 +42,11 @@ boost, a vegetarian scout's is base only.
 All prices are **Boston-area estimates** — see [Pricing basis](#pricing-basis)
 for what's directly sourced vs. scaled, and don't treat these as receipts.
 
-### Breakfast (7)
+### Breakfast (6)
+
+Every breakfast Main below also lists a drink (Ingredients, Shopping List,
+and Cost Estimate) — easy to lose track of at the store or when budgeting
+if it's not written into the page itself.
 
 | Page | Diet | Nut-Free | Egg-Free | Method | Cost | Advancement |
 |---|---|---|---|---|---|---|
@@ -53,7 +56,6 @@ for what's directly sourced vs. scaled, and don't treat these as receipts.
 | [Oatmeal Toppings Bar](breakfast/oatmeal-toppings-bar.md) | Vegetarian/Vegan | Yes* | Yes | Stove | $2.20 | 2nd Class, 1st Class, Cooking MB |
 | [Dutch Oven Monkey Bread](breakfast/dutch-oven-monkey-bread.md) | Vegetarian | Yes | Check label | Dutch Oven | $3.00 | 2nd Class, 1st Class, Cooking MB |
 | [Loaded Breakfast Hash — Base + Bacon Boost](breakfast/loaded-breakfast-hash.md) | Vegetarian base | Yes | Yes | Stove | $2.00 base + $0.90/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [Camp Breakfast Drinks Bar](breakfast/camp-breakfast-drinks-bar.md) | Vegetarian/Vegan option | Check label | Yes | Stove | $1.97 | Tenderfoot, Cooking MB |
 
 \* keep any optional nut toppings in a separate labeled bowl.
 
@@ -133,16 +135,16 @@ scout's is **base only**.
 
 | Meal | Pick | Base | Boost (per meat-eater) |
 |---|---|---|---|
-| Sat breakfast | Breakfast Burrito Bar | $2.95 | $0.85 |
+| Sat breakfast | Breakfast Burrito Bar + drink | $2.95 + $0.85 drink = $3.80 | $0.85 |
 | Sat lunch | Campfire Quesadillas (assemble-your-own, same for everyone) | $4.20 | — |
 | Sat dinner | Dutch Oven Chili + Garlic Biscuits + Peach Cobbler | $3.15 + $1.60 + $2.05 = $6.80 | $1.65 |
-| Sun breakfast | Oatmeal Toppings Bar | $2.20 | — |
+| Sun breakfast | Oatmeal Toppings Bar + drink | $2.20 + $0.85 drink = $3.05 | — |
 | Snacks | Campfire Kettle Popcorn + Ants on a Log | $0.80 + $2.10 = $2.90 | — |
-| **Total, meat-eating scout** | | | **$21.55** |
-| **Total, vegetarian scout** | | | **$19.05** |
+| **Total, meat-eating scout** | | | **$23.25** |
+| **Total, vegetarian scout** | | | **$20.75** |
 
 At Boston pricing, the meat-eating scout's total fits under $25/scout,
-with roughly $3.50 left for a Friday dinner — any grocery run that runs
+with roughly $1.75 left for a Friday dinner — any grocery run that runs
 over pushes past budget. See [Pricing basis](#pricing-basis) for where
 these numbers come from and why this is a real conversation to have with
 the committee about the $25 figure.

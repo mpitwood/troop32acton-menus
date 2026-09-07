@@ -25,6 +25,10 @@ through seconds.
 **Meat boost (sized to meat-eating scouts):**
 - 3/4 lb breakfast sausage (covers up to 5-6 meat-eating scouts)
 
+**Drink:**
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
+  don't skip this at the store, it's easy to forget
+
 ## Shopping List
 
 - [ ] Frozen shredded hash browns, 1 bag (28-30 oz)
@@ -36,6 +40,7 @@ through seconds.
 - [ ] Salt, pepper, garlic powder
 - [ ] Cooking oil or spray
 - [ ] Breakfast sausage — buy based on headcount of meat-eaters
+- [ ] Breakfast drink, patrol's choice
 
 ## Equipment
 
@@ -94,8 +99,10 @@ through seconds.
 
 Base: $2.85/scout for 6 (hash browns $4, eggs $3.85, milk $1.25,
 veggies $3.05, cheese $3.75, spices/oil $1.25). Sausage boost: $0.90
-per meat-eating scout (3/4 lb sausage $4.70, split 5-6 ways). Boston-area
-pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
+per meat-eating scout (3/4 lb sausage $4.70, split 5-6 ways). Add
+$0.75-1.00/scout for the breakfast drink — not in the totals above,
+budget it separately. Boston-area pricing — see
+[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
