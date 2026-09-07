@@ -41,7 +41,7 @@ it, added right before that round goes in the oven.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~20-24 coals
+- Charcoal chimney, 20-24 coals
 - Lid lifter, leather gloves
 
 ## Instructions
@@ -57,7 +57,7 @@ it, added right before that round goes in the oven.
 
 ### Onsite (at camp)
 
-1. Light ~20-24 coals.
+1. Light 20-24 coals.
 2. Lightly oil the dutch oven bottom and dust with cornmeal or flour.
 3. Top each naan round with sauce, black beans, corn, red onion, bell
    pepper, and cheese — this is the same base for every round.
@@ -84,10 +84,10 @@ it, added right before that round goes in the oven.
 
 ## Cost Estimate
 
-Base: ~$3.15/scout for 6 (naan/flatbread ~$5.40, sauce ~$3, black beans
-~$1.50, corn ~$1.50, onion/pepper ~$1.55, cheese ~$3.75, cilantro ~$1.50,
-oil/cornmeal ~$0.75). Pepperoni boost: ~$0.75 per meat-eating scout (4 oz
-pepperoni ~$3.75, split ~5 ways). Boston-area pricing — see
+Base: $3.15/scout for 6 (naan/flatbread $5.40, sauce $3, black beans
+$1.50, corn $1.50, onion/pepper $1.55, cheese $3.75, cilantro $1.50,
+oil/cornmeal $0.75). Pepperoni boost: $0.75 per meat-eating scout (4 oz
+pepperoni $3.75, split 5 ways). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

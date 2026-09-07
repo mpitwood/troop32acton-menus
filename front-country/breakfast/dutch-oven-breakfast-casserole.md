@@ -40,7 +40,7 @@ through seconds.
 ## Equipment
 
 - 12" cast iron dutch oven + lid
-- Charcoal chimney, ~24-26 coals
+- Charcoal chimney, 24-26 coals
 - Lid lifter, leather gloves
 - Small skillet (for sausage, can go on a camp stove while the oven bakes)
 - Large mixing bowl and whisk (for eggs)
@@ -56,7 +56,7 @@ through seconds.
 
 ### Onsite (at camp)
 
-1. Light ~24-26 charcoal briquettes.
+1. Light 24-26 charcoal briquettes.
 2. Oil the dutch oven. Layer: half the hash browns, the diced veggies, half
    the cheese.
 3. Whisk the eggs with the milk, salt, and pepper; pour evenly over the
@@ -92,16 +92,16 @@ through seconds.
 
 ## Cost Estimate
 
-Base: ~$2.85/scout for 6 (hash browns ~$4, eggs ~$3.85, milk ~$1.25,
-veggies ~$3.05, cheese ~$3.75, spices/oil ~$1.25). Sausage boost: ~$0.90
-per meat-eating scout (3/4 lb sausage ~$4.70, split ~5-6 ways). Boston-area
+Base: $2.85/scout for 6 (hash browns $4, eggs $3.85, milk $1.25,
+veggies $3.05, cheese $3.75, spices/oil $1.25). Sausage boost: $0.90
+per meat-eating scout (3/4 lb sausage $4.70, split 5-6 ways). Boston-area
 pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 6 eggs, 3/4 of the hash browns and cheese; sausage sized
   to however many of the 4 eat meat.
-- **Patrol of 8:** 10-11 eggs, add ~1/3 more hash browns and cheese, 5
+- **Patrol of 8:** 10-11 eggs, add 1/3 more hash browns and cheese, 5
   extra minutes of bake time; sausage sized per actual meat-eater
   headcount, not patrol size.
 

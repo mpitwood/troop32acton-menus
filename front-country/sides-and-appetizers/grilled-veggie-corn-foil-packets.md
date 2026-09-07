@@ -67,8 +67,8 @@ for every diet in the patrol without modification.
 
 ## Cost Estimate
 
-~$1.65/scout for 6: corn ~$4, zucchini ~$2.10, pepper ~$1.75, onion ~$1.30,
-oil/seasoning ~$0.75. Boston-area pricing — see
+$1.65/scout for 6: corn $4, zucchini $2.10, pepper $1.75, onion $1.30,
+oil/seasoning $0.75. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

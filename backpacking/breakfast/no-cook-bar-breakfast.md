@@ -1,8 +1,8 @@
 # No-Cook Bar & Protein Breakfast
 
 *Breakfast · Main · Vegetarian option available · Nut-Free: Yes ·
-Egg-Free: Yes · No-Cook · Serves 1 · Weight: ~5.9 oz/serving · ~710-780
-kcal/serving (~120-132 kcal/oz) · ~17.5-20.5g protein*
+Egg-Free: Yes · No-Cook · Serves 1 · Weight: 5.9 oz/serving · 710-780
+kcal/serving (120-132 kcal/oz) · 17.5-20.5g protein*
 
 Zero fuel, zero time — grab it and start hiking. Good for a summit-day or
 early-alpine-start morning where lighting a stove costs you daylight
@@ -11,14 +11,14 @@ bags (bar + granola + fruit + protein) than a single granola bar alone.
 
 ## Ingredients (per person)
 
-- 1 meal-size energy bar (~2.5 oz, ~330 kcal)
-- 1 dried fruit pouch (~1 oz)
-- 1 granola pouch (~1 oz)
-- 1 electrolyte drink mix packet (~0.4 oz)
+- 1 meal-size energy bar (2.5 oz, 330 kcal)
+- 1 dried fruit pouch (1 oz)
+- 1 granola pouch (1 oz)
+- 1 electrolyte drink mix packet (0.4 oz)
 
 **Protein side (choose one):**
-- Meat: 1 jerky stick (~1 oz)
-- Vegetarian: 1 sunflower seed butter packet (~1 oz)
+- Meat: 1 jerky stick (1 oz)
+- Vegetarian: 1 sunflower seed butter packet (1 oz)
 
 ## Shopping List (for a patrol of 6)
 
@@ -78,9 +78,9 @@ bags (bar + granola + fruit + protein) than a single granola bar alone.
 
 ## Cost Estimate
 
-Meat build: ~$4.35/scout (bar ~$2.00, fruit pouch ~$0.35, granola pouch
-~$0.30, drink mix ~$0.75, jerky ~$1.25). Vegetarian build: ~$3.70/scout
-(swap jerky for sunflower seed butter packet ~$0.60). Boston-area
+Meat build: $4.35/scout (bar $2.00, fruit pouch $0.35, granola pouch
+$0.30, drink mix $0.75, jerky $1.25). Vegetarian build: $3.70/scout
+(swap jerky for sunflower seed butter packet $0.60). Boston-area
 pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes

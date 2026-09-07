@@ -1,8 +1,8 @@
 # Cold-Soak Muesli
 
 *Breakfast · Main · Vegetarian (vegan option) · Nut-Free: Yes · Egg-Free:
-Yes · Cold-Soak · Serves 1 · Weight: ~6.4 oz/serving · ~704-774
-kcal/serving (~110-121 kcal/oz) · ~28-31g protein*
+Yes · Cold-Soak · Serves 1 · Weight: 6.4 oz/serving · 704-774
+kcal/serving (110-121 kcal/oz) · 28-31g protein*
 
 Zero fuel, ready when you wake up. Mix it in a bag the night before, add
 cold water, and by morning it's soft and ready to eat straight from the
@@ -22,16 +22,16 @@ Sized to land near Philmont's own breakfast calorie and protein numbers
 - Pinch cinnamon, pinch salt
 
 **Protein side (choose one):**
-- Meat: 1 jerky stick (~1 oz)
-- Vegetarian: 1 sunflower seed butter packet (~1 oz)
+- Meat: 1 jerky stick (1 oz)
+- Vegetarian: 1 sunflower seed butter packet (1 oz)
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Rolled oats, ~4.5 cups
-- [ ] Nonfat dry milk powder, ~1 cup
-- [ ] Dried cranberries or raisins, ~1.5 cups
-- [ ] Chia seeds or ground flax, ~12 tbsp
-- [ ] Sunflower seeds, ~12 tbsp
+- [ ] Rolled oats, 4.5 cups
+- [ ] Nonfat dry milk powder, 1 cup
+- [ ] Dried cranberries or raisins, 1.5 cups
+- [ ] Chia seeds or ground flax, 12 tbsp
+- [ ] Sunflower seeds, 12 tbsp
 - [ ] Brown sugar, cinnamon, salt (small amounts)
 - [ ] Jerky sticks and sunflower seed butter packets — buy based on how
       many scouts want each
@@ -86,9 +86,9 @@ Sized to land near Philmont's own breakfast calorie and protein numbers
 
 ## Cost Estimate
 
-Base: ~$1.05/scout (oats ~$0.35, milk powder ~$0.20, dried fruit ~$0.35,
-chia ~$0.25, sunflower seeds ~$0.20). Protein side: jerky ~$1.25 or
-sunflower seed butter packet ~$0.60. Boston-area pricing — see
+Base: $1.05/scout (oats $0.35, milk powder $0.20, dried fruit $0.35,
+chia $0.25, sunflower seeds $0.20). Protein side: jerky $1.25 or
+sunflower seed butter packet $0.60. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing notes.
 
 ## Scaling Notes

@@ -1,7 +1,7 @@
 # Nut-Free Trail Mix (Bulk Repackaged)
 
 *Any meal · Snack · Vegan · Nut-Free: Yes · Egg-Free: Yes · No-Cook ·
-Serves 1 (per day) · Weight: ~3.5 oz/serving · ~440 kcal/serving (~125
+Serves 1 (per day) · Weight: 3.5 oz/serving · 440 kcal/serving (125
 kcal/oz)*
 
 The default all-day snack — high calorie density for the weight, and
@@ -18,10 +18,10 @@ wrapped store bags.
 
 ## Shopping List (for a patrol of 6, per day)
 
-- [ ] Sunflower seeds, bulk, ~6 oz
-- [ ] Dried fruit, bulk, ~6 oz
-- [ ] Pretzel pieces, bulk, ~4.5 oz
-- [ ] Nut-free chocolate chips, bulk, ~4.5 oz
+- [ ] Sunflower seeds, bulk, 6 oz
+- [ ] Dried fruit, bulk, 6 oz
+- [ ] Pretzel pieces, bulk, 4.5 oz
+- [ ] Nut-free chocolate chips, bulk, 4.5 oz
 
 ## Equipment
 
@@ -68,8 +68,8 @@ wrapped store bags.
 
 ## Cost Estimate
 
-~$1.35/scout/day (sunflower seeds ~$0.45, dried fruit ~$0.35, pretzels
-~$0.15, chocolate chips ~$0.41). Boston-area pricing, bulk-bin prices
+$1.35/scout/day (sunflower seeds $0.45, dried fruit $0.35, pretzels
+$0.15, chocolate chips $0.41). Boston-area pricing, bulk-bin prices
 where available — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes

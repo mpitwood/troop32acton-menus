@@ -2,8 +2,8 @@
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Boil-and-Steep · Serves 1 (base) + boost scaled to meat-eaters · Weight:
-~5.5 oz/serving base + ~1.25 oz/meat-eater · ~640 kcal/serving base
-(~116 kcal/oz) + ~188 kcal boost · ~26g protein base + ~12.5g boost*
+5.5 oz/serving base + 1.25 oz/meat-eater · 640 kcal/serving base
+(116 kcal/oz) + 188 kcal boost · 26g protein base + 12.5g boost*
 
 The trail comfort-food default — real cheese powder and butter powder
 make this taste like actual mac and cheese, not a compromise. Bacon bits
@@ -24,10 +24,10 @@ the shared pot.
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Quick-cooking small pasta, ~24 oz
-- [ ] Cheese powder, ~6 oz
-- [ ] Nonfat dry milk powder, ~1.8 oz
-- [ ] Butter powder, ~1.5 oz
+- [ ] Quick-cooking small pasta, 24 oz
+- [ ] Cheese powder, 6 oz
+- [ ] Nonfat dry milk powder, 1.8 oz
+- [ ] Butter powder, 1.5 oz
 - [ ] Salt, pepper
 - [ ] Dehydrated bacon bits or summer sausage — buy/prep based on
       headcount of meat-eaters
@@ -79,8 +79,8 @@ the shared pot.
 
 ## Cost Estimate
 
-Base: ~$1.55/scout (pasta ~$0.90, cheese powder ~$0.50, milk powder
-~$0.09, butter powder ~$0.19). Boost: ~$1.25 per meat-eating scout.
+Base: $1.55/scout (pasta $0.90, cheese powder $0.50, milk powder
+$0.09, butter powder $0.19). Boost: $1.25 per meat-eating scout.
 Butter powder is a specialty item — see
 [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing notes.
 

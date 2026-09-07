@@ -1,8 +1,8 @@
 # Crackers & Spread Bar
 
 *Lunch · Main · Meat & Vegetarian (one bar) · Nut-Free: Yes · Egg-Free:
-Yes · No-Cook · Serves 1 · Weight: ~7.25 oz/serving · ~858-908
-kcal/serving (~118-125 kcal/oz) · ~32-35g protein*
+Yes · No-Cook · Serves 1 · Weight: 7.25 oz/serving · 858-908
+kcal/serving (118-125 kcal/oz) · 32-35g protein*
 
 The classic cracker-barrel trail lunch — crackers, a spreadable cheese,
 a protein side, and an energy bar, laid out for everyone to build their
@@ -14,7 +14,7 @@ own plate. No stove needed. Close to Philmont's actual Lunch #1 total
 - 2 oz crackers (repackaged, no box)
 - 1.5 oz shelf-stable cheese spread wedge (shared)
 - 0.75 oz shared trail mix
-- 1 energy or protein bar (~2 oz)
+- 1 energy or protein bar (2 oz)
 
 **Protein (choose one):**
 - Meat: 1 meat stick or jerky stick
@@ -22,9 +22,9 @@ own plate. No stove needed. Close to Philmont's actual Lunch #1 total
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Crackers, ~12 oz (repackaged from boxes into bags)
+- [ ] Crackers, 12 oz (repackaged from boxes into bags)
 - [ ] Cheese spread wedges, 9
-- [ ] Trail mix, ~4.5 oz (shared)
+- [ ] Trail mix, 4.5 oz (shared)
 - [ ] Energy/protein bars, 6
 - [ ] Meat sticks and sunflower seed butter/jam packets — buy based on
       how many scouts want each
@@ -75,10 +75,10 @@ own plate. No stove needed. Close to Philmont's actual Lunch #1 total
 
 ## Cost Estimate
 
-Meat build: ~$4.02/scout (crackers ~$0.60, cheese wedge ~$0.90, meat
-stick ~$1.25, trail mix ~$0.32, bar ~$0.95... rounded, see below). Total
-with bar at ~$1.50: ~$4.57/scout. Vegetarian build: ~$4.07/scout with
-sunflower seed butter + jam (~$0.75) in place of the meat stick.
+Meat build: $4.02/scout (crackers $0.60, cheese wedge $0.90, meat
+stick $1.25, trail mix $0.32, bar $0.95... rounded, see below). Total
+with bar at $1.50: $4.57/scout. Vegetarian build: $4.07/scout with
+sunflower seed butter + jam ($0.75) in place of the meat stick.
 Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes

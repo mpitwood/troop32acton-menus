@@ -7,7 +7,7 @@ The classic camp snack, made safe by default with sunflower seed butter
 instead of peanut butter — nobody has to ask "does this have nuts," it
 simply doesn't.
 
-## Ingredients (serves 6, ~2 logs each)
+## Ingredients (serves 6, 2 logs each)
 
 - 12 celery stalks, cut into 4" logs
 - 1 (16 oz) jar sunflower seed butter (nut-free peanut butter alternative)
@@ -54,8 +54,8 @@ simply doesn't.
 
 ## Cost Estimate
 
-~$2.10/scout for 6: celery ~$2.80, sunflower seed butter ~$7, raisins
-~$2.80. Boston-area pricing — see
+$2.10/scout for 6: celery $2.80, sunflower seed butter $7, raisins
+$2.80. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

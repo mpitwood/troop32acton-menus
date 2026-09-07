@@ -24,9 +24,11 @@ it themselves, not copy this answer key.
 - **Processed:** none in the base; sausage boost is a processed meat and
   optional — the base holds up as a complete dish without it
 
-#### [Camp Pancakes](front-country/breakfast/camp-pancakes.md)
+#### [Camp Pancakes — Mix-In Bar](front-country/breakfast/camp-pancakes.md)
 - **Protein:** eggs, milk — present but modest, not the anchor of the meal
-- **Processed:** boxed pancake mix, syrup (added sugar)
+- **Fruit:** real, if the scout picks berries or banana — the mix-in policy
+  actually gets fruit onto the plate more often than a plain pancake would
+- **Processed:** boxed pancake mix, syrup, chocolate chips (all added sugar)
 - Pair with a protein-forward side (eggs, sausage) rather than serving
   pancakes and syrup alone
 
@@ -253,8 +255,8 @@ it themselves, not copy this answer key.
 ### Breakfast
 
 #### [Backcountry Breakfast Burrito — Vegetarian Base + Sausage Boost](backpacking/breakfast/backcountry-breakfast-burrito.md)
-**Nutrition:** ~5.2 oz/serving base + ~1.5 oz/meat-eater · ~536 kcal/serving
-base (~103 kcal/oz) + ~240 kcal boost · ~31g protein base + ~13.5g boost
+**Nutrition:** 5.2 oz/serving base + 1.5 oz/meat-eater · 536 kcal/serving
+base (103 kcal/oz) + 240 kcal boost · 31g protein base + 13.5g boost
 - **Protein (base):** bean flakes, TVP, cheese powder; + dehydrated
   sausage (boost)
 - **Vegetables:** dehydrated bell pepper and onion
@@ -263,8 +265,8 @@ base (~103 kcal/oz) + ~240 kcal boost · ~31g protein base + ~13.5g boost
   lighter whole-food substitute that still packs this small
 
 #### [Cold-Soak Muesli](backpacking/breakfast/cold-soak-muesli.md)
-**Nutrition:** ~6.4 oz/serving · ~704-774 kcal/serving (~110-121 kcal/oz)
-· ~28-31g protein
+**Nutrition:** 6.4 oz/serving · 704-774 kcal/serving (110-121 kcal/oz)
+· 28-31g protein
 - **Protein:** milk powder, chia seeds, sunflower seeds; + jerky or
   sunflower seed butter (protein side)
 - **Whole food:** rolled oats, dried fruit
@@ -272,8 +274,8 @@ base (~103 kcal/oz) + ~240 kcal boost · ~31g protein base + ~13.5g boost
   breakfast as backpacking gets
 
 #### [Hot Oatmeal Bar (Trail)](backpacking/breakfast/hot-oatmeal-bar.md)
-**Nutrition:** ~5.3 oz/serving · ~613-683 kcal/serving (~116-129 kcal/oz)
-· ~24-27g protein
+**Nutrition:** 5.3 oz/serving · 613-683 kcal/serving (116-129 kcal/oz)
+· 24-27g protein
 - **Protein:** milk powder, sunflower seeds; + jerky or sunflower seed
   butter (protein side)
 - **Whole food:** oats, dried fruit
@@ -281,8 +283,8 @@ base (~103 kcal/oz) + ~240 kcal boost · ~31g protein base + ~13.5g boost
   added sugar, in a controlled small amount
 
 #### [No-Cook Bar & Protein Breakfast](backpacking/breakfast/no-cook-bar-breakfast.md)
-**Nutrition:** ~5.9 oz/serving · ~710-780 kcal/serving (~120-132 kcal/oz)
-· ~17.5-20.5g protein
+**Nutrition:** 5.9 oz/serving · 710-780 kcal/serving (120-132 kcal/oz)
+· 17.5-20.5g protein
 - **Protein:** jerky or sunflower seed butter; modest amounts from the
   bar and granola
 - **Processed:** the bar, granola pouch, and drink mix are processed
@@ -294,8 +296,8 @@ base (~103 kcal/oz) + ~240 kcal boost · ~31g protein base + ~13.5g boost
 ### Lunch
 
 #### [Cold-Soak Couscous Salad — Vegetarian Base + Salami Boost](backpacking/lunch/cold-soak-couscous-salad.md)
-**Nutrition:** ~6.45 oz/serving base + ~1 oz/meat-eater · ~738 kcal/serving
-base (~114 kcal/oz) + ~140 kcal boost · ~32g protein base + ~6g boost
+**Nutrition:** 6.45 oz/serving base + 1 oz/meat-eater · 738 kcal/serving
+base (114 kcal/oz) + 140 kcal boost · 32g protein base + 6g boost
 - **Protein (base):** TVP, parmesan powder, plus the bar; + pepperoni/
   salami (boost)
 - **Vegetables:** dehydrated tomato/pepper flakes
@@ -304,16 +306,16 @@ base (~114 kcal/oz) + ~140 kcal boost · ~32g protein base + ~6g boost
   vegetarian base doesn't fall short on protein without the meat boost
 
 #### [Crackers & Spread Bar](backpacking/lunch/crackers-and-spread-bar.md)
-**Nutrition:** ~7.25 oz/serving · ~858-908 kcal/serving (~118-125 kcal/oz)
-· ~32-35g protein
+**Nutrition:** 7.25 oz/serving · 858-908 kcal/serving (118-125 kcal/oz)
+· 32-35g protein
 - **Protein:** cheese spread, meat stick or sunflower seed butter, plus
   the bar
 - **Processed:** crackers, cheese spread wedges, and the bar are
   processed convenience items, standard for a no-cook trail lunch
 
 #### [Hummus Wrap — Vegetarian Base + Tuna/Salmon Boost](backpacking/lunch/hummus-wrap-tuna-boost.md)
-**Nutrition:** ~6.5 oz/serving base + ~2.6 oz/meat-eater · ~705 kcal/serving
-base (~108 kcal/oz) + ~90 kcal boost · ~23g protein base + ~13g boost
+**Nutrition:** 6.5 oz/serving base + 2.6 oz/meat-eater · 705 kcal/serving
+base (108 kcal/oz) + 90 kcal boost · 23g protein base + 13g boost
 - **Protein (base):** hummus (chickpeas, tahini), plus the bar; + tuna/
   salmon (boost)
 - **Vegetables:** dehydrated veggie flakes
@@ -321,8 +323,8 @@ base (~108 kcal/oz) + ~90 kcal boost · ~23g protein base + ~13g boost
   tuna/salmon pouches are minimally processed
 
 #### [Trail Tortilla Wrap Bar](backpacking/lunch/tortilla-wrap-bar.md)
-**Nutrition:** ~7.75-8.5 oz/serving · ~840-950 kcal/serving
-(~108-112 kcal/oz) · ~32-38g protein
+**Nutrition:** 7.75-8.5 oz/serving · 840-950 kcal/serving
+(108-112 kcal/oz) · 32-38g protein
 - **Protein:** cheese, pepperoni/salami or hummus powder, plus whatever
   the bar contributes
 - **Vegetables:** dehydrated tomato/pepper flakes, if using
@@ -332,8 +334,8 @@ base (~108 kcal/oz) + ~90 kcal boost · ~23g protein base + ~13g boost
 ### Dinner
 
 #### [Backcountry Chili Mac — Vegetarian Base + Beef Boost](backpacking/dinner/backcountry-chili-mac.md)
-**Nutrition:** ~6 oz/serving base + ~1 oz/meat-eater · ~645 kcal/serving
-base (~108 kcal/oz) + ~110 kcal boost · ~34g protein base + ~15g boost
+**Nutrition:** 6 oz/serving base + 1 oz/meat-eater · 645 kcal/serving
+base (108 kcal/oz) + 110 kcal boost · 34g protein base + 15g boost
 - **Protein (base):** black beans, TVP, cheese powder; + ground beef
   (boost)
 - **Vegetables:** dehydrated bell pepper, onion, tomato powder
@@ -342,8 +344,8 @@ base (~108 kcal/oz) + ~110 kcal boost · ~34g protein base + ~15g boost
   substitute that packs this small for a multi-day trip
 
 #### [Backcountry Mac and Cheese — Vegetarian Base + Bacon Boost](backpacking/dinner/backcountry-mac-and-cheese.md)
-**Nutrition:** ~5.5 oz/serving base + ~1.25 oz/meat-eater · ~640 kcal/serving
-base (~116 kcal/oz) + ~188 kcal boost · ~26g protein base + ~12.5g boost
+**Nutrition:** 5.5 oz/serving base + 1.25 oz/meat-eater · 640 kcal/serving
+base (116 kcal/oz) + 188 kcal boost · 26g protein base + 12.5g boost
 - **Protein (base):** cheese powder, pasta, milk powder; + bacon (boost)
 - **Processed:** cheese powder, milk powder, and butter powder are all
   processed convenience items — genuinely hard to avoid for a
@@ -351,8 +353,8 @@ base (~116 kcal/oz) + ~188 kcal boost · ~26g protein base + ~12.5g boost
   whole-food standard
 
 #### [Backcountry Quesadilla Night — Vegetarian Base + Pepperoni Boost](backpacking/dinner/backcountry-quesadilla-night.md)
-**Nutrition:** ~6 oz/serving base + ~1 oz/meat-eater · ~639 kcal/serving
-base (~105 kcal/oz) + ~140 kcal boost · ~32g protein base + ~6g boost
+**Nutrition:** 6 oz/serving base + 1 oz/meat-eater · 639 kcal/serving
+base (105 kcal/oz) + 140 kcal boost · 32g protein base + 6g boost
 - **Protein (base):** black beans, TVP, cheese powder; + pepperoni
   (boost)
 - **Vegetables:** dehydrated bell pepper and onion
@@ -361,8 +363,8 @@ base (~105 kcal/oz) + ~140 kcal boost · ~32g protein base + ~6g boost
   real nutritional work in the base
 
 #### [Lentil Couscous Curry](backpacking/dinner/lentil-couscous-curry.md)
-**Nutrition:** ~6 oz/serving · ~650 kcal/serving (~108 kcal/oz) ·
-~34g protein
+**Nutrition:** 6 oz/serving · 650 kcal/serving (108 kcal/oz) ·
+34g protein
 - **Protein:** red lentils and TVP carry this dish on their own —
   genuinely high protein and fiber for the weight, not a "needs meat to
   be real food" situation
@@ -373,8 +375,8 @@ base (~105 kcal/oz) + ~140 kcal boost · ~32g protein base + ~6g boost
   backpacking dinner
 
 #### [Sunflower Butter Noodles — Vegetarian Base + Chicken Boost](backpacking/dinner/sunflower-butter-noodles.md)
-**Nutrition:** ~6 oz/serving base + ~1 oz/meat-eater · ~685 kcal/serving
-base (~114 kcal/oz) + ~130 kcal boost · ~24g protein base + ~20g boost
+**Nutrition:** 6 oz/serving base + 1 oz/meat-eater · 685 kcal/serving
+base (114 kcal/oz) + 130 kcal boost · 24g protein base + 20g boost
 - **Protein (base):** sunflower seed butter, TVP; + chicken (boost)
 - **Vegetables:** dehydrated carrot and snap pea flakes
 - **Processed:** rice noodles are a refined-grain base — the sunflower
@@ -384,7 +386,7 @@ base (~114 kcal/oz) + ~130 kcal boost · ~24g protein base + ~20g boost
 ### Snacks
 
 #### [Nut-Free Trail Mix (Bulk Repackaged)](backpacking/snacks/nut-free-trail-mix-bulk.md)
-**Nutrition:** ~3.5 oz/serving · ~440 kcal/serving (~125 kcal/oz) ·
+**Nutrition:** 3.5 oz/serving · 440 kcal/serving (125 kcal/oz) ·
 protein not stated on the page
 - **Protein:** sunflower seeds
 - **Fruit:** dried fruit
@@ -393,7 +395,7 @@ protein not stated on the page
   leans less candy-heavy than a typical store trail mix
 
 #### [Protein Bar & Jerky Station](backpacking/snacks/protein-bar-jerky-station.md)
-**Nutrition:** ~3 oz/serving · ~350-380 kcal/serving (~117-127 kcal/oz) ·
+**Nutrition:** 3 oz/serving · 350-380 kcal/serving (117-127 kcal/oz) ·
 protein not stated on the page (varies by bar brand and protein side
 chosen)
 - **Protein:** varies by bar brand and protein side chosen

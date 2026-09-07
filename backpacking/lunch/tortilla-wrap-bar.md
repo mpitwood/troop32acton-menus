@@ -1,8 +1,8 @@
 # Trail Tortilla Wrap Bar
 
 *Lunch · Main · Meat & Vegetarian (one bar) · Nut-Free: Yes · Egg-Free:
-Yes · No-Cook · Serves 1 · Weight: ~7.75-8.5 oz/serving · ~840-950
-kcal/serving (~108-112 kcal/oz) · ~32-38g protein*
+Yes · No-Cook · Serves 1 · Weight: 7.75-8.5 oz/serving · 840-950
+kcal/serving (108-112 kcal/oz) · 32-38g protein*
 
 No stove, no wait — good for a midday break when the goal is to eat and
 keep moving. A waxed hard cheese (gouda, cheddar) holds up unrefrigerated
@@ -18,7 +18,7 @@ calorie and protein numbers.
 - 1.5 oz hard cheese (waxed gouda or cheddar) or shelf-stable cheese
   wedges
 - 1 tbsp dehydrated tomato/pepper flakes (0.3 oz, optional)
-- 1 energy or protein bar (~2 oz)
+- 1 energy or protein bar (2 oz)
 
 **Protein (choose one):**
 - Meat: 1.5 oz sliced pepperoni or salami
@@ -27,8 +27,8 @@ calorie and protein numbers.
 ## Shopping List (for a patrol of 6)
 
 - [ ] Tortillas, 12
-- [ ] Hard cheese, ~9 oz
-- [ ] Dehydrated tomato/pepper flakes, ~2 oz (optional)
+- [ ] Hard cheese, 9 oz
+- [ ] Dehydrated tomato/pepper flakes, 2 oz (optional)
 - [ ] Energy/protein bars, 6
 - [ ] Pepperoni/salami and hummus powder — buy based on how many scouts
       want each, not one of each per scout
@@ -78,10 +78,10 @@ calorie and protein numbers.
 
 ## Cost Estimate
 
-Meat build: ~$4.35/scout (tortillas ~$0.70, cheese ~$1.20, pepperoni
-~$1.65, flakes ~$0.15, bar ~$1.50 [~1.65]). Vegetarian build: ~$3.90/
-scout (tortillas ~$0.70, cheese ~$1.20, hummus powder ~$0.53, flakes
-~$0.15, bar ~$1.50). Boston-area pricing — see
+Meat build: $4.35/scout (tortillas $0.70, cheese $1.20, pepperoni
+$1.65, flakes $0.15, bar $1.50 [1.65]). Vegetarian build: $3.90/
+scout (tortillas $0.70, cheese $1.20, hummus powder $0.53, flakes
+$0.15, bar $1.50). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes

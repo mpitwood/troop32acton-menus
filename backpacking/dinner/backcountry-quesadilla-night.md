@@ -2,9 +2,9 @@
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Check
 tortilla label · Boil-and-Steep (for the base filling) · Serves 1 (base)
-+ boost scaled to meat-eaters · Weight: ~6 oz/serving base + ~1
-oz/meat-eater · ~639 kcal/serving base (~105 kcal/oz) + ~140 kcal boost
-· ~32g protein base + ~6g boost*
++ boost scaled to meat-eaters · Weight: 6 oz/serving base + 1
+oz/meat-eater · 639 kcal/serving base (105 kcal/oz) + 140 kcal boost
+· 32g protein base + 6g boost*
 
 A change of pace from noodle-and-rice dinners — reconstituted cheese
 powder becomes a thick sauce/spread, folded into a tortilla with black
@@ -26,10 +26,10 @@ cold wrap if you're not.
 ## Shopping List (for a patrol of 6)
 
 - [ ] Tortillas, 12
-- [ ] Cheese powder, ~6 oz
-- [ ] Dehydrated black bean flakes, ~6 oz
-- [ ] TVP, ~3 oz
-- [ ] Dehydrated bell pepper/onion flakes, ~2.5 oz
+- [ ] Cheese powder, 6 oz
+- [ ] Dehydrated black bean flakes, 6 oz
+- [ ] TVP, 3 oz
+- [ ] Dehydrated bell pepper/onion flakes, 2.5 oz
 - [ ] Pepperoni — buy based on headcount of meat-eaters
 
 ## Equipment
@@ -83,9 +83,9 @@ cold wrap if you're not.
 
 ## Cost Estimate
 
-Base: ~$2.13/scout (tortillas ~$0.70, cheese powder ~$0.50, black bean
-flakes ~$0.60, TVP ~$0.18, veggie flakes ~$0.40, rounding adjustments
-included). Boost: ~$1.15 per meat-eating scout. Boston-area pricing —
+Base: $2.13/scout (tortillas $0.70, cheese powder $0.50, black bean
+flakes $0.60, TVP $0.18, veggie flakes $0.40, rounding adjustments
+included). Boost: $1.15 per meat-eating scout. Boston-area pricing —
 see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes

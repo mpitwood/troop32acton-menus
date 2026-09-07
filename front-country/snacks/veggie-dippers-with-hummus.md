@@ -53,8 +53,8 @@ pick on a day when the meals already leaned carb- and protein-heavy.
 
 ## Cost Estimate
 
-~$3.00/scout for 6: carrots ~$2.80, peppers ~$3.50, cucumbers ~$2.70,
-hummus ~$9 (2 tubs). Boston-area pricing — see
+$3.00/scout for 6: carrots $2.80, peppers $3.50, cucumbers $2.70,
+hummus $9 (2 tubs). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

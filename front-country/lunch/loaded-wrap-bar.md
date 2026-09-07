@@ -7,7 +7,7 @@ No stove needed — good for a lunch squeezed between morning and afternoon
 activities, or a travel-day lunch. One spread of ingredients, everyone
 builds their own wrap, meat and vegetarian scouts use the same table.
 
-## Ingredients (serves 6, ~1.5 wraps each)
+## Ingredients (serves 6, 1.5 wraps each)
 
 - 9 large tortillas or wraps
 - 1 lb sliced deli turkey or ham
@@ -73,8 +73,8 @@ builds their own wrap, meat and vegetarian scouts use the same table.
 
 ## Cost Estimate
 
-~$3.85/scout for 6: tortillas ~$3.50, deli meat ~$9.50, hummus ~$4.50,
-cheese ~$1.90, lettuce ~$1.40, tomatoes ~$2.30. Boston-area pricing — see
+$3.85/scout for 6: tortillas $3.50, deli meat $9.50, hummus $4.50,
+cheese $1.90, lettuce $1.40, tomatoes $2.30. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

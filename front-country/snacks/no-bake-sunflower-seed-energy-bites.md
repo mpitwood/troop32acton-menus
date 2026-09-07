@@ -2,7 +2,7 @@
 
 *Any meal · Snack (good pre-hike) · Vegan (with maple syrup) · Nut-Free:
 Yes (check sunflower seed butter and chocolate chip brands) · Egg-Free:
-Yes · No-Cook · Serves 6 (makes ~18-20 bites) · Prep 15 min · Cook: none*
+Yes · No-Cook · Serves 6 (makes 18-20 bites) · Prep 15 min · Cook: none*
 
 Oats, sunflower seed butter, and honey rolled into bites — a genuinely
 useful energy snack before a hike, not just a treat, and a good hands-on
@@ -63,8 +63,8 @@ patrol activity to make together.
 
 ## Cost Estimate
 
-~$2.20/scout for 6: oats ~$2.10, sunflower seed butter ~$4.20, honey
-~$2.80, chocolate chips ~$4.20. Boston-area pricing — see
+$2.20/scout for 6: oats $2.10, sunflower seed butter $4.20, honey
+$2.80, chocolate chips $4.20. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

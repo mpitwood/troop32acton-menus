@@ -23,7 +23,7 @@ mixing bowl and no eggs. About as low-effort as a real dessert gets.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~24-26 coals
+- Charcoal chimney, 24-26 coals
 - Lid lifter, leather gloves
 
 ## Instructions
@@ -37,7 +37,7 @@ mixing bowl and no eggs. About as low-effort as a real dessert gets.
 
 ### Onsite (at camp)
 
-1. Light ~24-26 coals.
+1. Light 24-26 coals.
 2. Pour both cans of peaches, with their juice, into the dutch oven.
 3. Sprinkle the dry cake mix evenly over the top — do not stir it in.
 4. Dot the butter slices evenly across the top, sprinkle with cinnamon.
@@ -59,7 +59,7 @@ mixing bowl and no eggs. About as low-effort as a real dessert gets.
 
 ## Cost Estimate
 
-~$2.05/scout for 6: peaches ~$6, cake mix ~$3.40, butter ~$2.75.
+$2.05/scout for 6: peaches $6, cake mix $3.40, butter $2.75.
 Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for
 sourcing.
 

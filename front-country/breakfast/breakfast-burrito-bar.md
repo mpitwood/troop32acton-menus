@@ -11,7 +11,7 @@ for scouts who want it.
 
 ## Ingredients
 
-**Base (serves 6, ~2 burritos each):**
+**Base (serves 6, 2 burritos each):**
 - 2 large sweet potatoes, diced small (1/2" cubes)
 - 2 (15 oz) cans black beans, drained and rinsed
 - 1 tsp cumin
@@ -89,9 +89,9 @@ for scouts who want it.
 
 ## Cost Estimate
 
-Base: ~$2.95/scout for 6 (sweet potatoes ~$4.20, black beans ~$3, spices
-~$1, bell pepper/onion ~$3.05, cheese ~$1.90, tortillas ~$4.40). Sausage
-boost: ~$0.85 per meat-eating scout (3/4 lb sausage ~$4.70, split ~5-6
+Base: $2.95/scout for 6 (sweet potatoes $4.20, black beans $3, spices
+$1, bell pepper/onion $3.05, cheese $1.90, tortillas $4.40). Sausage
+boost: $0.85 per meat-eating scout (3/4 lb sausage $4.70, split 5-6
 ways). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 

@@ -29,7 +29,7 @@ round it out.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~24-26 coals
+- Charcoal chimney, 24-26 coals
 - Lid lifter, leather gloves
 - Large zip-top bag (for tossing biscuit pieces in cinnamon sugar)
 
@@ -44,7 +44,7 @@ round it out.
 
 ### Onsite (at camp)
 
-1. Light ~24-26 coals.
+1. Light 24-26 coals.
 2. Toss the cut biscuit pieces with sugar and cinnamon in the zip-top bag
    until coated.
 3. Oil the dutch oven, layer in the coated biscuit pieces.
@@ -72,8 +72,8 @@ round it out.
 
 ## Cost Estimate
 
-~$3.00/scout for 6: biscuit dough ~$11.25 (3 cans), sugar/cinnamon ~$1.25,
-butter ~$5.50. Boston-area pricing — see
+$3.00/scout for 6: biscuit dough $11.25 (3 cans), sugar/cinnamon $1.25,
+butter $5.50. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

@@ -38,7 +38,7 @@ Chicken is warmed separately and spooned onto individual portions.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~24-26 coals
+- Charcoal chimney, 24-26 coals
 - Small pot (for warming chicken)
 - Lid lifter, leather gloves
 
@@ -52,7 +52,7 @@ Chicken is warmed separately and spooned onto individual portions.
 
 ### Onsite (at camp)
 
-1. Light ~24-26 coals. Oil the dutch oven.
+1. Light 24-26 coals. Oil the dutch oven.
 2. Layer: a splash of enchilada sauce on the bottom, then torn tortillas,
    black beans, corn, onion, and cheese. Repeat the layers 2-3 times,
    finishing with cheese on top.
@@ -79,9 +79,9 @@ Chicken is warmed separately and spooned onto individual portions.
 
 ## Cost Estimate
 
-Base: ~$2.85/scout for 6 (tortillas ~$4, enchilada sauce ~$4.70, beans
-~$1.50, corn ~$1.50, onion ~$0.65, cheese ~$4.70). Chicken boost: ~$1.25
-per meat-eating scout (2 cups canned/rotisserie chicken ~$7, split ~5-6
+Base: $2.85/scout for 6 (tortillas $4, enchilada sauce $4.70, beans
+$1.50, corn $1.50, onion $0.65, cheese $4.70). Chicken boost: $1.25
+per meat-eating scout (2 cups canned/rotisserie chicken $7, split 5-6
 ways). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 

@@ -29,7 +29,7 @@ meat never touches it.
 - Oil, salt, pepper
 - Optional toppings: shredded cheese, tortilla chips
 
-**Meat boost (sized to meat-eating scouts, ~3 oz raw per person):**
+**Meat boost (sized to meat-eating scouts, 3 oz raw per person):**
 - 1 lb ground beef (covers up to 5 meat-eating scouts)
 - Pinch each of chili powder and cumin, to match the base seasoning
 - Salt
@@ -100,10 +100,10 @@ meat never touches it.
 
 ## Cost Estimate
 
-Base: ~$3.15/scout for 6 (sweet potatoes ~$4.20, onion/pepper ~$3.05,
-garlic ~$1, beans ~$3, corn ~$1.50, crushed tomatoes ~$3, spices ~$1.25,
-optional toppings ~$2). Meat boost: ~$1.65 per meat-eating scout (1 lb
-ground beef ~$8.25, split 5 ways) — buy it sized to how many scouts
+Base: $3.15/scout for 6 (sweet potatoes $4.20, onion/pepper $3.05,
+garlic $1, beans $3, corn $1.50, crushed tomatoes $3, spices $1.25,
+optional toppings $2). Meat boost: $1.65 per meat-eating scout (1 lb
+ground beef $8.25, split 5 ways) — buy it sized to how many scouts
 actually want meat, not the whole patrol. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 

@@ -2,8 +2,8 @@
 
 *Breakfast · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Boil-and-Steep · Serves 1 (base) + boost scaled to meat-eaters · Weight:
-~5.2 oz/serving base + ~1.5 oz/meat-eater · ~536 kcal/serving base (~103
-kcal/oz) + ~240 kcal boost · ~31g protein base + ~13.5g boost*
+5.2 oz/serving base + 1.5 oz/meat-eater · 536 kcal/serving base (103
+kcal/oz) + 240 kcal boost · 31g protein base + 13.5g boost*
 
 The one hot, real breakfast in the rotation — dehydrated bean flakes and
 TVP rehydrate in a few minutes with boiling water, no simmering required.
@@ -28,10 +28,10 @@ protein — in line with Philmont's own breakfast totals.
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Dehydrated bean flakes, ~12 oz (specialty/bulk-foods item)
-- [ ] TVP, ~3 oz
-- [ ] Dehydrated bell pepper/onion flakes, ~2 oz
-- [ ] Cheese powder, ~5 oz
+- [ ] Dehydrated bean flakes, 12 oz (specialty/bulk-foods item)
+- [ ] TVP, 3 oz
+- [ ] Dehydrated bell pepper/onion flakes, 2 oz
+- [ ] Cheese powder, 5 oz
 - [ ] Cumin, chili powder
 - [ ] Burrito tortillas, 6
 - [ ] Breakfast sausage — buy and dehydrate based on headcount of
@@ -90,9 +90,9 @@ protein — in line with Philmont's own breakfast totals.
 
 ## Cost Estimate
 
-Base: ~$2.05/scout (bean flakes ~$1.20, TVP ~$0.18, veggie flakes ~$0.30,
-cheese powder ~$0.40, tortilla ~$0.35, spices negligible). Sausage boost:
-~$0.65 per meat-eating scout. Bean flakes, TVP, and cheese powder are
+Base: $2.05/scout (bean flakes $1.20, TVP $0.18, veggie flakes $0.30,
+cheese powder $0.40, tortilla $0.35, spices negligible). Sausage boost:
+$0.65 per meat-eating scout. Bean flakes, TVP, and cheese powder are
 specialty items, typically from an outdoor retailer or bulk-foods seller
 rather than a regular grocery store — see
 [OVERVIEW.md](../OVERVIEW.md#pricing).

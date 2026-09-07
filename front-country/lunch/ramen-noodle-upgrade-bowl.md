@@ -87,10 +87,10 @@ every diet in the patrol from one pot.
 
 ## Cost Estimate
 
-~$2.90/scout for 6: ramen ~$4, vegetables (snap peas/carrots/corn) ~$5,
-chicken/tofu ~$5.50 (tofu is cheaper, chicken pricier — this splits the
-difference), soy sauce/sesame oil ~$1, green onion ~$1.75, optional eggs
-~$2. Boston-area pricing — see
+$2.90/scout for 6: ramen $4, vegetables (snap peas/carrots/corn) $5,
+chicken/tofu $5.50 (tofu is cheaper, chicken pricier — this splits the
+difference), soy sauce/sesame oil $1, green onion $1.75, optional eggs
+$2. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

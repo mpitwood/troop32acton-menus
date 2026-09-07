@@ -2,8 +2,8 @@
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Boil-and-Steep · Serves 1 (base) + boost scaled to meat-eaters · Weight:
-~6 oz/serving base + ~1 oz/meat-eater · ~685 kcal/serving base (~114
-kcal/oz) + ~130 kcal boost · ~24g protein base + ~20g boost*
+6 oz/serving base + 1 oz/meat-eater · 685 kcal/serving base (114
+kcal/oz) + 130 kcal boost · 24g protein base + 20g boost*
 
 A peanut-free take on peanut noodles — sunflower seed butter does the job
 peanut sauce usually does, with quick-cooking rice noodles that rehydrate
@@ -27,12 +27,12 @@ protein.
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Quick-cooking rice noodles or ramen, ~21 oz
-- [ ] Sunflower seed butter packets, ~9 oz
-- [ ] TVP, ~3 oz
+- [ ] Quick-cooking rice noodles or ramen, 21 oz
+- [ ] Sunflower seed butter packets, 9 oz
+- [ ] TVP, 3 oz
 - [ ] Soy sauce powder or packets
 - [ ] Rice vinegar powder, sugar
-- [ ] Dehydrated carrot/snap pea flakes, ~2.5 oz
+- [ ] Dehydrated carrot/snap pea flakes, 2.5 oz
 - [ ] Dehydrated or jerky-style chicken bits — buy/prep based on
       headcount of meat-eaters
 
@@ -86,8 +86,8 @@ protein.
 
 ## Cost Estimate
 
-Base: ~$1.85/scout (noodles ~$0.70, sunflower seed butter ~$0.68, TVP
-~$0.18, soy sauce powder ~$0.09, veggie flakes ~$0.40). Boost: ~$1.60 per
+Base: $1.85/scout (noodles $0.70, sunflower seed butter $0.68, TVP
+$0.18, soy sauce powder $0.09, veggie flakes $0.40). Boost: $1.60 per
 meat-eating scout. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 

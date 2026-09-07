@@ -2,8 +2,8 @@
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Boil-and-Steep · Serves 1 (base) + boost scaled to meat-eaters · Weight:
-~6 oz/serving base + ~1 oz/meat-eater · ~645 kcal/serving base (~108
-kcal/oz) + ~110 kcal boost · ~34g protein base + ~15g boost*
+6 oz/serving base + 1 oz/meat-eater · 645 kcal/serving base (108
+kcal/oz) + 110 kcal boost · 34g protein base + 15g boost*
 
 Quick-cooking pasta or rice, dehydrated beans, and tomato powder — this
 rehydrates with one pour of boiling water and a few minutes covered, no
@@ -28,11 +28,11 @@ to individual bowls, never cooked into the shared pot.
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Quick-cooking pasta or instant rice, ~15 oz
-- [ ] Dehydrated black bean flakes, ~7.5 oz
-- [ ] TVP, ~6 oz
-- [ ] Tomato powder, ~2 oz
-- [ ] Dehydrated bell pepper/onion flakes, ~2 oz
+- [ ] Quick-cooking pasta or instant rice, 15 oz
+- [ ] Dehydrated black bean flakes, 7.5 oz
+- [ ] TVP, 6 oz
+- [ ] Tomato powder, 2 oz
+- [ ] Dehydrated bell pepper/onion flakes, 2 oz
 - [ ] Chili powder, cumin
 - [ ] Oil, cheese powder (optional)
 - [ ] Freeze-dried ground beef or jerky — buy/prep based on headcount of
@@ -88,9 +88,9 @@ to individual bowls, never cooked into the shared pot.
 
 ## Cost Estimate
 
-Base: ~$2.55/scout (pasta/rice ~$0.50, black bean flakes ~$0.75, TVP
-~$0.35, tomato powder ~$0.27, veggie flakes ~$0.30, cheese powder
-~$0.25, oil negligible). Boost: ~$1.20 per meat-eating scout. Several
+Base: $2.55/scout (pasta/rice $0.50, black bean flakes $0.75, TVP
+$0.35, tomato powder $0.27, veggie flakes $0.30, cheese powder
+$0.25, oil negligible). Boost: $1.20 per meat-eating scout. Several
 base ingredients are specialty items — see
 [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing notes.
 

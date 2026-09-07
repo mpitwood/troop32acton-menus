@@ -7,7 +7,7 @@ The simplest possible dutch oven side — refrigerated biscuit dough, baked
 in coals, brushed with garlic butter. Good alongside chili or pasta night
 to round out the meal without adding real cook-time complexity.
 
-## Ingredients (serves 6, ~2 biscuits each)
+## Ingredients (serves 6, 2 biscuits each)
 
 - 2 (16.3 oz) cans refrigerated biscuit dough
 - 4 tbsp butter, melted
@@ -26,7 +26,7 @@ to round out the meal without adding real cook-time complexity.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~24-26 coals
+- Charcoal chimney, 24-26 coals
 - Lid lifter, leather gloves
 - Pastry brush (or a spoon works fine)
 
@@ -41,7 +41,7 @@ to round out the meal without adding real cook-time complexity.
 
 ### Onsite (at camp)
 
-1. Light ~24-26 coals.
+1. Light 24-26 coals.
 2. Lightly oil the dutch oven. Arrange the biscuits in a single layer,
    sides touching.
 3. Cover. Set on 8 coals underneath, 16-18 coals on the lid. Bake 18-20
@@ -68,8 +68,8 @@ to round out the meal without adding real cook-time complexity.
 
 ## Cost Estimate
 
-~$1.60/scout for 6: biscuit dough ~$7.50, butter ~$1.35, garlic/parsley
-~$0.75. Boston-area pricing — see
+$1.60/scout for 6: biscuit dough $7.50, butter $1.35, garlic/parsley
+$0.75. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

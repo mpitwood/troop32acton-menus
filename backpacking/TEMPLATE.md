@@ -3,9 +3,9 @@
 *Meal: Breakfast/Lunch/Dinner · Course: Main/Snack · Diet: Meat base/
 Vegetarian base/Vegetarian/Vegan · Nut-Free: Yes/No · Egg-Free: Yes/No ·
 Method: No-Cook/Cold-Soak/Boil-and-Steep/Simmer · Serves: 1 (per person) ·
-Weight: __ oz/serving · ~__ kcal/serving (__ kcal/oz) · ~__g protein*
+Weight: __ oz/serving · __ kcal/serving (__ kcal/oz) · __g protein*
 
-Target for a full breakfast/lunch/dinner page: ~650-900 kcal and ~25-40g
+Target for a full breakfast/lunch/dinner page: 650-900 kcal and 25-40g
 protein per serving (base + boost/protein-side combined for a
 meat-eating scout) — see [OVERVIEW.md](OVERVIEW.md) for where that range
 comes from.
@@ -57,7 +57,7 @@ to make it real food."
 
 ## Cost Estimate
 
-- ~$X/scout — breakdown if useful; note if any ingredient is a specialty
+- $X/scout — breakdown if useful; note if any ingredient is a specialty
   item not found at a regular grocery store.
 
 ## Scaling Notes

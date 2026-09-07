@@ -65,8 +65,8 @@ own version of.
 
 ## Cost Estimate
 
-~$1.70/scout for 6: bread ~$4.25, butter ~$0.75, pie filling ~$4.50,
-powdered sugar ~$0.75. Boston-area pricing — see
+$1.70/scout for 6: bread $4.25, butter $0.75, pie filling $4.50,
+powdered sugar $0.75. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

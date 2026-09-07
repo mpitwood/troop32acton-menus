@@ -77,9 +77,9 @@ it.
 
 ## Cost Estimate
 
-Base: ~$2.00/scout for 6 (potatoes ~$4.75, onion/pepper ~$3.05, cheese
-~$1.90, spices/oil ~$1.25). Bacon boost: ~$0.90 per meat-eating scout (8
-slices ~$5, split ~5-6 ways). Boston-area pricing — see
+Base: $2.00/scout for 6 (potatoes $4.75, onion/pepper $3.05, cheese
+$1.90, spices/oil $1.25). Bacon boost: $0.90 per meat-eating scout (8
+slices $5, split 5-6 ways). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

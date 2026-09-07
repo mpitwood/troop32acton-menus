@@ -74,8 +74,8 @@ of oats, a spread of toppings, everyone builds their own bowl.
 
 ## Cost Estimate
 
-~$2.20/scout for 6: oats ~$3.50, milk ~$1.75, toppings (dried fruit,
-sunflower seeds, brown sugar, bananas) ~$8. Boston-area pricing — see
+$2.20/scout for 6: oats $3.50, milk $1.75, toppings (dried fruit,
+sunflower seeds, brown sugar, bananas) $8. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

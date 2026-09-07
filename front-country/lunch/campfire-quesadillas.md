@@ -7,7 +7,7 @@ Quick, hot, and easy to run meat and vegetarian versions side by side in two
 pans on the same 2-burner stove. Good midday lunch when the patrol wants
 something hot but not a long cook.
 
-## Ingredients (serves 6, ~1.5 quesadillas each)
+## Ingredients (serves 6, 1.5 quesadillas each)
 
 - 9 large flour tortillas
 - 2 cups shredded cheese (cheddar or Mexican blend)
@@ -72,8 +72,8 @@ something hot but not a long cook.
 
 ## Cost Estimate
 
-~$4.20/scout for 6: tortillas ~$3.50, cheese ~$3.75, chicken ~$7, beans
-~$1.50, corn ~$1.50, pepper ~$1.75, salsa/sour cream ~$5.75. Boston-area
+$4.20/scout for 6: tortillas $3.50, cheese $3.75, chicken $7, beans
+$1.50, corn $1.50, pepper $1.75, salsa/sour cream $5.75. Boston-area
 pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

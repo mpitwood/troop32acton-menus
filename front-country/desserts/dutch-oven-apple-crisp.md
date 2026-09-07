@@ -30,7 +30,7 @@ dutch oven skills.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~24-26 coals
+- Charcoal chimney, 24-26 coals
 - Lid lifter, leather gloves
 - Mixing bowl (for the topping)
 
@@ -47,7 +47,7 @@ dutch oven skills.
 
 ### Onsite (at camp)
 
-1. Light ~24-26 coals.
+1. Light 24-26 coals.
 2. Toss the apple slices with sugar, cinnamon, and lemon juice directly in
    the dutch oven.
 3. Stir the melted butter into the pre-mixed dry topping until crumbly.
@@ -72,8 +72,8 @@ dutch oven skills.
 
 ## Cost Estimate
 
-~$2.30/scout for 6: apples ~$6.80, oats/flour/sugar/cinnamon/lemon juice
-~$4.35, butter ~$2.75. Boston-area pricing — see
+$2.30/scout for 6: apples $6.80, oats/flour/sugar/cinnamon/lemon juice
+$4.35, butter $2.75. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 
 ## Scaling Notes

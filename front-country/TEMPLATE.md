@@ -53,7 +53,7 @@ canned soup, processed cheese) rather than claiming it's all whole-food.
 
 ## Cost Estimate
 
-- ~$X/scout for 6 — breakdown if useful
+- $X/scout for 6 — breakdown if useful
 
 ## Scaling Notes
 

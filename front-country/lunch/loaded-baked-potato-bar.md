@@ -75,9 +75,9 @@ start the potatoes in the coals before you leave, they hold heat well.
 
 ## Cost Estimate
 
-Base: ~$2.30/scout for 6 (potatoes ~$6, cheese ~$1.90, sour cream ~$2,
-green onion ~$1.75, black beans ~$1.50, oil/salt ~$0.75). Bacon boost:
-~$0.70 per meat-eating scout (6 slices ~$3.75, split ~5-6 ways).
+Base: $2.30/scout for 6 (potatoes $6, cheese $1.90, sour cream $2,
+green onion $1.75, black beans $1.50, oil/salt $0.75). Bacon boost:
+$0.70 per meat-eating scout (6 slices $3.75, split 5-6 ways).
 Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for
 sourcing.
 

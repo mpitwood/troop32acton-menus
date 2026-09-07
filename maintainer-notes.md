@@ -60,14 +60,14 @@ area and national figures were running noticeably low.
 - **Directly sourced Boston prices** (via [Numbeo Boston food
   prices](https://www.numbeo.com/food-prices/in/Boston), a
   crowd-sourced/aggregated price index, checked July 2026): milk $4.65/gal,
-  eggs $5.75/dozen, cheese ~$7/lb, chicken (breast/fillet) $6.35/lb, beef
-  (round/steak-cut) $8.55/lb, bread ~$4/loaf, rice $3.00/lb, apples
+  eggs $5.75/dozen, cheese $7/lb, chicken (breast/fillet) $6.35/lb, beef
+  (round/steak-cut) $8.55/lb, bread $4/loaf, rice $3.00/lb, apples
   $3.40/lb, bananas $0.96/lb, tomatoes $3.25/lb, potatoes $2.00/lb, onions
   $1.85/lb, lettuce $2.80/head.
 - **Everything else** (bacon, sausage, deli meat, canned goods, pasta,
   tortillas, box mixes, most produce not listed above, pantry items) is a
   **national average estimate** (rough figures from general knowledge, not
-  a live price check) **scaled up ~1.35x** — the Boston-vs-national premium
+  a live price check) **scaled up 1.35x** — the Boston-vs-national premium
   observed across the sourced staples above ran from about 1.27x (beef) to
   1.52x (chicken), so 1.35x is a middle-of-the-road estimate applied
   consistently rather than a per-item lookup.
@@ -79,7 +79,7 @@ area and national figures were running noticeably low.
   estimate, not a receipt. Before finalizing a shopping budget, a patrol
   should sanity-check a few line items against Market Basket, Stop & Shop,
   or wherever they're actually shopping — prices vary by store even within
-  Boston, and grocery inflation was running ~4% year-over-year in the
+  Boston, and grocery inflation was running 4% year-over-year in the
   Boston area as of mid-2026.
 
 ## Building the website

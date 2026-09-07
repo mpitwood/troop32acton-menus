@@ -2,8 +2,8 @@
 
 *Lunch · Main · Vegetarian base · Nut-Free: Check hummus powder label ·
 Egg-Free: Yes · No-Cook · Serves 1 (base) + boost scaled to meat-eaters ·
-Weight: ~6.5 oz/serving base + ~2.6 oz/meat-eater · ~705 kcal/serving
-base (~108 kcal/oz) + ~90 kcal boost · ~23g protein base + ~13g boost*
+Weight: 6.5 oz/serving base + 2.6 oz/meat-eater · 705 kcal/serving
+base (108 kcal/oz) + 90 kcal boost · 23g protein base + 13g boost*
 
 A genuinely filling no-cook wrap built around reconstituted hummus, with
 an energy bar to round it out, and a shelf-stable tuna or salmon pouch as
@@ -17,16 +17,16 @@ not mixed into a shared bowl.
 - 2 tortillas (3.2 oz)
 - 1 tbsp dehydrated veggie flakes (0.3 oz)
 - Pinch lemon pepper seasoning
-- 1 energy or protein bar (~2 oz)
+- 1 energy or protein bar (2 oz)
 
 **Boost (sized to meat-eating scouts):**
 - 1 tuna or salmon pouch (2.6 oz)
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Hummus powder, ~6 oz
+- [ ] Hummus powder, 6 oz
 - [ ] Tortillas, 12
-- [ ] Dehydrated veggie flakes, ~2 oz
+- [ ] Dehydrated veggie flakes, 2 oz
 - [ ] Lemon pepper seasoning
 - [ ] Energy/protein bars, 6
 - [ ] Tuna or salmon pouches — buy based on headcount of meat-eaters
@@ -78,9 +78,9 @@ not mixed into a shared bowl.
 
 ## Cost Estimate
 
-Base: ~$2.35/scout (hummus powder ~$0.70, tortillas ~$0.70, veggie flakes
-~$0.15, bar ~$1.50 → total adjusted ~$3.05/scout including bar). Boost:
-~$2.25 per meat-eating scout — tuna/salmon pouches are one of the pricier
+Base: $2.35/scout (hummus powder $0.70, tortillas $0.70, veggie flakes
+$0.15, bar $1.50 → total adjusted $3.05/scout including bar). Boost:
+$2.25 per meat-eating scout — tuna/salmon pouches are one of the pricier
 boosts in the repo, worth knowing before defaulting to this every lunch.
 Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 

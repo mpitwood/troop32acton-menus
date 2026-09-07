@@ -33,7 +33,7 @@ cheese quickly with more heat on top than bottom.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~16-18 coals
+- Charcoal chimney, 16-18 coals
 - Lid lifter
 
 ## Instructions
@@ -75,8 +75,8 @@ cheese quickly with more heat on top than bottom.
 
 ## Cost Estimate
 
-~$3.25/scout for 6 as a shared side: chips ~$4.75, cheese ~$3.75, beans
-~$1.50, produce ~$3.90, salsa/sour cream ~$5.75 (meat add-in extra ~$4.25
+$3.25/scout for 6 as a shared side: chips $4.75, cheese $3.75, beans
+$1.50, produce $3.90, salsa/sour cream $5.75 (meat add-in extra $4.25
 if used). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 

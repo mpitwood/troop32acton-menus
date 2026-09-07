@@ -1,8 +1,8 @@
 # Lentil Couscous Curry
 
 *Dinner · Main · Vegetarian/Vegan · Nut-Free: Yes · Egg-Free: Yes ·
-Simmer (short) · Serves 1 (base) + optional boost · Weight: ~6 oz/serving
-· ~650 kcal/serving (~108 kcal/oz) · ~34g protein*
+Simmer (short) · Serves 1 (base) + optional boost · Weight: 6 oz/serving
+· 650 kcal/serving (108 kcal/oz) · 34g protein*
 
 This is the dinner that proves vegetarian doesn't need a meat boost to be
 a genuine main course — red lentils cook fast and pack real protein and
@@ -25,11 +25,11 @@ choice matters, not because the base needs help.
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Red lentils, ~16.5 oz
-- [ ] Couscous, ~9 oz
-- [ ] Coconut milk powder, ~4.5 oz
-- [ ] Dehydrated mixed vegetables, ~3 oz
-- [ ] TVP, ~3 oz
+- [ ] Red lentils, 16.5 oz
+- [ ] Couscous, 9 oz
+- [ ] Coconut milk powder, 4.5 oz
+- [ ] Dehydrated mixed vegetables, 3 oz
+- [ ] TVP, 3 oz
 - [ ] Curry powder
 - [ ] Optional: dehydrated chicken bits, for scouts who want the boost
 
@@ -84,8 +84,8 @@ choice matters, not because the base needs help.
 
 ## Cost Estimate
 
-~$2.05/scout (lentils ~$0.55, couscous ~$0.30, coconut milk powder
-~$0.68, dehydrated vegetables ~$0.50, TVP ~$0.18). Optional boost: ~$1.60
+$2.05/scout (lentils $0.55, couscous $0.30, coconut milk powder
+$0.68, dehydrated vegetables $0.50, TVP $0.18). Optional boost: $1.60
 per scout who wants it (dehydrated chicken bits run higher per ounce than
 the beef/bacon boosts elsewhere in the repo). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.

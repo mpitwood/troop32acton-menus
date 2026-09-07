@@ -23,7 +23,7 @@ payoff-to-effort ratio is hard to beat.
 ## Equipment
 
 - 12" dutch oven + lid
-- Charcoal chimney, ~24-26 coals
+- Charcoal chimney, 24-26 coals
 - Lid lifter, leather gloves
 - Mixing bowl and spoon (or mix directly in a zip-top bag)
 
@@ -37,7 +37,7 @@ payoff-to-effort ratio is hard to beat.
 
 ### Onsite (at camp)
 
-1. Light ~24-26 coals.
+1. Light 24-26 coals.
 2. Mix the brownie batter per the box instructions in a bowl (or a
    zip-top bag with a corner snipped off, for less cleanup).
 3. Grease the dutch oven or line it with foil, leaving foil overhang as
@@ -65,7 +65,7 @@ payoff-to-effort ratio is hard to beat.
 
 ## Cost Estimate
 
-~$0.85/scout for 6: brownie mix ~$3.40, oil/eggs ~$1.50 (or applesauce ~$2
+$0.85/scout for 6: brownie mix $3.40, oil/eggs $1.50 (or applesauce $2
 for the egg-free version). Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
 

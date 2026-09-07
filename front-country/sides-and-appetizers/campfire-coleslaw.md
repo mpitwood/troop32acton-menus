@@ -60,7 +60,7 @@ travels better in a cooler.
 
 ## Cost Estimate
 
-~$0.75/scout for 6: coleslaw mix ~$3.25, vinegar/oil/sugar ~$1.25.
+$0.75/scout for 6: coleslaw mix $3.25, vinegar/oil/sugar $1.25.
 Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for
 sourcing.
 

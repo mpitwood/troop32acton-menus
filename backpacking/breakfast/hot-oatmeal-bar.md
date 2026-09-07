@@ -1,13 +1,13 @@
 # Hot Oatmeal Bar (Trail)
 
 *Breakfast · Main · Vegetarian/Vegan · Nut-Free: Yes · Egg-Free: Yes ·
-Boil-and-Steep · Serves 1 · Weight: ~5.3 oz/serving · ~613-683
-kcal/serving (~116-129 kcal/oz) · ~24-27g protein*
+Boil-and-Steep · Serves 1 · Weight: 5.3 oz/serving · 613-683
+kcal/serving (116-129 kcal/oz) · 24-27g protein*
 
 One boil, done — the lowest-fuel hot breakfast on the menu. Everything is
 pre-mixed into a single per-person packet at home, so there's no
 measuring or combining at camp, just water. Sized with the protein side
-included to land close to Philmont's ~700-1,000 kcal breakfast range.
+included to land close to Philmont's 700-1,000 kcal breakfast range.
 
 ## Ingredients (per person)
 
@@ -20,16 +20,16 @@ included to land close to Philmont's ~700-1,000 kcal breakfast range.
 - 1 oz sunflower seeds
 
 **Protein side (choose one, not mixed in):**
-- Meat: 1 jerky stick or meat stick (~1 oz)
-- Vegetarian: 1 sunflower seed butter packet (~1 oz)
+- Meat: 1 jerky stick or meat stick (1 oz)
+- Vegetarian: 1 sunflower seed butter packet (1 oz)
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Instant oats, ~12 oz
+- [ ] Instant oats, 12 oz
 - [ ] Brown sugar, cinnamon
-- [ ] Dried fruit, ~3 oz
-- [ ] Nonfat dry milk powder, ~3 oz
-- [ ] Sunflower seeds, ~6 oz
+- [ ] Dried fruit, 3 oz
+- [ ] Nonfat dry milk powder, 3 oz
+- [ ] Sunflower seeds, 6 oz
 - [ ] Jerky/meat sticks and sunflower seed butter packets — buy based on
       how many scouts want each, not one of each per scout
 
@@ -79,9 +79,9 @@ included to land close to Philmont's ~700-1,000 kcal breakfast range.
 
 ## Cost Estimate
 
-Base: ~$0.75/scout (oats ~$0.30, sugar/cinnamon ~$0.10, dried fruit
-~$0.35, milk powder ~$0.15, sunflower seeds ~$0.45). Protein side: jerky/
-meat stick ~$1.25 or sunflower seed butter packet ~$0.60. Boston-area
+Base: $0.75/scout (oats $0.30, sugar/cinnamon $0.10, dried fruit
+$0.35, milk powder $0.15, sunflower seeds $0.45). Protein side: jerky/
+meat stick $1.25 or sunflower seed butter packet $0.60. Boston-area
 pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes

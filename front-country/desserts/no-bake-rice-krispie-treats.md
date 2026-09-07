@@ -61,7 +61,7 @@ stretched thin managing the main course.
 
 ## Cost Estimate
 
-~$1.55/scout for 6: cereal ~$4.75, butter ~$1.35, marshmallows ~$3.10.
+$1.55/scout for 6: cereal $4.75, butter $1.35, marshmallows $3.10.
 Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing-basis) for
 sourcing.
 

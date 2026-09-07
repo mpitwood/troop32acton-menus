@@ -1,9 +1,9 @@
 # Cold-Soak Couscous Salad — Vegetarian Base + Salami Boost
 
 *Lunch · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
-Cold-Soak · Serves 1 (base) + boost scaled to meat-eaters · Weight: ~6.45
-oz/serving base + ~1 oz/meat-eater · ~738 kcal/serving base (~114
-kcal/oz) + ~140 kcal boost · ~32g protein base + ~6g boost*
+Cold-Soak · Serves 1 (base) + boost scaled to meat-eaters · Weight: 6.45
+oz/serving base + 1 oz/meat-eater · 738 kcal/serving base (114
+kcal/oz) + 140 kcal boost · 32g protein base + 6g boost*
 
 Couscous is the rare grain that rehydrates in cold water — no stove
 needed, which makes this the zero-fuel option when a hot lunch isn't
@@ -19,19 +19,19 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 - Pinch lemon pepper seasoning
 - 2 tbsp parmesan powder (0.5 oz)
 - 2 tbsp TVP (0.75 oz)
-- 1 energy or protein bar (~2 oz)
+- 1 energy or protein bar (2 oz)
 
 **Boost (sized to meat-eating scouts):**
 - 1 oz diced pepperoni or salami
 
 ## Shopping List (for a patrol of 6)
 
-- [ ] Couscous, ~15 oz
+- [ ] Couscous, 15 oz
 - [ ] Olive oil packets, 6
-- [ ] Dehydrated tomato/pepper flakes, ~2.5 oz
+- [ ] Dehydrated tomato/pepper flakes, 2.5 oz
 - [ ] Lemon pepper seasoning
-- [ ] Parmesan powder, ~3 oz
-- [ ] TVP, ~4.5 oz
+- [ ] Parmesan powder, 3 oz
+- [ ] TVP, 4.5 oz
 - [ ] Energy/protein bars, 6
 - [ ] Pepperoni or salami — buy based on headcount of meat-eaters
 
@@ -81,9 +81,9 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 
 ## Cost Estimate
 
-Base: ~$2.10/scout (couscous ~$0.50, oil ~$0.15, veggie flakes ~$0.40,
-parmesan powder ~$0.30, TVP ~$0.26, bar ~$1.50 rounds this up further —
-total with bar ~$3.10/scout). Boost: ~$1.10 per meat-eating scout.
+Base: $2.10/scout (couscous $0.50, oil $0.15, veggie flakes $0.40,
+parmesan powder $0.30, TVP $0.26, bar $1.50 rounds this up further —
+total with bar $3.10/scout). Boost: $1.10 per meat-eating scout.
 Boston-area pricing — see [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
 
 ## Scaling Notes

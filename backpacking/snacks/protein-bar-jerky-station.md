@@ -2,7 +2,7 @@
 
 *Any meal · Snack · Meat & Vegetarian (one station) · Nut-Free: Check bar
 label · Egg-Free: Check bar label · No-Cook · Serves 1 (per day) ·
-Weight: ~3 oz/serving · ~350-380 kcal/serving (~117-127 kcal/oz)*
+Weight: 3 oz/serving · 350-380 kcal/serving (117-127 kcal/oz)*
 
 A second daily snack alongside the trail mix — a bar plus a protein side,
 same "pick your own" pattern as the lunch bars, so nobody's protein
@@ -10,12 +10,12 @@ option is an afterthought.
 
 ## Ingredients (per person, per day)
 
-- 1 protein or energy bar (~2 oz)
+- 1 protein or energy bar (2 oz)
 
 **Protein side (choose one):**
-- Meat: 1 jerky stick (~1 oz)
-- Vegetarian: 1 plant-based jerky stick (~1 oz) or 1 sunflower seed
-  butter packet (~1 oz, cheaper option)
+- Meat: 1 jerky stick (1 oz)
+- Vegetarian: 1 plant-based jerky stick (1 oz) or 1 sunflower seed
+  butter packet (1 oz, cheaper option)
 
 ## Shopping List (for a patrol of 6, per day)
 
@@ -65,9 +65,9 @@ option is an afterthought.
 
 ## Cost Estimate
 
-Meat build: ~$2.75/scout/day (bar ~$1.50, jerky ~$1.25). Vegetarian
-build: ~$3.25/scout/day with plant-based jerky (~$1.75) or ~$2.10/scout/
-day with sunflower seed butter (~$0.60) — plant-based jerky runs pricier
+Meat build: $2.75/scout/day (bar $1.50, jerky $1.25). Vegetarian
+build: $3.25/scout/day with plant-based jerky ($1.75) or $2.10/scout/
+day with sunflower seed butter ($0.60) — plant-based jerky runs pricier
 per ounce than meat jerky, worth knowing before defaulting to it for
 budget-tight trips. Boston-area pricing — see
 [OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
