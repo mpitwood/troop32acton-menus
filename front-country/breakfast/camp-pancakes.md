@@ -21,11 +21,14 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 - Butter or oil, for the griddle
 - Syrup
 
-**Mix-In Bar (pick at least one per scout):**
-- 1 cup mini chocolate chips (buy a brand specifically labeled nut-free)
-- 1-2 cups blueberries or other berries, fresh or frozen
-- 2 bananas, sliced
-- Cinnamon-sugar: 2 tsp cinnamon whisked into 3 tbsp brown sugar
+**Mix-In Bar (quantities below are totals for the whole patrol — stock
+2-3 of these options, not all four, and let each scout pick one):**
+- 1 cup mini chocolate chips total (buy a brand specifically labeled
+  nut-free)
+- 1-2 cups blueberries or other berries total, fresh or frozen
+- 2 bananas total, sliced
+- Cinnamon-sugar (whole patrol): 2 tsp cinnamon whisked into 3 tbsp
+  brown sugar
 
 **Drink:**
 - Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
