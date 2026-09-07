@@ -172,8 +172,8 @@ out).
 Cooking oil, salt and pepper, and dry spices/seasonings are things most
 kitchens already have on hand in more than enough quantity for one
 recipe — buying a whole new bottle or jar just for a teaspoon or a
-splash is wasteful. Recipes flag these ingredients with **(pantry
-staple)** in their Shopping List.
+splash is wasteful. Recipes flag these ingredients in their Shopping
+List with **(take from home if available, purchase if necessary)**.
 
 - **Default: it's on the shopping list.** Don't skip buying it just
   because "someone probably has it at home."

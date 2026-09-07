@@ -27,7 +27,8 @@ not mixed into a shared bowl.
 - [ ] Hummus powder, 6 oz
 - [ ] Tortillas, 12
 - [ ] Dehydrated veggie flakes, 2 oz
-- [ ] Lemon pepper seasoning (pantry staple)
+- [ ] Lemon pepper seasoning (take from home if available, purchase if
+      necessary)
 - [ ] Energy/protein bars, 6
 - [ ] Tuna or salmon pouches — buy based on headcount of meat-eaters
 

@@ -23,7 +23,7 @@ round it out.
 
 - [ ] Refrigerated biscuit dough, 3 cans
 - [ ] Sugar, 1 cup
-- [ ] Cinnamon (pantry staple)
+- [ ] Cinnamon (take from home if available, purchase if necessary)
 - [ ] Butter, 2 sticks
 - [ ] Brown sugar, 1/2 cup
 - [ ] Breakfast drink, patrol's choice

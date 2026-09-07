@@ -19,9 +19,10 @@ to round out the meal without adding real cook-time complexity.
 
 - [ ] Refrigerated biscuit dough, 2 cans
 - [ ] Butter
-- [ ] Garlic (or garlic powder) (pantry staple)
+- [ ] Garlic (or garlic powder) (take from home if available, purchase if
+      necessary)
 - [ ] Optional: parsley
-- [ ] Oil (pantry staple)
+- [ ] Oil (take from home if available, purchase if necessary)
 
 ## Equipment
 

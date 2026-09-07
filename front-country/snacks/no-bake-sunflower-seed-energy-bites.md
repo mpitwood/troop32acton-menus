@@ -23,7 +23,8 @@ patrol activity to make together.
 - [ ] Sunflower seed butter, 1/2 cup
 - [ ] Honey or maple syrup, 1/3 cup
 - [ ] Mini chocolate chips (nut-free brand), 1/3 cup
-- [ ] Vanilla extract (optional, pantry staple)
+- [ ] Vanilla extract (optional; take from home if available, purchase if
+      necessary)
 
 ## Equipment
 

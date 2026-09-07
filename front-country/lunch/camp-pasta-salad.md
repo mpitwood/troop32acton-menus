@@ -30,7 +30,7 @@ carry the protein so it's filling without meat.
 - [ ] Red onion, 1/2
 - [ ] Mozzarella pearls or diced cheese, 1 cup
 - [ ] Chickpeas, 1 can (15 oz)
-- [ ] Italian seasoning (pantry staple)
+- [ ] Italian seasoning (take from home if available, purchase if necessary)
 - [ ] Optional: pepperoni or salami
 
 ## Equipment

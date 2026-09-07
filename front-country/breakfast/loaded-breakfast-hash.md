@@ -31,7 +31,8 @@ it.
 - [ ] Frozen diced hash potatoes, 2 lb (or 6 medium potatoes)
 - [ ] Onion, 1
 - [ ] Bell pepper, 1
-- [ ] Paprika, garlic powder (pantry staple)
+- [ ] Paprika (take from home if available, purchase if necessary)
+- [ ] Garlic powder (take from home if available, purchase if necessary)
 - [ ] Optional: shredded cheese, green onion
 - [ ] Bacon — buy based on headcount of meat-eaters
 - [ ] Breakfast drink, patrol's choice

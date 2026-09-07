@@ -39,12 +39,14 @@ meat never touches it.
 - [ ] Sweet potatoes, 2
 - [ ] Onion, 1
 - [ ] Bell pepper, 1
-- [ ] Garlic (pantry staple)
+- [ ] Garlic (take from home if available, purchase if necessary)
 - [ ] Black beans, 1 can (15 oz)
 - [ ] Kidney beans, 1 can (15 oz)
 - [ ] Corn, 1 can
 - [ ] Crushed tomatoes, 1 can (28 oz)
-- [ ] Chili powder, cumin, smoked paprika (pantry staple)
+- [ ] Chili powder (take from home if available, purchase if necessary)
+- [ ] Cumin (take from home if available, purchase if necessary)
+- [ ] Smoked paprika (take from home if available, purchase if necessary)
 - [ ] Ground beef — buy based on headcount of meat-eaters, not full patrol
 - [ ] Optional: shredded cheese, tortilla chips
 

@@ -31,7 +31,8 @@ every diet in the patrol from one pot.
 - [ ] Green onions, 1 bunch
 - [ ] Cooked chicken and/or firm tofu
 - [ ] Soy sauce
-- [ ] Sesame oil (optional, pantry staple)
+- [ ] Sesame oil (optional; take from home if available, purchase if
+      necessary)
 - [ ] Eggs (optional, for scouts without an egg allergy)
 
 ## Equipment

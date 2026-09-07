@@ -25,7 +25,8 @@ start the potatoes in the coals before you leave, they hold heat well.
 ## Shopping List
 
 - [ ] Russet potatoes, 6
-- [ ] Oil, salt (pantry staple)
+- [ ] Oil (take from home if available, purchase if necessary)
+- [ ] Salt (take from home if available, purchase if necessary)
 - [ ] Shredded cheddar cheese, 1 cup
 - [ ] Sour cream, 1/2 cup
 - [ ] Green onions

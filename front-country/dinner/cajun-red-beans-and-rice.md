@@ -33,9 +33,9 @@ andouille sausage browned separately for meat-eating scouts to stir in.
 - [ ] Onion, 1
 - [ ] Bell pepper, 1
 - [ ] Celery, 2 stalks
-- [ ] Garlic (pantry staple)
-- [ ] Cajun seasoning (pantry staple)
-- [ ] Bay leaf (pantry staple)
+- [ ] Garlic (take from home if available, purchase if necessary)
+- [ ] Cajun seasoning (take from home if available, purchase if necessary)
+- [ ] Bay leaf (take from home if available, purchase if necessary)
 - [ ] Andouille or smoked sausage — buy based on headcount of meat-eaters
 
 ## Equipment

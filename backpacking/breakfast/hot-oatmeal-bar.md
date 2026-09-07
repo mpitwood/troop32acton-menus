@@ -27,7 +27,7 @@ included to land close to Philmont's 700-1,000 kcal breakfast range.
 
 - [ ] Instant oats, 12 oz
 - [ ] Brown sugar
-- [ ] Cinnamon (pantry staple)
+- [ ] Cinnamon (take from home if available, purchase if necessary)
 - [ ] Dried fruit, 3 oz
 - [ ] Nonfat dry milk powder, 3 oz
 - [ ] Sunflower seeds, 6 oz

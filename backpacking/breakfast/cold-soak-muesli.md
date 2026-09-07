@@ -33,7 +33,8 @@ Sized to land near Philmont's own breakfast calorie and protein numbers
 - [ ] Chia seeds or ground flax, 12 tbsp
 - [ ] Sunflower seeds, 12 tbsp
 - [ ] Brown sugar (small amount)
-- [ ] Cinnamon, salt (pantry staple)
+- [ ] Cinnamon (take from home if available, purchase if necessary)
+- [ ] Salt (take from home if available, purchase if necessary)
 - [ ] Jerky sticks and sunflower seed butter packets — buy based on how
       many scouts want each
 

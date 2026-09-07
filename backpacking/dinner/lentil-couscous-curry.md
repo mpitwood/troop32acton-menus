@@ -30,7 +30,7 @@ choice matters, not because the base needs help.
 - [ ] Coconut milk powder, 4.5 oz
 - [ ] Dehydrated mixed vegetables, 3 oz
 - [ ] TVP, 3 oz
-- [ ] Curry powder (pantry staple)
+- [ ] Curry powder (take from home if available, purchase if necessary)
 - [ ] Optional: dehydrated chicken bits, for scouts who want the boost
 
 ## Equipment

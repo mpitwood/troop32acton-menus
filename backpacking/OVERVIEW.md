@@ -154,8 +154,8 @@ this folder already repackages spices and oil into (see
 [Packaging, bulk, and trash](#packaging-bulk-and-trash) above): rather
 than buying a jar of a spice just to measure a teaspoon into a shared
 bag, a scout whose kitchen already has it can measure that teaspoon
-straight from home. Recipes flag these ingredients with **(pantry
-staple)** in their Shopping List.
+straight from home. Recipes flag these ingredients in their Shopping
+List with **(take from home if available, purchase if necessary)**.
 
 - **Default: it's on the shopping list.** Don't skip buying it just
   because "someone probably has it at home."

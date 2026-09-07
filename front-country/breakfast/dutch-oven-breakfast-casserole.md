@@ -36,8 +36,11 @@ through seconds.
 - [ ] Bell pepper, 1
 - [ ] Onion, 1
 - [ ] Shredded cheddar cheese, 2 cups
-- [ ] Salt, pepper, garlic powder (pantry staple)
-- [ ] Cooking oil or spray (pantry staple)
+- [ ] Salt (take from home if available, purchase if necessary)
+- [ ] Pepper (take from home if available, purchase if necessary)
+- [ ] Garlic powder (take from home if available, purchase if necessary)
+- [ ] Cooking oil or spray (take from home if available, purchase if
+      necessary)
 - [ ] Breakfast sausage — buy based on headcount of meat-eaters
 - [ ] Breakfast drink, patrol's choice
 

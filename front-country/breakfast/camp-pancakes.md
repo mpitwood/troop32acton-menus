@@ -38,7 +38,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 - [ ] Pancake mix, one box (enough for 3 cups)
 - [ ] Milk, small carton
 - [ ] Eggs (2, or skip if using flax swap)
-- [ ] Oil or butter (pantry staple)
+- [ ] Oil or butter (take from home if available, purchase if necessary)
 - [ ] Syrup
 - [ ] Mix-ins — pick 2-3 of: mini chocolate chips (nut-free brand),
       blueberries, bananas, cinnamon + brown sugar, based on what the

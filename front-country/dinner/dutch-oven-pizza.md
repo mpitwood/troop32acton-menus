@@ -36,7 +36,7 @@ it, added right before that round goes in the oven.
 - [ ] Shredded pepper jack or cheddar, 2 cups
 - [ ] Pepperoni — buy based on headcount of meat-eaters
 - [ ] Optional: fresh cilantro
-- [ ] Olive oil (pantry staple)
+- [ ] Olive oil (take from home if available, purchase if necessary)
 - [ ] Cornmeal or flour
 
 ## Equipment

@@ -20,9 +20,10 @@ travels better in a cooler.
 
 - [ ] Shredded coleslaw mix, 1 bag (14 oz)
 - [ ] Apple cider vinegar
-- [ ] Oil (pantry staple)
+- [ ] Oil (take from home if available, purchase if necessary)
 - [ ] Sugar or honey
-- [ ] Celery seed (optional, pantry staple)
+- [ ] Celery seed (optional; take from home if available, purchase if
+      necessary)
 
 ## Equipment
 

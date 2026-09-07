@@ -32,8 +32,8 @@ packets of scouts who want it, before sealing.
 - [ ] Black beans, 1 can (15 oz)
 - [ ] Bell peppers, 3
 - [ ] Onion, 1 large
-- [ ] Oil (pantry staple)
-- [ ] Fajita seasoning (pantry staple)
+- [ ] Oil (take from home if available, purchase if necessary)
+- [ ] Fajita seasoning (take from home if available, purchase if necessary)
 - [ ] Flour tortillas, 12
 - [ ] Shredded cheese, 1.5 cups
 - [ ] Chicken thighs (or steak) — buy based on headcount of meat-eaters

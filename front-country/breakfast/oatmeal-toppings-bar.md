@@ -26,7 +26,7 @@ of oats, a spread of toppings, everyone builds their own bowl.
 - [ ] Quick oats, 3 cups (or a box of individual packets)
 - [ ] Milk (or water + powdered milk)
 - [ ] Brown sugar
-- [ ] Cinnamon (pantry staple)
+- [ ] Cinnamon (take from home if available, purchase if necessary)
 - [ ] Dried cranberries or raisins
 - [ ] Sunflower seeds
 - [ ] Bananas

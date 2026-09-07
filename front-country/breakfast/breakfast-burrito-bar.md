@@ -35,13 +35,15 @@ for scouts who want it.
 
 - [ ] Sweet potatoes, 2 large
 - [ ] Black beans, 2 cans (15 oz)
-- [ ] Cumin, chili powder, smoked paprika (pantry staple)
+- [ ] Cumin (take from home if available, purchase if necessary)
+- [ ] Chili powder (take from home if available, purchase if necessary)
+- [ ] Smoked paprika (take from home if available, purchase if necessary)
 - [ ] Bell pepper, 1
 - [ ] Onion, 1
 - [ ] Shredded cheese, 1 cup
 - [ ] Flour tortillas, burrito size, 12
 - [ ] Breakfast sausage — buy based on headcount of meat-eaters
-- [ ] Oil (pantry staple)
+- [ ] Oil (take from home if available, purchase if necessary)
 - [ ] Optional: avocado, salsa
 - [ ] Breakfast drink, patrol's choice
 

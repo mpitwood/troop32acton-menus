@@ -30,7 +30,7 @@ scouts add to their own bowl.
 - [ ] Brown sugar
 - [ ] Mustard
 - [ ] Ketchup
-- [ ] Smoked paprika (pantry staple)
+- [ ] Smoked paprika (take from home if available, purchase if necessary)
 - [ ] Onion, 1/2
 - [ ] Bacon — buy based on headcount of meat-eaters
 
