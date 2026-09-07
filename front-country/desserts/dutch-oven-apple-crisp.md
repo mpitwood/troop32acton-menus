@@ -15,6 +15,7 @@ dutch oven skills.
 - 1 tbsp lemon juice
 - **Topping:** 1 cup rolled oats, 1/2 cup flour, 1/2 cup brown sugar,
   1/2 cup (1 stick) butter, melted, 1/2 tsp cinnamon, pinch salt
+- Optional: spray whipped cream, if budget allows
 
 ## Shopping List
 
@@ -26,6 +27,7 @@ dutch oven skills.
 - [ ] Flour, 1/2 cup
 - [ ] Brown sugar, 1/2 cup
 - [ ] Butter, 1 stick
+- [ ] Optional: spray whipped cream, if budget allows
 
 ## Equipment
 

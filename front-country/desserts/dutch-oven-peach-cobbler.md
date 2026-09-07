@@ -12,6 +12,7 @@ mixing bowl and no eggs. About as low-effort as a real dessert gets.
 - 1 box yellow cake mix (dry, straight from the box)
 - 1/2 cup (1 stick) butter, sliced thin
 - 1 tsp cinnamon
+- Optional: spray whipped cream, if budget allows
 
 ## Shopping List
 
@@ -19,6 +20,7 @@ mixing bowl and no eggs. About as low-effort as a real dessert gets.
 - [ ] Yellow cake mix, 1 box
 - [ ] Butter, 1 stick
 - [ ] Cinnamon (pantry staple; check troop spice kit)
+- [ ] Optional: spray whipped cream, if budget allows
 
 ## Equipment
 

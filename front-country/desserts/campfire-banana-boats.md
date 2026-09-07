@@ -14,6 +14,7 @@ dessert in the repo.
 - 1 cup nut-free mini chocolate chips
 - 1 cup mini marshmallows
 - Optional: crushed graham crackers, for topping
+- Optional: spray whipped cream, if budget allows
 
 ## Shopping List
 
@@ -21,6 +22,7 @@ dessert in the repo.
 - [ ] Mini chocolate chips (nut-free brand), 1 cup
 - [ ] Mini marshmallows, 1 cup
 - [ ] Optional: graham crackers
+- [ ] Optional: spray whipped cream, if budget allows
 - [ ] Heavy-duty foil
 
 ## Equipment

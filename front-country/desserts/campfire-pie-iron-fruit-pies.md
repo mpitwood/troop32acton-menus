@@ -14,6 +14,7 @@ own version of.
 - Butter, softened
 - 1 (21 oz) can fruit pie filling (cherry, apple, or blueberry)
 - Powdered sugar, for dusting (optional)
+- Optional: spray whipped cream, if budget allows
 - Cooking spray, for the irons
 
 ## Shopping List
@@ -22,6 +23,7 @@ own version of.
 - [ ] Butter
 - [ ] Fruit pie filling, 1 can (21 oz)
 - [ ] Optional: powdered sugar
+- [ ] Optional: spray whipped cream, if budget allows
 - [ ] Cooking spray
 
 ## Equipment

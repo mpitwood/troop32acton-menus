@@ -14,6 +14,7 @@ stretched thin managing the main course.
 - 4 tbsp butter
 - 1 (10 oz) bag mini marshmallows
 - Cooking spray, for the pan or your hands
+- Optional: spray whipped cream, if budget allows
 
 ## Shopping List
 
@@ -21,6 +22,7 @@ stretched thin managing the main course.
 - [ ] Butter
 - [ ] Mini marshmallows, 1 bag (10 oz)
 - [ ] Cooking spray
+- [ ] Optional: spray whipped cream, if budget allows
 
 ## Equipment
 

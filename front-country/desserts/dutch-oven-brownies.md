@@ -12,6 +12,7 @@ payoff-to-effort ratio is hard to beat.
 - 1 box brownie mix, plus the oil, water, and eggs called for on the box
   (typically 1/3 cup oil, 1/4 cup water, 2 eggs)
 - Oil or cooking spray, for the dutch oven (or a foil liner)
+- Optional: spray whipped cream, if budget allows
 
 ## Shopping List
 
@@ -19,6 +20,7 @@ payoff-to-effort ratio is hard to beat.
 - [ ] Oil (pantry staple; check box for amount)
 - [ ] Eggs (check box — usually 2, or see egg-free swap)
 - [ ] Foil, if lining the oven instead of greasing it
+- [ ] Optional: spray whipped cream, if budget allows
 
 ## Equipment
 
