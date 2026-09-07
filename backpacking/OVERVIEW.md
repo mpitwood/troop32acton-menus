@@ -147,6 +147,24 @@ as possible in the first place, and make what's left small and sealed.
   calorie target per person per day, not "extra just in case," which
   usually comes home half-eaten and always comes home as pack weight.
 
+## Pantry staples from home
+
+Same policy as the Front-Country Overview, adapted for the shared bags
+this folder already repackages spices and oil into (see
+[Packaging, bulk, and trash](#packaging-bulk-and-trash) above): rather
+than buying a jar of a spice just to measure a teaspoon into a shared
+bag, a scout whose kitchen already has it can measure that teaspoon
+straight from home. Recipes flag these ingredients with **(pantry
+staple)** in their Shopping List.
+
+- **Default: it's on the shopping list.** Don't skip buying it just
+  because "someone probably has it at home."
+- **Only skip buying it if a specific scout in the patrol is sure they
+  can bring it from home** (with a parent's OK), measured into the same
+  small shared bag the recipe already calls for.
+- If nobody in the patrol confirms before the shopping trip, buy it —
+  don't leave the patrol short a spice on trail.
+
 ## Pricing
 
 Boston-area estimates, same sourcing basis as the Front-Country

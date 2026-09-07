@@ -29,12 +29,12 @@ in browned Italian sausage from a separate skillet at serving time.
 - [ ] Rotini or penne pasta, 1 lb
 - [ ] Cannellini beans, 2 cans (15 oz)
 - [ ] Sun-dried tomatoes in oil, 1 jar (8 oz)
-- [ ] Garlic
+- [ ] Garlic (pantry staple)
 - [ ] Spinach, fresh
 - [ ] Parmesan, 1/2 cup
 - [ ] Half-and-half or cream (optional)
 - [ ] Italian sausage — buy based on headcount of meat-eaters
-- [ ] Red pepper flakes (optional)
+- [ ] Red pepper flakes (optional, pantry staple)
 
 ## Equipment
 

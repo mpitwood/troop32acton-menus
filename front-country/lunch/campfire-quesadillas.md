@@ -27,7 +27,7 @@ something hot but not a long cook.
 - [ ] Black beans, 1 can (15 oz)
 - [ ] Corn, 1 cup (canned recommended)
 - [ ] Bell pepper, 1
-- [ ] Oil
+- [ ] Oil (pantry staple)
 - [ ] Salsa, sour cream
 
 ## Equipment

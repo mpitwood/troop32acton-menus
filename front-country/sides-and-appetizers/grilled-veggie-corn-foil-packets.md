@@ -26,8 +26,8 @@ for every diet in the patrol without modification.
 - [ ] Zucchini, 2
 - [ ] Bell pepper, 1
 - [ ] Red onion, 1
-- [ ] Olive oil
-- [ ] Garlic powder
+- [ ] Olive oil (pantry staple)
+- [ ] Garlic powder (pantry staple)
 - [ ] Optional: lime, cilantro, parmesan/cotija
 - [ ] Heavy-duty foil
 

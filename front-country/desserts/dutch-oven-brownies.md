@@ -16,7 +16,7 @@ payoff-to-effort ratio is hard to beat.
 ## Shopping List
 
 - [ ] Brownie mix, 1 box
-- [ ] Oil (check box for amount)
+- [ ] Oil (pantry staple; check box for amount)
 - [ ] Eggs (check box — usually 2, or see egg-free swap)
 - [ ] Foil, if lining the oven instead of greasing it
 

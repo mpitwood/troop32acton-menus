@@ -167,6 +167,27 @@ kcal/oz — pack weight is the constraint front-country doesn't have), and
 a **Packaging & Trash Notes** section (backpackers carry every wrapper
 out).
 
+## Pantry staples from home
+
+Cooking oil, salt and pepper, and dry spices/seasonings are things most
+kitchens already have on hand in more than enough quantity for one
+recipe — buying a whole new bottle or jar just for a teaspoon or a
+splash is wasteful. Recipes flag these ingredients with **(pantry
+staple)** in their Shopping List.
+
+- **Default: it's on the shopping list.** Don't skip buying it just
+  because "someone probably has it at home."
+- **Only skip buying it if a specific scout in the patrol is sure they
+  can bring it from home** (with a parent's OK) — a small amount decanted
+  into a travel container, not the whole bottle or jar.
+- If nobody in the patrol confirms before the shopping trip, buy it —
+  don't leave the patrol short a spice mid-cook.
+
+This is separate from the Advance Prep step of decanting a *purchased*
+item into a travel-size container above — pantry staples are about
+skipping the purchase entirely when a scout's own kitchen already has
+enough of it.
+
 ## Vegetarian policy
 
 - Most patrols have one or two vegetarian scouts, not half the group —

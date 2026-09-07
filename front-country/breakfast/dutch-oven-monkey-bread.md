@@ -17,14 +17,13 @@ round it out.
 - 1 cup (2 sticks) butter, melted
 - 1/2 cup brown sugar
 - Oil, for the dutch oven
-- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  easy to forget
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.)
 
 ## Shopping List
 
 - [ ] Refrigerated biscuit dough, 3 cans
 - [ ] Sugar, 1 cup
-- [ ] Cinnamon
+- [ ] Cinnamon (pantry staple)
 - [ ] Butter, 2 sticks
 - [ ] Brown sugar, 1/2 cup
 - [ ] Breakfast drink, patrol's choice

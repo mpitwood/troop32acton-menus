@@ -31,15 +31,14 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
   brown sugar
 
 **Drink:**
-- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  easy to forget
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.)
 
 ## Shopping List
 
 - [ ] Pancake mix, one box (enough for 3 cups)
 - [ ] Milk, small carton
 - [ ] Eggs (2, or skip if using flax swap)
-- [ ] Oil or butter
+- [ ] Oil or butter (pantry staple)
 - [ ] Syrup
 - [ ] Mix-ins — pick 2-3 of: mini chocolate chips (nut-free brand),
       blueberries, bananas, cinnamon + brown sugar, based on what the

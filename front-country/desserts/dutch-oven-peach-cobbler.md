@@ -18,7 +18,7 @@ mixing bowl and no eggs. About as low-effort as a real dessert gets.
 - [ ] Canned sliced peaches, 2 cans (29 oz)
 - [ ] Yellow cake mix, 1 box
 - [ ] Butter, 1 stick
-- [ ] Cinnamon (check troop spice kit)
+- [ ] Cinnamon (pantry staple; check troop spice kit)
 
 ## Equipment
 

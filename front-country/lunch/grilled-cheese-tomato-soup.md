@@ -27,7 +27,7 @@ sandwiches only for scouts who want it.
 - [ ] Cheddar or American cheese, 12 slices
 - [ ] Butter
 - [ ] Tomato soup, 2 cans (28 oz) or crushed tomatoes
-- [ ] Salt, pepper, dried basil
+- [ ] Salt, pepper, dried basil (pantry staple)
 - [ ] Deli ham — buy based on headcount of meat-eaters
 
 ## Equipment

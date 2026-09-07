@@ -20,7 +20,7 @@ dutch oven skills.
 
 - [ ] Apples, 6
 - [ ] Sugar
-- [ ] Cinnamon
+- [ ] Cinnamon (pantry staple)
 - [ ] Lemon juice
 - [ ] Rolled oats, 1 cup
 - [ ] Flour, 1/2 cup

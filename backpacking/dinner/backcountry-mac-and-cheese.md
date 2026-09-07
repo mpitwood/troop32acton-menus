@@ -28,7 +28,7 @@ the shared pot.
 - [ ] Cheese powder, 6 oz
 - [ ] Nonfat dry milk powder, 1.8 oz
 - [ ] Butter powder, 1.5 oz
-- [ ] Salt, pepper
+- [ ] Salt, pepper (pantry staple)
 - [ ] Dehydrated bacon bits or summer sausage — buy/prep based on
       headcount of meat-eaters
 

@@ -26,8 +26,7 @@ through seconds.
 - 3/4 lb breakfast sausage (covers up to 5-6 meat-eating scouts)
 
 **Drink:**
-- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  easy to forget
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.)
 
 ## Shopping List
 
@@ -37,8 +36,8 @@ through seconds.
 - [ ] Bell pepper, 1
 - [ ] Onion, 1
 - [ ] Shredded cheddar cheese, 2 cups
-- [ ] Salt, pepper, garlic powder
-- [ ] Cooking oil or spray
+- [ ] Salt, pepper, garlic powder (pantry staple)
+- [ ] Cooking oil or spray (pantry staple)
 - [ ] Breakfast sausage — buy based on headcount of meat-eaters
 - [ ] Breakfast drink, patrol's choice
 

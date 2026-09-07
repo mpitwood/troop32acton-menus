@@ -29,20 +29,19 @@ for scouts who want it.
 - 3/4 lb breakfast sausage (covers up to 5-6 meat-eating scouts)
 
 **Drink:**
-- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  easy to forget
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.)
 
 ## Shopping List
 
 - [ ] Sweet potatoes, 2 large
 - [ ] Black beans, 2 cans (15 oz)
-- [ ] Cumin, chili powder, smoked paprika
+- [ ] Cumin, chili powder, smoked paprika (pantry staple)
 - [ ] Bell pepper, 1
 - [ ] Onion, 1
 - [ ] Shredded cheese, 1 cup
 - [ ] Flour tortillas, burrito size, 12
 - [ ] Breakfast sausage — buy based on headcount of meat-eaters
-- [ ] Oil
+- [ ] Oil (pantry staple)
 - [ ] Optional: avocado, salsa
 - [ ] Breakfast drink, patrol's choice
 

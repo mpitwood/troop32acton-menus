@@ -15,8 +15,8 @@ part of the fun — good for a campfire program night.
 ## Shopping List
 
 - [ ] Popcorn kernels, 1 bag (1/2 cup needed)
-- [ ] Oil
-- [ ] Salt (or sugar)
+- [ ] Oil (pantry staple)
+- [ ] Salt (or sugar) (pantry staple)
 
 ## Equipment
 

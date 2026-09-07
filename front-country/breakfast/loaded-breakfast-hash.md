@@ -24,15 +24,14 @@ it.
 - 6-8 slices bacon, chopped (covers up to 5-6 meat-eating scouts)
 
 **Drink:**
-- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  easy to forget
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.)
 
 ## Shopping List
 
 - [ ] Frozen diced hash potatoes, 2 lb (or 6 medium potatoes)
 - [ ] Onion, 1
 - [ ] Bell pepper, 1
-- [ ] Paprika, garlic powder
+- [ ] Paprika, garlic powder (pantry staple)
 - [ ] Optional: shredded cheese, green onion
 - [ ] Bacon — buy based on headcount of meat-eaters
 - [ ] Breakfast drink, patrol's choice

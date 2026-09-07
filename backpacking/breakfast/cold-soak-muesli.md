@@ -32,7 +32,8 @@ Sized to land near Philmont's own breakfast calorie and protein numbers
 - [ ] Dried cranberries or raisins, 1.5 cups
 - [ ] Chia seeds or ground flax, 12 tbsp
 - [ ] Sunflower seeds, 12 tbsp
-- [ ] Brown sugar, cinnamon, salt (small amounts)
+- [ ] Brown sugar (small amount)
+- [ ] Cinnamon, salt (pantry staple)
 - [ ] Jerky sticks and sunflower seed butter packets — buy based on how
       many scouts want each
 

@@ -32,7 +32,7 @@ protein — in line with Philmont's own breakfast totals.
 - [ ] TVP, 3 oz
 - [ ] Dehydrated bell pepper/onion flakes, 2 oz
 - [ ] Cheese powder, 5 oz
-- [ ] Cumin, chili powder
+- [ ] Cumin, chili powder (pantry staple)
 - [ ] Burrito tortillas, 6
 - [ ] Breakfast sausage — buy and dehydrate based on headcount of
       meat-eaters, not full patrol

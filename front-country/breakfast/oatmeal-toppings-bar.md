@@ -19,15 +19,14 @@ of oats, a spread of toppings, everyone builds their own bowl.
 - Sunflower seeds (nut-free crunch)
 - Banana, sliced
 - Optional: shelf-stable milk or yogurt cups
-- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.) —
-  easy to forget
+- Breakfast drink, patrol's choice (hot chocolate, cider, juice, etc.)
 
 ## Shopping List
 
 - [ ] Quick oats, 3 cups (or a box of individual packets)
 - [ ] Milk (or water + powdered milk)
 - [ ] Brown sugar
-- [ ] Cinnamon
+- [ ] Cinnamon (pantry staple)
 - [ ] Dried cranberries or raisins
 - [ ] Sunflower seeds
 - [ ] Bananas

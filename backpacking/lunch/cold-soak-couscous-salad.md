@@ -27,9 +27,10 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 ## Shopping List (for a patrol of 6)
 
 - [ ] Couscous, 15 oz
-- [ ] Olive oil packets, 6
+- [ ] Olive oil packets, 6 (pantry staple option — a scout can bring a
+      small squeeze bottle from home instead)
 - [ ] Dehydrated tomato/pepper flakes, 2.5 oz
-- [ ] Lemon pepper seasoning
+- [ ] Lemon pepper seasoning (pantry staple)
 - [ ] Parmesan powder, 3 oz
 - [ ] TVP, 4.5 oz
 - [ ] Energy/protein bars, 6

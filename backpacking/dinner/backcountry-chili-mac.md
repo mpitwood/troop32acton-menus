@@ -33,8 +33,9 @@ to individual bowls, never cooked into the shared pot.
 - [ ] TVP, 6 oz
 - [ ] Tomato powder, 2 oz
 - [ ] Dehydrated bell pepper/onion flakes, 2 oz
-- [ ] Chili powder, cumin
-- [ ] Oil, cheese powder (optional)
+- [ ] Chili powder, cumin (pantry staple)
+- [ ] Oil (pantry staple)
+- [ ] Cheese powder (optional)
 - [ ] Freeze-dried ground beef or jerky — buy/prep based on headcount of
       meat-eaters
 
