@@ -277,6 +277,7 @@ function main() {
   for (const [file] of WORKSHEETS) {
     buildDocPage(file.replace(/\.html$/, '.md'), file, { worksheet: true });
   }
+  buildDocPage('advancement-talking-points.md', 'advancement-talking-points.html');
   // leader answer key: built, but intentionally not linked from nav/index
   // (see NAV_ITEMS / homepage) so it isn't one click away from a scout
   // browsing the site -- the worksheets ask scouts to work answers out
@@ -347,6 +348,10 @@ page:</p>
   <li><a href="cooking-mb-worksheet-req5.html">Cooking merit badge — requirement 5 (camp cooking)</a></li>
   <li><a href="cooking-mb-worksheet-req6.html">Cooking merit badge — requirement 6 (trail cooking)</a></li>
 </ul>
+
+<p class="lede">Leaders: <a href="advancement-talking-points.html">a 2-3
+minute advancement intro</a> to give patrol leaders and scouts — leans on
+senior scouts' existing know-how instead of separate paperwork.</p>
 
 <section class="browser">
   <h2>Browse recipes</h2>
