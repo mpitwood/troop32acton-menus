@@ -125,19 +125,17 @@ const NAV_ITEMS = [
   ['backpacking/OVERVIEW.html', 'Backpacking Guide'],
 ];
 
-const WORKSHEETS = [
-  ['second-class-menu-worksheet.html', 'Second Class (req 2e)'],
-  ['first-class-menu-worksheet.html', 'First Class (req 2a)'],
-  ['cooking-mb-worksheet-req5.html', 'Cooking MB — req 5 (camp)'],
-  ['cooking-mb-worksheet-req6.html', 'Cooking MB — req 6 (trail)'],
-];
+// Worksheet pages (second-class-menu-worksheet.md, first-class-menu-
+// worksheet.md, cooking-mb-worksheet-req5.md, cooking-mb-worksheet-req6.md)
+// still build below -- reachable by direct URL -- but per the
+// scoutmaster's direction they're no longer promoted from nav or the
+// homepage: paired with the menu guide, the paperwork read as overwhelming
+// next to just leaning on senior scouts' existing know-how. See
+// advancement-talking-points.md for the replacement pitch.
 
 function layout({ title, bodyHtml, relOutPath, description, bodyClass }) {
   const prefix = depthPrefix(relOutPath);
   const nav = NAV_ITEMS.map(
-    ([href, label]) => `<a href="${prefix}${href}">${label}</a>`
-  ).join('\n      ');
-  const worksheetLinks = WORKSHEETS.map(
     ([href, label]) => `<a href="${prefix}${href}">${label}</a>`
   ).join('\n      ');
   return `<!doctype html>
@@ -154,11 +152,6 @@ ${description ? `<meta name="description" content="${escapeHtml(description)}">\
     <a class="brand" href="${prefix}index.html">Troop 32 Acton &middot; Menu Book</a>
     <nav class="main-nav">
       ${nav}
-      <span class="nav-group">Worksheets
-        <span class="nav-dropdown">
-          ${worksheetLinks}
-        </span>
-      </span>
     </nav>
   </div>
 </header>
@@ -274,7 +267,15 @@ function main() {
   // root docs
   buildDocPage('front-country/OVERVIEW.md', 'front-country/OVERVIEW.html');
   buildDocPage('backpacking/OVERVIEW.md', 'backpacking/OVERVIEW.html');
-  for (const [file] of WORKSHEETS) {
+  // still built (direct-URL reachable) though no longer promoted -- see
+  // the note above layout() for why.
+  const WORKSHEET_FILES = [
+    'second-class-menu-worksheet.html',
+    'first-class-menu-worksheet.html',
+    'cooking-mb-worksheet-req5.html',
+    'cooking-mb-worksheet-req6.html',
+  ];
+  for (const file of WORKSHEET_FILES) {
     buildDocPage(file.replace(/\.html$/, '.md'), file, { worksheet: true });
   }
   buildDocPage('advancement-talking-points.md', 'advancement-talking-points.html');
@@ -338,20 +339,10 @@ copy the ingredient list onto a shopping list, and go. See the
 <a href="backpacking/OVERVIEW.html">Backpacking Guide</a> for the full
 system plus plain browsable tables, or use the search/filter below.</p>
 
-<p class="lede">Working on a rank or merit badge requirement? Start with a
-worksheet instead of a recipe page — they walk you through the same
-food-group and nutrition reasoning yourself, rather than reading it off a
-page:</p>
-<ul class="worksheet-list">
-  <li><a href="second-class-menu-worksheet.html">Second Class — requirement 2e</a></li>
-  <li><a href="first-class-menu-worksheet.html">First Class — requirement 2a</a></li>
-  <li><a href="cooking-mb-worksheet-req5.html">Cooking merit badge — requirement 5 (camp cooking)</a></li>
-  <li><a href="cooking-mb-worksheet-req6.html">Cooking merit badge — requirement 6 (trail cooking)</a></li>
-</ul>
-
 <p class="lede">Leaders: <a href="advancement-talking-points.html">a 2-3
-minute advancement intro</a> to give patrol leaders and scouts — leans on
-senior scouts' existing know-how instead of separate paperwork.</p>
+minute advancement intro</a> to give patrol leaders and scouts — which
+rank needs which cooking requirement next, leaning on senior scouts'
+existing know-how instead of separate paperwork.</p>
 
 <section class="browser">
   <h2>Browse recipes</h2>

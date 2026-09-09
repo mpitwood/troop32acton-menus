@@ -20,11 +20,12 @@ walk newer scouts through this informally, campout to campout.
   walk them through picking it, planning it, and explaining why it's a
   real meal — that conversation covers the requirement.
 
-## 2. New Scouts working toward Tenderfoot
+## 2. Scout-rank scouts (not yet Tenderfoot) working toward Second Class
 
-- Just assist in preparing one meal — any meal in the book works.
-- Simplest requirement in the book. Any patrol member cooking that day
-  can bring a new scout in to help.
+- Pair them with a Tenderfoot scout who's cooking for their own Second
+  Class requirement (see #1) — the newer scout assists.
+- That assist *is* their Tenderfoot requirement, satisfied by the same
+  meal, at the same time. No separate activity needed.
 
 ## 3. Second Class scouts working toward First Class
 
