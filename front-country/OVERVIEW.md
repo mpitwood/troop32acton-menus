@@ -1,46 +1,16 @@
 # Troop 32 Acton Menu Repository
 
-A browsable library of pre-planned camp meals for Troop 32 Acton.
-
-- Patrols pick pages a la carte — one page per **course** of one meal
-  (appetizer/side, main, dessert) — instead of planning menus from
-  scratch at a troop meeting.
-- Copy the ingredient list straight onto a shopping list.
-- See the [Recipe List](#recipe-list) for everything at a glance.
-
-## How to plan a campout meal in 15 minutes
-
-1. Open the [Recipe List](#recipe-list).
-2. For each meal slot (Fri dinner, Sat breakfast, Sat lunch, Sat dinner, Sun
-   breakfast), pick one **Main**, optionally one **Side/Appetizer**, and for
-   Saturday dinner pick a **Dessert**.
-3. If anyone in the patrol has a nut or egg allergy, or is vegetarian, filter
-   by the tags in the tables below (`nut-free`, `egg-free`, `vegetarian`)
-   before picking — don't pick a page and then try to fix it.
-4. Copy the **Ingredients** section of each chosen page into your shopping
-   list, adjusting quantities per the **Scaling Notes** for your actual patrol
-   size.
-5. Do the **Advance Prep** steps at home before you leave — dicing,
-   marinating, and decanting small quantities into travel-size containers.
-   Bring the pages themselves to camp — the **Onsite** steps are written for
-   cooking at the site, not at home.
+Pre-planned camp meals — pick a Main per meal slot (+ Side/Appetizer or
+Dessert where listed), check Diet/Allergen columns before picking, copy
+Ingredients onto your shopping list. Cost = base (vegetarian, per scout)
++ meat boost (per meat-eating scout) — see
+[Vegetarian policy](#vegetarian-policy). Prices are Boston-area estimates,
+see [Pricing basis](#pricing-basis). More on how pages are laid out:
+[Page format](#page-format). Advancement tags: [below](#advancement-tie-ins).
 
 ## Recipe List
 
-Browse a la carte: pick one Main per meal, add a Side/Appetizer if you want
-one, and a Dessert for Saturday dinner. Filter by the Diet/Allergen columns
-before you pick, not after. Every course below has 6 options.
-
-Most dinner and breakfast mains are **vegetarian base + meat boost**: one
-shared vegetarian-hearty pot/packet/dish, with meat browned separately and
-added to individual servings by scouts who want it — see the
-[Vegetarian policy](#vegetarian-policy) section for why. Cost is shown as
-**base cost per scout + meat boost per meat-eating scout** — both figures
-are already per-person; a meat-eating scout's actual cost is base +
-boost, a vegetarian scout's is base only.
-
-All prices are **Boston-area estimates** — see [Pricing basis](#pricing-basis)
-for what's directly sourced vs. scaled, and don't treat these as receipts.
+Every course below has 6 options.
 
 ### Breakfast (6)
 
