@@ -88,7 +88,7 @@ $2.05/scout (lentils $0.55, couscous $0.30, coconut milk powder
 $0.68, dehydrated vegetables $0.50, TVP $0.18). Optional boost: $1.60
 per scout who wants it (dehydrated chicken bits run higher per ounce than
 the beef/bacon boosts elsewhere in the repo). Boston-area pricing — see
-[OVERVIEW.md](../OVERVIEW.md#pricing) for sourcing.
+[pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes
 

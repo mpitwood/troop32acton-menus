@@ -80,7 +80,7 @@ $2.20/scout for 6: oats $3.50, milk $1.75, toppings (dried fruit,
 sunflower seeds, brown sugar, bananas) $8. Add $0.75-1.00/scout for the
 breakfast drink — not in the total above, budget it separately.
 Boston-area pricing — see
-[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
+[pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

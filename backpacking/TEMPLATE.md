@@ -7,8 +7,8 @@ Weight: __ oz/serving · __ kcal/serving (__ kcal/oz) · __g protein*
 
 Target for a full breakfast/lunch/dinner page: 650-900 kcal and 25-40g
 protein per serving (base + boost/protein-side combined for a
-meat-eating scout) — see [OVERVIEW.md](OVERVIEW.md) for where that range
-comes from.
+meat-eating scout) — see the [Backpacking Overview](OVERVIEW.html) for
+where that range comes from.
 
 One or two sentences on what it is. If this is a dinner with a meat boost,
 say what makes the vegetarian base hearty on its own, not just "add meat

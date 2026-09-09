@@ -2,7 +2,7 @@
 
 This page is for whoever maintains the repo and the website it builds —
 not needed to plan a menu or work a requirement. See
-[front-country/OVERVIEW.md](front-country/OVERVIEW.md) for that.
+[Front-Country Overview](front-country/OVERVIEW.html) for that.
 
 ## Folder structure
 

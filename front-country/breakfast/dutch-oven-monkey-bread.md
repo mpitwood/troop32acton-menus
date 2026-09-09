@@ -5,8 +5,8 @@ Dutch Oven · Serves 6 · Prep 10 min · Cook 25-30 min*
 
 Pull-apart cinnamon sugar biscuit bread — sweet, fast, and a genuine crowd
 favorite for a lighter breakfast. Pair with fruit or the
-[nut-free-snack-basket](../snacks/nut-free-snack-basket.md) fruit option to
-round it out.
+[Nut-Free Snack Basket](../snacks/nut-free-snack-basket.html) fruit option
+to round it out.
 
 ## Ingredients (serves 6)
 
@@ -77,7 +77,7 @@ round it out.
 $3.00/scout for 6: biscuit dough $11.25 (3 cans), sugar/cinnamon $1.25,
 butter $5.50. Add $0.75-1.00/scout for the breakfast drink — not in the
 total above, budget it separately. Boston-area pricing — see
-[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
+[pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

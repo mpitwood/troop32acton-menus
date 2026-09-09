@@ -92,8 +92,8 @@ through seconds.
 - **Nut-free:** yes, as written.
 - **Egg-free:** no — eggs are structural to this dish, there isn't a good
   substitute for a casserole. If a scout in the patrol has an egg allergy,
-  pick [camp-pancakes](camp-pancakes.md) (egg-free swap available) or
-  [oatmeal-toppings-bar](oatmeal-toppings-bar.md) instead.
+  pick [Camp Pancakes](camp-pancakes.html) (egg-free swap available) or
+  [Oatmeal Toppings Bar](oatmeal-toppings-bar.html) instead.
 - **Vegetarian:** the base already excludes meat by default — no
   substitution needed, sausage is simply never added to it.
 
@@ -104,7 +104,7 @@ veggies $3.05, cheese $3.75, spices/oil $1.25). Sausage boost: $0.90
 per meat-eating scout (3/4 lb sausage $4.70, split 5-6 ways). Add
 $0.75-1.00/scout for the breakfast drink — not in the totals above,
 budget it separately. Boston-area pricing — see
-[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
+[pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

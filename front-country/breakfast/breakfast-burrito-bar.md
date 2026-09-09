@@ -100,7 +100,7 @@ $1, bell pepper/onion $3.05, cheese $1.90, tortillas $4.40). Sausage
 boost: $0.85 per meat-eating scout (3/4 lb sausage $4.70, split 5-6
 ways). Add $0.75-1.00/scout for the breakfast drink — not in the totals
 above, budget it separately. Boston-area pricing — see
-[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
+[pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

@@ -5,8 +5,7 @@ Dessert where listed), check Diet/Allergen columns before picking, copy
 Ingredients onto your shopping list. Cost = base (vegetarian, per scout)
 + meat boost (per meat-eating scout) — see
 [Vegetarian policy](#vegetarian-policy). Prices are Boston-area estimates,
-see [Pricing basis](#pricing-basis). More on how pages are laid out:
-[Page format](#page-format). Advancement tags: [below](#advancement-tie-ins).
+see [Pricing basis](#pricing-basis). Advancement tags: [below](#advancement-tie-ins).
 
 **Any substitutions or deviations from these menus must be preapproved
 by an adult (scoutmaster or committee member) before the shopping trip.**
@@ -117,24 +116,6 @@ over pushes past budget. See [Pricing basis](#pricing-basis) for where
 these numbers come from and why this is a real conversation to have with
 the committee about the $25 figure.
 
-## Page format
-
-- Title + one-line summary (meal, course, diet, allergens, cook method,
-  serves, timing) — enough to check at a glance before you commit to a
-  page.
-- **Advance Prep (at home)** — what to chop, marinate, par-cook, or
-  portion before the trip, including decanting oil/sauces/spices into
-  travel-size containers instead of hauling full bottles.
-- **Onsite (at camp)** — the actual cook steps at the site.
-- Ingredients hold up in a cooler for a day or two — fresh, canned, or
-  dehydrated, not relying on anything staying frozen.
-
-Backpacking has its own overview document — same page format, plus two
-backpacking-only additions: a **Weight & Calories** line (oz/serving,
-kcal/oz — pack weight is the constraint front-country doesn't have), and
-a **Packaging & Trash Notes** section (backpackers carry every wrapper
-out).
-
 ## Pantry staples from home
 
 Cooking oil, salt and pepper, and dry spices/seasonings are things most
@@ -224,7 +205,7 @@ Every recipe uses one of the following, matching standard troop gear:
   and the [sample weekend menu](#sample-weekend-menu-patrol-of-6-5-meat-eaters-1-vegetarian)
   above for the running total.
 - **This is a real conversation to have with the committee about the
-  $25 figure.** Full sourcing: [Maintainer Notes](../maintainer-notes.md#pricing-methodology).
+  $25 figure.** Full sourcing: [Maintainer Notes](../maintainer-notes.html#pricing-methodology).
 
 ## Advancement tie-ins
 
@@ -269,5 +250,5 @@ scouting.org — tags are a planning aid, not a sign-off.
 ---
 
 *Maintaining this repo or the website it builds? See
-[maintainer-notes.md](../maintainer-notes.md) — folder structure, how to
+[Maintainer Notes](../maintainer-notes.html) — folder structure, how to
 add a new recipe, and pricing sourcing. Not needed just to plan a menu.*

@@ -4,7 +4,7 @@
 Dutch Oven · Serves 6 · Prep 15 min · Cook 35-40 min*
 
 Sliced apples under a buttery oat crumble — a change of pace from
-[dutch-oven-peach-cobbler](dutch-oven-peach-cobbler.md) using the same
+[Dutch Oven Peach Cobbler](dutch-oven-peach-cobbler.html) using the same
 dutch oven skills.
 
 ## Ingredients (serves 6)
@@ -76,7 +76,7 @@ dutch oven skills.
 
 $2.30/scout for 6: apples $6.80, oats/flour/sugar/cinnamon/lemon juice
 $4.35, butter $2.75. Boston-area pricing — see
-[OVERVIEW.md](../OVERVIEW.md#pricing-basis) for sourcing.
+[pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
