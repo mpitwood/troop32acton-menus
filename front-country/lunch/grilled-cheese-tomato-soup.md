@@ -1,10 +1,10 @@
-# Grilled Cheese & Tomato Soup — Vegetarian Base + Ham Boost
+# Grilled Cheese & Tomato Soup - Vegetarian Base + Ham Boost
 
 *Lunch · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 2-Burner Stove · Serves 6 (base) + boost scaled to meat-eaters · Prep 10 min
 · Cook 15-20 min*
 
-The classic combo, scaled for a patrol — a pot of soup on one burner,
+The classic combo, scaled for a patrol - a pot of soup on one burner,
 grilled cheese assembly-line on the other. Ham goes inside individual
 sandwiches only for scouts who want it.
 
@@ -30,7 +30,7 @@ sandwiches only for scouts who want it.
 - [ ] Salt (take from home if available, purchase if necessary)
 - [ ] Pepper (take from home if available, purchase if necessary)
 - [ ] Dried basil (take from home if available, purchase if necessary)
-- [ ] Deli ham — buy based on headcount of meat-eaters
+- [ ] Deli ham - buy based on headcount of meat-eaters
 
 ## Equipment
 
@@ -53,7 +53,7 @@ sandwiches only for scouts who want it.
 2. On the other burner, butter one side of each bread slice. Build
    sandwiches with cheese between two slices, butter-side out.
 3. Grill in the skillet 3-4 minutes per side until golden and the cheese
-   is melted. **Cook the vegetarian sandwiches first** — cheese only.
+   is melted. **Cook the vegetarian sandwiches first** - cheese only.
 4. For meat-eating scouts, build a second batch with a slice of ham added
    inside, alongside the cheese.
 5. Serve each sandwich with a cup of soup for dipping.
@@ -62,7 +62,7 @@ sandwiches only for scouts who want it.
 
 - **Protein (base):** cheese; + ham (boost)
 - **Vegetables:** tomato (via soup)
-- **Processed:** canned tomato soup — a minimally processed pantry staple,
+- **Processed:** canned tomato soup - a minimally processed pantry staple,
   not ultra-processed; blend crushed tomatoes with butter and broth
   instead for a fully whole-food version
 
@@ -75,13 +75,13 @@ sandwiches only for scouts who want it.
 
 Base: $2.65/scout for 6 (bread $4.25, cheese $5.65, butter $0.75,
 soup $4.50). Ham boost: $0.70 per meat-eating scout (8 slices $4.75,
-split 6-8 ways). Boston-area pricing — see
+split 6-8 ways). Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 8 bread slices, 8 cheese slices, 1.3 cans soup.
-- **Patrol of 8:** 16 bread slices — grill in continuous batches rather
+- **Patrol of 8:** 16 bread slices - grill in continuous batches rather
   than trying to fit more than 3-4 sandwiches in the skillet at once.
 
 ## Advancement Tie-In

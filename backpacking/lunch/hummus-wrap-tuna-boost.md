@@ -1,4 +1,4 @@
-# Hummus Wrap — Vegetarian Base + Tuna/Salmon Boost
+# Hummus Wrap - Vegetarian Base + Tuna/Salmon Boost
 
 *Lunch · Main · Vegetarian base · Nut-Free: Check hummus powder label ·
 Egg-Free: Yes · No-Cook · Serves 1 (base) + boost scaled to meat-eaters ·
@@ -7,7 +7,7 @@ base (108 kcal/oz) + 90 kcal boost · 23g protein base + 13g boost*
 
 A genuinely filling no-cook wrap built around reconstituted hummus, with
 an energy bar to round it out, and a shelf-stable tuna or salmon pouch as
-an add-on for scouts who want fish protein — spooned onto their own wrap,
+an add-on for scouts who want fish protein - spooned onto their own wrap,
 not mixed into a shared bowl.
 
 ## Ingredients (per person)
@@ -30,7 +30,7 @@ not mixed into a shared bowl.
 - [ ] Lemon pepper seasoning (take from home if available, purchase if
       necessary)
 - [ ] Energy/protein bars, 6
-- [ ] Tuna or salmon pouches — buy based on headcount of meat-eaters
+- [ ] Tuna or salmon pouches - buy based on headcount of meat-eaters
 
 ## Equipment
 
@@ -46,7 +46,7 @@ not mixed into a shared bowl.
 ### Onsite (at trail)
 
 1. Add a splash of water to the hummus powder bag, knead or stir until
-   spreadable (start with less water than you think — you can always add
+   spreadable (start with less water than you think - you can always add
    more).
 2. Spread hummus on the tortillas, sprinkle with rehydrated veggie flakes
    and lemon pepper.
@@ -65,25 +65,25 @@ not mixed into a shared bowl.
 
 ## Allergy & Diet Notes
 
-- Nut-free: check the hummus powder and bar brands — most hummus powders
+- Nut-free: check the hummus powder and bar brands - most hummus powders
   are nut-free, but confirm.
 - Egg-free: yes.
 
 ## Packaging & Trash Notes
 
-- Tuna/salmon pouches are foil-lined and won't burn — pack them out in
+- Tuna/salmon pouches are foil-lined and won't burn - pack them out in
   the odor-proof trash bag, not in the fire.
 - Rinse the empty pouch if water allows before packing out, to cut down
-  on smell in the trash bag (don't rinse near a water source — follow
+  on smell in the trash bag (don't rinse near a water source - follow
   Leave No Trace guidance on dishwater disposal).
 
 ## Cost Estimate
 
 Base: $2.35/scout (hummus powder $0.70, tortillas $0.70, veggie flakes
 $0.15, bar $1.50 → total adjusted $3.05/scout including bar). Boost:
-$2.25 per meat-eating scout — tuna/salmon pouches are one of the pricier
+$2.25 per meat-eating scout - tuna/salmon pouches are one of the pricier
 boosts in the repo, worth knowing before defaulting to this every lunch.
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes
 

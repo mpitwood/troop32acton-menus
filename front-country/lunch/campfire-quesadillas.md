@@ -13,7 +13,7 @@ something hot but not a long cook.
 - 2 cups shredded cheese (cheddar or Mexican blend)
 - 2 cups cooked shredded chicken (rotisserie or canned, drained)
 - 1 (15 oz) can black beans, drained and rinsed
-- 1 cup corn — canned (drained) is easiest since it needs no cooler space
+- 1 cup corn - canned (drained) is easiest since it needs no cooler space
   at all; fresh-cut or frozen-then-thawed both work too
 - 1 bell pepper, diced
 - Oil, for the pan
@@ -40,10 +40,10 @@ something hot but not a long cook.
 
 ### Advance Prep (at home)
 
-- Decant the cooking oil into a small travel bottle — a few tablespoons is
+- Decant the cooking oil into a small travel bottle - a few tablespoons is
   all this needs.
 - If using canned chicken and canned corn, no cooler space is needed for
-  either — pack them as shelf-stable cans instead of pre-cooking and
+  either - pack them as shelf-stable cans instead of pre-cooking and
   cooler-packing rotisserie chicken.
 
 ### Onsite (at camp)
@@ -54,7 +54,7 @@ something hot but not a long cook.
    sprinkle cheese on half, add chicken (or bean-corn mix) and a few
    diced peppers, fold the other half over.
 3. Cook 2-3 minutes per side until golden and cheese is melted. Repeat for
-   remaining tortillas — run a second skillet on the other burner to do
+   remaining tortillas - run a second skillet on the other burner to do
    meat and vegetarian batches at the same time.
 4. Cut into wedges. Serve with salsa and sour cream.
 
@@ -74,12 +74,12 @@ something hot but not a long cook.
 
 $4.20/scout for 6: tortillas $3.50, cheese $3.75, chicken $7, beans
 $1.50, corn $1.50, pepper $1.75, salsa/sour cream $5.75. Boston-area
-pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
+pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 6 tortillas, split filling proportionally.
-- **Patrol of 8:** 12 tortillas — run both skillets continuously, this is
+- **Patrol of 8:** 12 tortillas - run both skillets continuously, this is
   the meal most helped by having two burners going at once.
 
 ## Advancement Tie-In

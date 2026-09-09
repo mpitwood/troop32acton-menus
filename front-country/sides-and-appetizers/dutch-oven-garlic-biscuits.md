@@ -3,7 +3,7 @@
 *Any meal · Side · Vegetarian · Nut-Free: Yes · Egg-Free: Check label ·
 Dutch Oven · Serves 6 · Prep 5 min · Cook 18-20 min*
 
-The simplest possible dutch oven side — refrigerated biscuit dough, baked
+The simplest possible dutch oven side - refrigerated biscuit dough, baked
 in coals, brushed with garlic butter. Good alongside chili or pasta night
 to round out the meal without adding real cook-time complexity.
 
@@ -54,7 +54,7 @@ to round out the meal without adding real cook-time complexity.
 ## Real Food Check
 
 - **Protein:** minimal
-- **Processed:** refrigerated biscuit dough — a refined-flour convenience
+- **Processed:** refrigerated biscuit dough - a refined-flour convenience
   item
 - Fine as an occasional side; don't pair with another refined-carb-heavy
   side in the same meal if trying to keep that meal protein/vegetable-
@@ -70,13 +70,13 @@ to round out the meal without adding real cook-time complexity.
 ## Cost Estimate
 
 $1.60/scout for 6: biscuit dough $7.50, butter $1.35, garlic/parsley
-$0.75. Boston-area pricing — see
+$0.75. Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 1 can of biscuits is enough.
-- **Patrol of 8:** 3 cans — bake in two batches, or use a 14" oven if the
+- **Patrol of 8:** 3 cans - bake in two batches, or use a 14" oven if the
   troop has one, since a 12" oven only comfortably fits about 16 biscuits
   in one layer.
 
@@ -84,5 +84,5 @@ $0.75. Boston-area pricing — see
 
 - **Tenderfoot:** assist in preparing this meal.
 - **Cooking merit badge:** satisfies the dutch oven cooking method
-  requirement — a low-effort way to check that box alongside a stove-cooked
+  requirement - a low-effort way to check that box alongside a stove-cooked
   main.

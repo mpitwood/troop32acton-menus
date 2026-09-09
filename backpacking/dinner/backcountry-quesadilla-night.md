@@ -1,12 +1,12 @@
-# Backcountry Quesadilla Night — Vegetarian Base + Pepperoni Boost
+# Backcountry Quesadilla Night - Vegetarian Base + Pepperoni Boost
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Check
-tortilla label · Boil-and-Steep (for the base filling) · Serves 1 (base)
-+ boost scaled to meat-eaters · Weight: 6 oz/serving base + 1
-oz/meat-eater · 639 kcal/serving base (105 kcal/oz) + 140 kcal boost
-· 32g protein base + 6g boost*
+tortilla label · Boil-and-Steep (for the base filling) · Serves 1 (base) +
+boost scaled to meat-eaters · Weight: 6 oz/serving base + 1 oz/meat-eater
+· 639 kcal/serving base (105 kcal/oz) + 140 kcal boost · 32g protein
+base + 6g boost*
 
-A change of pace from noodle-and-rice dinners — reconstituted cheese
+A change of pace from noodle-and-rice dinners - reconstituted cheese
 powder becomes a thick sauce/spread, folded into a tortilla with black
 beans and TVP, then warmed in a pan if you're carrying one, or eaten as a
 cold wrap if you're not.
@@ -30,12 +30,12 @@ cold wrap if you're not.
 - [ ] Dehydrated black bean flakes, 6 oz
 - [ ] TVP, 3 oz
 - [ ] Dehydrated bell pepper/onion flakes, 2.5 oz
-- [ ] Pepperoni — buy based on headcount of meat-eaters
+- [ ] Pepperoni - buy based on headcount of meat-eaters
 
 ## Equipment
 
 - Pot, stove, lighter/matches
-- A small pan or the pot lid, if warming the quesadillas (optional — this
+- A small pan or the pot lid, if warming the quesadillas (optional - this
   works cold too)
 
 ## Instructions
@@ -47,7 +47,7 @@ cold wrap if you're not.
 
 ### Onsite (at trail)
 
-1. Boil a small amount of water — about 1/3 cup per person — and pour
+1. Boil a small amount of water - about 1/3 cup per person - and pour
    into the cheese powder/bean flake/TVP/veggie flake bag. Stir until it
    forms a thick, spreadable filling.
 2. Spread the filling on one tortilla, top with a second tortilla to make
@@ -64,19 +64,19 @@ cold wrap if you're not.
   (boost)
 - **Vegetables:** dehydrated bell pepper and onion
 - **Processed:** cheese powder, TVP, and pepperoni are processed;
-  tortillas are a refined grain — beans and vegetables are still doing
+  tortillas are a refined grain - beans and vegetables are still doing
   real nutritional work in the base
 
 ## Allergy & Diet Notes
 
 - Nut-free: yes.
-- Egg-free: most tortillas are egg-free — check the specific brand's
+- Egg-free: most tortillas are egg-free - check the specific brand's
   label.
 
 ## Packaging & Trash Notes
 
 - Buy tortillas in bulk packs and repackage into flat zip-top bags rather
-  than carrying the original plastic sleeves — cuts bulk and reduces
+  than carrying the original plastic sleeves - cuts bulk and reduces
   crushing in the pack.
 - Cheese powder, bean flakes, and TVP pre-combine into one bag per
   person, so this meal generates minimal camp trash beyond that bag.
@@ -85,7 +85,7 @@ cold wrap if you're not.
 
 Base: $2.13/scout (tortillas $0.70, cheese powder $0.50, black bean
 flakes $0.60, TVP $0.18, veggie flakes $0.40, rounding adjustments
-included). Boost: $1.15 per meat-eating scout. Boston-area pricing —
+included). Boost: $1.15 per meat-eating scout. Boston-area pricing -
 see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes

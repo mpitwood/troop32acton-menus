@@ -3,7 +3,7 @@
 *Dinner (dessert) · Dessert · Vegetarian · Nut-Free: Yes · Egg-Free: Yes ·
 Dutch Oven · Serves 6 · Prep 15 min · Cook 35-40 min*
 
-Sliced apples under a buttery oat crumble — a change of pace from
+Sliced apples under a buttery oat crumble - a change of pace from
 [Dutch Oven Peach Cobbler](dutch-oven-peach-cobbler.html) using the same
 dutch oven skills.
 
@@ -41,7 +41,7 @@ dutch oven skills.
 ### Advance Prep (at home)
 
 - Pre-mix the dry topping (oats, flour, brown sugar, cinnamon, salt) in a
-  zip-top bag — at camp you just add melted butter and stir.
+  zip-top bag - at camp you just add melted butter and stir.
 - Decant the sugar, cinnamon, and lemon juice needed for the apples into
   small containers.
 - Core and slice the apples the morning of, tossed with a little extra
@@ -62,26 +62,26 @@ dutch oven skills.
 
 - **Protein:** minimal
 - **Fruit:** whole apples
-- **Processed:** none — one of the more whole-food desserts in the repo;
+- **Processed:** none - one of the more whole-food desserts in the repo;
   added sugar is present but there's no processed mix standing in for
   real ingredients
 
 ## Allergy & Diet Notes
 
-- **Nut-free:** yes — no nuts in this topping (traditional apple crisp
+- **Nut-free:** yes - no nuts in this topping (traditional apple crisp
   recipes sometimes add pecans or walnuts; this one doesn't).
 - **Egg-free:** yes.
 
 ## Cost Estimate
 
 $2.30/scout for 6: apples $6.80, oats/flour/sugar/cinnamon/lemon juice
-$4.35, butter $2.75. Boston-area pricing — see
+$4.35, butter $2.75. Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 4 apples, 2/3 the topping.
-- **Patrol of 8:** 8 apples, 1.3x the topping — use a 14" oven if
+- **Patrol of 8:** 8 apples, 1.3x the topping - use a 14" oven if
   available, or expect a deeper fruit layer in a 12" oven with a slightly
   longer bake.
 

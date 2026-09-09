@@ -1,11 +1,11 @@
 # Troop 32 Acton Menu Repository
 
-Pre-planned camp meals — pick a Main per meal slot (+ Side/Appetizer or
+Pre-planned camp meals - pick a Main per meal slot (+ Side/Appetizer or
 Dessert where listed), check Diet/Allergen columns before picking, copy
-Ingredients onto your shopping list. Cost = base (vegetarian, per scout)
-+ meat boost (per meat-eating scout) — see
-[Vegetarian policy](#vegetarian-policy). Prices are Boston-area estimates,
-see [Pricing basis](#pricing-basis). Advancement tags: [below](#advancement-tie-ins).
+Ingredients onto your shopping list. Cost = base (vegetarian, per scout) +
+meat boost (per meat-eating scout) - see [Vegetarian policy](#vegetarian-policy).
+Prices are Boston-area estimates, see [Pricing basis](#pricing-basis).
+Advancement tags: [below](#advancement-tie-ins).
 
 **Any substitutions or deviations from these menus must be preapproved
 by an adult (scoutmaster or committee member) before the shopping trip.**
@@ -15,23 +15,23 @@ by an adult (scoutmaster or committee member) before the shopping trip.**
 ### Breakfast (6)
 
 Every breakfast Main below also lists a drink (Ingredients, Shopping List,
-and Cost Estimate) — easy to lose track of at the store or when budgeting
+and Cost Estimate) - easy to lose track of at the store or when budgeting
 if it's not written into the page itself.
 
 | Page | Diet | Nut-Free | Egg-Free | Method | Cost |
 |---|---|---|---|---|---|
-| [Dutch Oven Breakfast Casserole — Base + Sausage Boost](breakfast/dutch-oven-breakfast-casserole.md) | Vegetarian base | Yes | No | Dutch Oven | $2.85 base + $0.90/meat-eater |
-| [Breakfast Burrito Bar — Base + Sausage Boost](breakfast/breakfast-burrito-bar.md) | Vegetarian/Vegan base | Yes | Yes | Stove | $2.95 base + $0.85/meat-eater |
-| [Camp Pancakes — Mix-In Bar](breakfast/camp-pancakes.md) | Vegetarian | Check label | No (swap available) | Stove | $1.95 base + mix-ins |
+| [Dutch Oven Breakfast Casserole - Base + Sausage Boost](breakfast/dutch-oven-breakfast-casserole.md) | Vegetarian base | Yes | No | Dutch Oven | $2.85 base + $0.90/meat-eater |
+| [Breakfast Burrito Bar - Base + Sausage Boost](breakfast/breakfast-burrito-bar.md) | Vegetarian/Vegan base | Yes | Yes | Stove | $2.95 base + $0.85/meat-eater |
+| [Camp Pancakes - Mix-In Bar](breakfast/camp-pancakes.md) | Vegetarian | Check label | No (swap available) | Stove | $1.95 base + mix-ins |
 | [Oatmeal Toppings Bar](breakfast/oatmeal-toppings-bar.md) | Vegetarian/Vegan | Yes* | Yes | Stove | $2.20 |
 | [Dutch Oven Monkey Bread](breakfast/dutch-oven-monkey-bread.md) | Vegetarian | Yes | Check label | Dutch Oven | $3.00 |
-| [Loaded Breakfast Hash — Base + Bacon Boost](breakfast/loaded-breakfast-hash.md) | Vegetarian base | Yes | Yes | Stove | $2.00 base + $0.90/meat-eater |
+| [Loaded Breakfast Hash - Base + Bacon Boost](breakfast/loaded-breakfast-hash.md) | Vegetarian base | Yes | Yes | Stove | $2.00 base + $0.90/meat-eater |
 
 \* keep any optional nut toppings in a separate labeled bowl.
 
 ### Lunch (6)
 
-Lunches lean "assemble your own" — no base/boost split needed for most,
+Lunches lean "assemble your own" - no base/boost split needed for most,
 since each scout builds their own from a shared spread.
 
 | Page | Diet | Nut-Free | Egg-Free | Method | Cost |
@@ -39,20 +39,20 @@ since each scout builds their own from a shared spread.
 | [Loaded Wrap Bar](lunch/loaded-wrap-bar.md) | Meat & Vegetarian (one bar) | Yes | Yes | No-Cook | $3.85 |
 | [Campfire Quesadillas](lunch/campfire-quesadillas.md) | Meat & Vegetarian (one station) | Yes | Yes | Stove | $4.20 |
 | [Ramen Noodle Upgrade Bowl](lunch/ramen-noodle-upgrade-bowl.md) | Meat, Vegetarian, or Vegan | Yes | Yes | Stove | $2.90 |
-| [Loaded Baked Potato Bar — Base + Bacon Boost](lunch/loaded-baked-potato-bar.md) | Vegetarian base | Yes | Yes | Foil Pack | $2.30 base + $0.70/meat-eater |
+| [Loaded Baked Potato Bar - Base + Bacon Boost](lunch/loaded-baked-potato-bar.md) | Vegetarian base | Yes | Yes | Foil Pack | $2.30 base + $0.70/meat-eater |
 | [Camp Pasta Salad](lunch/camp-pasta-salad.md) | Vegetarian base, meat add-in | Yes | Yes | Stove | $2.80 base + $0.95/meat-eater |
-| [Grilled Cheese & Tomato Soup — Base + Ham Boost](lunch/grilled-cheese-tomato-soup.md) | Vegetarian base | Yes | Yes | Stove | $2.65 base + $0.70/meat-eater |
+| [Grilled Cheese & Tomato Soup - Base + Ham Boost](lunch/grilled-cheese-tomato-soup.md) | Vegetarian base | Yes | Yes | Stove | $2.65 base + $0.70/meat-eater |
 
-### Dinner Mains (6) — vegetarian base + meat boost
+### Dinner Mains (6) - vegetarian base + meat boost
 
 | Page | Diet | Nut-Free | Egg-Free | Method | Cost |
 |---|---|---|---|---|---|
-| [Foil Packet Fajitas — Base + Chicken/Steak Boost](dinner/foil-packet-fajitas.md) | Vegetarian/Vegan base | Yes | Yes | Foil Pack | $4.10 base + $1.45/meat-eater (chicken; steak $3.25) |
-| [Dutch Oven Chili — Base + Ground Beef Boost](dinner/dutch-oven-chili.md) | Vegetarian/Vegan base | Yes | Yes | Dutch Oven | $3.15 base + $1.65/meat-eater |
-| [One-Pot Creamy White Bean Pasta — Base + Sausage Boost](dinner/one-pot-pasta.md) | Vegetarian base | Yes | Yes | Stove | $3.25 base + $1.00/meat-eater |
-| [Dutch Oven Southwest Pizza — Base + Pepperoni Boost](dinner/dutch-oven-pizza.md) | Vegetarian base | Yes | Check label | Dutch Oven | $3.15 base + $0.75/meat-eater |
-| [Dutch Oven Enchilada Bake — Base + Chicken Boost](dinner/dutch-oven-enchilada-bake.md) | Vegetarian base | Yes | Yes | Dutch Oven | $2.85 base + $1.25/meat-eater |
-| [Cajun Red Beans & Rice — Base + Andouille Boost](dinner/cajun-red-beans-and-rice.md) | Vegetarian base | Yes | Yes | Stove | $2.45 base + $0.95/meat-eater |
+| [Foil Packet Fajitas - Base + Chicken/Steak Boost](dinner/foil-packet-fajitas.md) | Vegetarian/Vegan base | Yes | Yes | Foil Pack | $4.10 base + $1.45/meat-eater (chicken; steak $3.25) |
+| [Dutch Oven Chili - Base + Ground Beef Boost](dinner/dutch-oven-chili.md) | Vegetarian/Vegan base | Yes | Yes | Dutch Oven | $3.15 base + $1.65/meat-eater |
+| [One-Pot Creamy White Bean Pasta - Base + Sausage Boost](dinner/one-pot-pasta.md) | Vegetarian base | Yes | Yes | Stove | $3.25 base + $1.00/meat-eater |
+| [Dutch Oven Southwest Pizza - Base + Pepperoni Boost](dinner/dutch-oven-pizza.md) | Vegetarian base | Yes | Check label | Dutch Oven | $3.15 base + $0.75/meat-eater |
+| [Dutch Oven Enchilada Bake - Base + Chicken Boost](dinner/dutch-oven-enchilada-bake.md) | Vegetarian base | Yes | Yes | Dutch Oven | $2.85 base + $1.25/meat-eater |
+| [Cajun Red Beans & Rice - Base + Andouille Boost](dinner/cajun-red-beans-and-rice.md) | Vegetarian base | Yes | Yes | Stove | $2.45 base + $0.95/meat-eater |
 
 ### Sides & Appetizers (6)
 
@@ -63,7 +63,7 @@ since each scout builds their own from a shared spread.
 | [Dutch Oven Garlic Biscuits](sides-and-appetizers/dutch-oven-garlic-biscuits.md) | Vegetarian | Yes | Check label | Dutch Oven | $1.60 |
 | [Campfire Queso Dip](sides-and-appetizers/campfire-queso-dip.md) | Vegetarian base, meat add-in | Yes | Yes | Stove | $2.60 |
 | [Campfire Coleslaw](sides-and-appetizers/campfire-coleslaw.md) | Vegan | Yes | Yes | No-Cook | $0.75 |
-| [Smoky Baked Beans — Base + Bacon Boost](sides-and-appetizers/smoky-baked-beans.md) | Vegetarian base | Yes | Yes | Dutch Oven | $1.20 base + $0.70/meat-eater |
+| [Smoky Baked Beans - Base + Bacon Boost](sides-and-appetizers/smoky-baked-beans.md) | Vegetarian base | Yes | Yes | Dutch Oven | $1.20 base + $0.70/meat-eater |
 
 ### Desserts (6)
 
@@ -91,27 +91,27 @@ since each scout builds their own from a shared spread.
 
 Note: the Nut-Free Snack Basket and Chilled Grape & Fruit Skewers run
 noticeably pricier than the other snacks at Boston produce/cheese
-pricing — the popcorn or veggie dippers are cheaper picks if the weekend
+pricing - the popcorn or veggie dippers are cheaper picks if the weekend
 budget is already tight.
 
 ### Sample weekend menu (patrol of 6, 5 meat-eaters + 1 vegetarian)
 
-Base cost is per scout; boost cost is per meat-eating scout — a
+Base cost is per scout; boost cost is per meat-eating scout - a
 meat-eating scout's total for a meal is **base + boost**, a vegetarian
 scout's is **base only**.
 
 | Meal | Pick | Base | Boost (per meat-eater) |
 |---|---|---|---|
 | Sat breakfast | Breakfast Burrito Bar + drink | $2.95 + $0.85 drink = $3.80 | $0.85 |
-| Sat lunch | Campfire Quesadillas (assemble-your-own, same for everyone) | $4.20 | — |
+| Sat lunch | Campfire Quesadillas (assemble-your-own, same for everyone) | $4.20 | - |
 | Sat dinner | Dutch Oven Chili + Garlic Biscuits + Peach Cobbler | $3.15 + $1.60 + $2.05 = $6.80 | $1.65 |
-| Sun breakfast | Oatmeal Toppings Bar + drink | $2.20 + $0.85 drink = $3.05 | — |
-| Snacks | Campfire Kettle Popcorn + Ants on a Log | $0.80 + $2.10 = $2.90 | — |
+| Sun breakfast | Oatmeal Toppings Bar + drink | $2.20 + $0.85 drink = $3.05 | - |
+| Snacks | Campfire Kettle Popcorn + Ants on a Log | $0.80 + $2.10 = $2.90 | - |
 | **Total, meat-eating scout** | | | **$23.25** |
 | **Total, vegetarian scout** | | | **$20.75** |
 
 At Boston pricing, the meat-eating scout's total fits under $25/scout,
-with roughly $1.75 left for a Friday dinner — any grocery run that runs
+with roughly $1.75 left for a Friday dinner - any grocery run that runs
 over pushes past budget. See [Pricing basis](#pricing-basis) for where
 these numbers come from and why this is a real conversation to have with
 the committee about the $25 figure.
@@ -120,26 +120,26 @@ the committee about the $25 figure.
 
 Cooking oil, salt and pepper, and dry spices/seasonings are things most
 kitchens already have on hand in more than enough quantity for one
-recipe — buying a whole new bottle or jar just for a teaspoon or a
+recipe - buying a whole new bottle or jar just for a teaspoon or a
 splash is wasteful. Recipes flag these ingredients in their Shopping
 List with **(take from home if available, purchase if necessary)**.
 
 - **Default: it's on the shopping list.** Don't skip buying it just
   because "someone probably has it at home."
 - **Only skip buying it if a specific scout in the patrol is sure they
-  can bring it from home** (with a parent's OK) — a small amount decanted
+  can bring it from home** (with a parent's OK) - a small amount decanted
   into a travel container, not the whole bottle or jar.
-- If nobody in the patrol confirms before the shopping trip, buy it —
+- If nobody in the patrol confirms before the shopping trip, buy it -
   don't leave the patrol short a spice mid-cook.
 
 This is separate from the Advance Prep step of decanting a *purchased*
-item into a travel-size container above — pantry staples are about
+item into a travel-size container above - pantry staples are about
 skipping the purchase entirely when a scout's own kitchen already has
 enough of it.
 
 ## Vegetarian policy
 
-- Most patrols have one or two vegetarian scouts, not half the group —
+- Most patrols have one or two vegetarian scouts, not half the group -
   the fix isn't cooking two full separate dishes (wasteful, and it
   singles someone out).
 - Every "big pot" main (chili, one-pot pasta, foil packet fajitas, dutch
@@ -148,9 +148,9 @@ enough of it.
   - The base (dutch oven, pot, packet filling, pizza topping) is hearty
     and vegetarian by default, sized for the whole patrol.
   - Meat is browned in its own small pan, sized to how many scouts
-    actually eat meat — not bought/cooked as a second full recipe.
+    actually eat meat - not bought/cooked as a second full recipe.
   - Meat goes into **individual bowls at serving time**, never stirred
-    into the shared pot — the vegetarian scout can go back for seconds
+    into the shared pot - the vegetarian scout can go back for seconds
     from the same pot everyone else eats from.
   - For single-serving meals (foil packets, personal pizzas, burritos,
     wraps, quesadillas), assemble the vegetarian portion first, before
@@ -164,34 +164,34 @@ enough of it.
 Every page states whether it is safe as written for two of the patrol's most
 common allergies:
 
-- **Nut-free** — contains no tree nuts or peanuts, and no "may contain
+- **Nut-free** - contains no tree nuts or peanuts, and no "may contain
   traces" ingredients like generic granola or trail mix unless a nut-free
   brand is specified.
-- **Egg-free** — contains no egg as an ingredient. (Breakfast dishes that
-  usually contain egg — casseroles, pancakes — either have an egg-free
+- **Egg-free** - contains no egg as an ingredient. (Breakfast dishes that
+  usually contain egg - casseroles, pancakes - either have an egg-free
   version or a noted substitute.)
 
 Tags describe the recipe **as written**. Always double check actual product
-labels at the store — "may contain" warnings change by brand.
+labels at the store - "may contain" warnings change by brand.
 
 ## Cooking methods
 
 Every recipe uses one of the following, matching standard troop gear:
 
-- **2-burner stove** — car-camping propane stove, one or two pots/pans.
-- **Dutch oven** — charcoal or coal-cooked, cast iron.
-- **Foil pack / coals** — cooked directly in coals or on a grate, no pot.
-- **No-cook** — assembled cold, useful for hot/rushed lunches.
+- **2-burner stove** - car-camping propane stove, one or two pots/pans.
+- **Dutch oven** - charcoal or coal-cooked, cast iron.
+- **Foil pack / coals** - cooked directly in coals or on a grate, no pot.
+- **No-cook** - assembled cold, useful for hot/rushed lunches.
 
 ## Nutrition
 
 - Each page has a **Real Food Check** instead of a nutrition-numbers
-  table — a short, factual list of what protein/vegetables/fruit are
+  table - a short, factual list of what protein/vegetables/fruit are
   present and which ingredients (if any) are processed shortcuts.
 - Based on RealFood.gov and the 2025-2030 Dietary Guidelines (replaced
   MyPlate, January 7 2026): protein at every meal, real whole-food
   ingredients over ultra-processed ones, vegetables front and center.
-- Planning aid, not a diet-tracking tool — no calorie/macro numbers on
+- Planning aid, not a diet-tracking tool - no calorie/macro numbers on
   front-country pages.
 
 ## Pricing basis
@@ -201,7 +201,7 @@ Every recipe uses one of the following, matching standard troop gear:
   for meat-eating scouts).
 - A typical weekend (Fri dinner + Sat breakfast/lunch/dinner + Sun
   breakfast, plus dessert and snacks) runs a meat-eating scout's share
-  close to — or over — a $25/scout budget. See each page's Cost Estimate
+  close to - or over - a $25/scout budget. See each page's Cost Estimate
   and the [sample weekend menu](#sample-weekend-menu-patrol-of-6-5-meat-eaters-1-vegetarian)
   above for the running total.
 - **This is a real conversation to have with the committee about the
@@ -212,43 +212,43 @@ Every recipe uses one of the following, matching standard troop gear:
 Pages are tagged with which requirements a scout can use that meal to work
 toward:
 
-- **Tenderfoot** — assist in preparing one meal on a campout.
-- **Second Class** — serve as cook for a hot breakfast or lunch
+- **Tenderfoot** - assist in preparing one meal on a campout.
+- **Second Class** - serve as cook for a hot breakfast or lunch
   (requirement 2e).
-- **First Class** — help plan a menu (breakfast + lunch + dinner, at least two
+- **First Class** - help plan a menu (breakfast + lunch + dinner, at least two
   cooked) and serve as cook for breakfast, lunch, and dinner (at least two
   hot). Must be able to explain how the menu meets nutritional needs using
-  "the MyPlate food guide or the current USDA nutrition model" — as of
+  "the MyPlate food guide or the current USDA nutrition model" - as of
   January 2026 that current model is RealFood.gov, so use each page's Real
   Food Check for that conversation. Double-check the exact wording with
   the senior scout who signs off on the requirement, since official
   requirement text can lag behind a guideline change (requirement 2a).
-- **Cooking merit badge (camp cooking)** — plan and cook using stove, dutch
+- **Cooking merit badge (camp cooking)** - plan and cook using stove, dutch
   oven, and foil-pack/skewer methods. **Note:** per the official
   requirements, meals used for Cooking MB requirements 4, 5, and 6 count
-  only toward the Cooking merit badge — they can't be reused for rank
+  only toward the Cooking merit badge - they can't be reused for rank
   advancement or any other merit badge, and menus can't repeat across
   those three requirements. Check with the scout's counselor before
-  double-counting a meal (requirements 5 and 6 — camp cooking and trail/
+  double-counting a meal (requirements 5 and 6 - camp cooking and trail/
   backpacking, respectively). Requirement 4 (cooking at home) isn't
-  covered here — this repo is built for camp and trail meals, not a home
+  covered here - this repo is built for camp and trail meals, not a home
   kitchen.
-- **Camping merit badge (requirement 8)** — plan a camp menu (two
+- **Camping merit badge (requirement 8)** - plan a camp menu (two
   breakfasts, three lunches, two suppers) and, while camping, cook at
   least one breakfast, one lunch, and one dinner from that plan; at least
   one of those meals must use a lightweight trail stove, so pull that one
   from the Backpacking side once it's live. Also covers stove safety
   (propane/butane and liquid fuel), fuel storage, and explaining how a
   camp menu differs from a backpacking or float-trip menu. Not yet
-  reflected in individual recipe tags — full requirement text in
+  reflected in individual recipe tags - full requirement text in
   `requirements/camping-merit-badge.md` (maintainer reference, not
   published on the site).
 
 This isn't a substitute for reading the current requirements at
-scouting.org — tags are a planning aid, not a sign-off.
+scouting.org - tags are a planning aid, not a sign-off.
 
 ---
 
 *Maintaining this repo or the website it builds? See
-[Maintainer Notes](../maintainer-notes.html) — folder structure, how to
+[Maintainer Notes](../maintainer-notes.html) - folder structure, how to
 add a new recipe, and pricing sourcing. Not needed just to plan a menu.*

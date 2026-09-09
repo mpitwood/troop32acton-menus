@@ -1,11 +1,11 @@
-# Backcountry Mac and Cheese — Vegetarian Base + Bacon Boost
+# Backcountry Mac and Cheese - Vegetarian Base + Bacon Boost
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Boil-and-Steep · Serves 1 (base) + boost scaled to meat-eaters · Weight:
 5.5 oz/serving base + 1.25 oz/meat-eater · 640 kcal/serving base
 (116 kcal/oz) + 188 kcal boost · 26g protein base + 12.5g boost*
 
-The trail comfort-food default — real cheese powder and butter powder
+The trail comfort-food default - real cheese powder and butter powder
 make this taste like actual mac and cheese, not a compromise. Bacon bits
 are dehydrated at home and stirred into individual bowls, not cooked into
 the shared pot.
@@ -30,7 +30,7 @@ the shared pot.
 - [ ] Butter powder, 1.5 oz
 - [ ] Salt (take from home if available, purchase if necessary)
 - [ ] Pepper (take from home if available, purchase if necessary)
-- [ ] Dehydrated bacon bits or summer sausage — buy/prep based on
+- [ ] Dehydrated bacon bits or summer sausage - buy/prep based on
       headcount of meat-eaters
 
 ## Equipment
@@ -44,12 +44,12 @@ the shared pot.
 - Portion the pasta, cheese powder, milk powder, and butter powder into
   one bag per person per dinner day.
 - If dehydrating your own bacon, cook it fully crisp first, then
-  dehydrate until brittle — this is what makes it shelf-stable.
+  dehydrate until brittle - this is what makes it shelf-stable.
 
 ### Onsite (at trail)
 
 1. Boil enough water to cook the pasta per package time (usually 4–7
-   minutes for quick-cooking shapes — check the package, this is the one
+   minutes for quick-cooking shapes - check the package, this is the one
    base recipe in the repo that needs real boiling, not just steeping).
 2. Drain most of the water, leaving a splash. Stir in the cheese powder,
    milk powder, and butter powder until smooth.
@@ -61,19 +61,19 @@ the shared pot.
 
 - **Protein (base):** cheese powder, pasta, milk powder; + bacon (boost)
 - **Processed:** cheese powder, milk powder, and butter powder are all
-  processed convenience items — genuinely hard to avoid for a
+  processed convenience items - genuinely hard to avoid for a
   lightweight backpacking mac and cheese, this isn't a dish to hold to a
   whole-food standard
 
 ## Allergy & Diet Notes
 
 - Nut-free: yes.
-- Egg-free: yes — check the specific pasta brand's label, most dry pasta
+- Egg-free: yes - check the specific pasta brand's label, most dry pasta
   is egg-free but some enriched shapes aren't.
 
 ## Packaging & Trash Notes
 
-- Pre-combine the dry base into one bag per person — the only trash this
+- Pre-combine the dry base into one bag per person - the only trash this
   meal generates at camp is that one bag.
 - Buy cheese powder, milk powder, and butter powder in bulk rather than
   single-serving packets.
@@ -82,7 +82,7 @@ the shared pot.
 
 Base: $1.55/scout (pasta $0.90, cheese powder $0.50, milk powder
 $0.09, butter powder $0.19). Boost: $1.25 per meat-eating scout.
-Butter powder is a specialty item — see
+Butter powder is a specialty item - see
 [pricing basis](../OVERVIEW.html#pricing) for sourcing notes.
 
 ## Scaling Notes

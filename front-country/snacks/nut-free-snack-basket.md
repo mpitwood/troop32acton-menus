@@ -4,7 +4,7 @@
 Egg-Free: Yes · No-Cook · Serves 6 · Prep 10 min · Cook: none*
 
 Two no-cook snack options, both built to be safe by default for a scout
-with a nut allergy rather than requiring a special substitution — a crunchy
+with a nut allergy rather than requiring a special substitution - a crunchy
 trail mix and a fruit-and-cheese plate. Lay both out and let the patrol
 graze between activities.
 
@@ -15,7 +15,7 @@ graze between activities.
 - 1 cup dried cranberries or raisins
 - 1 cup pretzel pieces
 - 1 cup nut-free chocolate chips or M&M's (M&M's are made in a facility
-  that also processes peanuts — check current packaging if that matters
+  that also processes peanuts - check current packaging if that matters
   for the specific allergy)
 
 **Fruit & cheese plate:**
@@ -45,7 +45,7 @@ graze between activities.
 ### Advance Prep (at home)
 
 - Mix the trail mix at home and portion into a large bag or several small
-  ones for hikes — no assembly needed at camp.
+  ones for hikes - no assembly needed at camp.
 - Cube the cheese ahead if using block cheese instead of string cheese.
 
 ### Onsite (at camp)
@@ -67,7 +67,7 @@ graze between activities.
 ## Allergy & Diet Notes
 
 - **Nut-free:** built to be nut-free from the ingredient list itself, not
-  by substitution — read chocolate/candy and cracker labels for shared-
+  by substitution - read chocolate/candy and cracker labels for shared-
   facility warnings regardless, since this changes by brand and by year.
 - **Egg-free:** yes.
 - **Dairy-free option:** skip the cheese, add extra fruit or pretzels.
@@ -76,17 +76,17 @@ graze between activities.
 
 $5.50/scout for 6: sunflower seeds $5.50, dried fruit $4, pretzels
 $2.75, chocolate $4, apples $2.75, grapes $4.50, cheese $5.50,
-crackers $4. Boston-area pricing — see
+crackers $4. Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** roughly 2/3 of every quantity.
-- **Patrol of 8:** roughly 1.3x every quantity — trail mix scales easily
+- **Patrol of 8:** roughly 1.3x every quantity - trail mix scales easily
   since it's just proportional mixing.
 
 ## Advancement Tie-In
 
 - **Cooking merit badge:** satisfies the snack requirement for camp
-  cooking (no-cook still counts — the requirement is about planning and
+  cooking (no-cook still counts - the requirement is about planning and
   serving, not necessarily heat).

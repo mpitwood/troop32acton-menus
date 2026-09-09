@@ -4,7 +4,7 @@
 · Serves 6 · Prep 5 min · Cook 5-8 min*
 
 Cheapest snack in the whole repo, and shaking the pot over the burner is
-part of the fun — good for a campfire program night.
+part of the fun - good for a campfire program night.
 
 ## Ingredients (serves 6)
 
@@ -27,7 +27,7 @@ part of the fun — good for a campfire program night.
 
 ### Advance Prep (at home)
 
-- Decant the oil into a small travel container — only 3 tbsp is needed.
+- Decant the oil into a small travel container - only 3 tbsp is needed.
 - Portion the kernels into a small bag if the bulk bag is large; only 1/2
   cup is needed per batch.
 
@@ -39,7 +39,7 @@ part of the fun — good for a campfire program night.
    making kettle corn). Cover.
 3. Shake the pot frequently over the burner until popping slows to 2-3
    seconds between pops, about 3-5 minutes.
-4. Remove from heat immediately — popcorn burns fast once popping slows.
+4. Remove from heat immediately - popcorn burns fast once popping slows.
    Season with salt.
 
 ## Real Food Check
@@ -58,14 +58,14 @@ part of the fun — good for a campfire program night.
 ## Cost Estimate
 
 $0.80/scout for 6: kernels $3.50, oil $0.75, salt negligible.
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for
 sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 1/3 cup kernels.
 - **Patrol of 8:** pop in two batches rather than doubling kernels in one
-  pot — overcrowded kernels don't pop evenly and scorch on the bottom.
+  pot - overcrowded kernels don't pop evenly and scorch on the bottom.
 
 ## Advancement Tie-In
 

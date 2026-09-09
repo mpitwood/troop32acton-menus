@@ -1,16 +1,16 @@
-# Backcountry Breakfast Burrito — Vegetarian Base + Sausage Boost
+# Backcountry Breakfast Burrito - Vegetarian Base + Sausage Boost
 
 *Breakfast · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Boil-and-Steep · Serves 1 (base) + boost scaled to meat-eaters · Weight:
 5.2 oz/serving base + 1.5 oz/meat-eater · 536 kcal/serving base (103
 kcal/oz) + 240 kcal boost · 31g protein base + 13.5g boost*
 
-The one hot, real breakfast in the rotation — dehydrated bean flakes and
+The one hot, real breakfast in the rotation - dehydrated bean flakes and
 TVP rehydrate in a few minutes with boiling water, no simmering required.
 Sausage crumbles are dehydrated separately at home and added to
 individual burritos, not cooked into the shared pot. A meat-eating
 scout's full plate (base + boost) lands close to 776 kcal and 44.5g
-protein — in line with Philmont's own breakfast totals.
+protein - in line with Philmont's own breakfast totals.
 
 ## Ingredients (per person)
 
@@ -24,7 +24,7 @@ protein — in line with Philmont's own breakfast totals.
 
 **Meat boost (sized to meat-eating scouts):**
 - 1.5 oz dehydrated cooked breakfast sausage crumbles (dehydrate at home
-  before the trip — see Advance Prep)
+  before the trip - see Advance Prep)
 
 ## Shopping List (for a patrol of 6)
 
@@ -35,7 +35,7 @@ protein — in line with Philmont's own breakfast totals.
 - [ ] Cumin (take from home if available, purchase if necessary)
 - [ ] Chili powder (take from home if available, purchase if necessary)
 - [ ] Burrito tortillas, 6
-- [ ] Breakfast sausage — buy and dehydrate based on headcount of
+- [ ] Breakfast sausage - buy and dehydrate based on headcount of
       meat-eaters, not full patrol
 
 ## Equipment
@@ -49,15 +49,15 @@ protein — in line with Philmont's own breakfast totals.
 ### Advance Prep (at home)
 
 - Cook and crumble breakfast sausage, then dehydrate it (dehydrator or
-  low oven, several hours until fully dry and brittle) — this is what
+  low oven, several hours until fully dry and brittle) - this is what
   makes it shelf-stable and lightweight enough to carry.
 - Portion the bean flakes, TVP, veggie flakes, cheese powder, and spices
-  per person into a single bag each — this becomes the whole base, just
+  per person into a single bag each - this becomes the whole base, just
   add hot water at camp.
 
 ### Onsite (at trail)
 
-1. Boil water — about 3/4 cup per person's bean-flake bag.
+1. Boil water - about 3/4 cup per person's bean-flake bag.
 2. Pour boiling water into the base bag (or a pot), stir, cover, and let
    sit 5–7 minutes off the heat until the flakes and TVP rehydrate into a
    thick, scoopable filling.
@@ -73,21 +73,21 @@ protein — in line with Philmont's own breakfast totals.
   sausage (boost)
 - **Vegetables:** dehydrated bell pepper and onion
 - **Processed:** dehydrated bean flakes, TVP, and cheese powder are
-  processed convenience items, standard for backpacking — there isn't a
+  processed convenience items, standard for backpacking - there isn't a
   lighter whole-food substitute that still packs this small
 
 ## Allergy & Diet Notes
 
 - Nut-free: yes.
-- Egg-free: yes — the base has no egg.
+- Egg-free: yes - the base has no egg.
 
 ## Packaging & Trash Notes
 
 - Base ingredients for the whole trip can be pre-portioned into one bag
-  per person per breakfast day at home — no individual wrapper trash
+  per person per breakfast day at home - no individual wrapper trash
   beyond that one bag, which gets reused as the pour-and-stir vessel.
 - Tortillas: buy in bulk, repackage into a flat zip-top bag rather than
-  carrying the original plastic sleeve — reduces bulk and crushing.
+  carrying the original plastic sleeve - reduces bulk and crushing.
 
 ## Cost Estimate
 
@@ -95,7 +95,7 @@ Base: $2.05/scout (bean flakes $1.20, TVP $0.18, veggie flakes $0.30,
 cheese powder $0.40, tortilla $0.35, spices negligible). Sausage boost:
 $0.65 per meat-eating scout. Bean flakes, TVP, and cheese powder are
 specialty items, typically from an outdoor retailer or bulk-foods seller
-rather than a regular grocery store — see
+rather than a regular grocery store - see
 [pricing basis](../OVERVIEW.html#pricing).
 
 ## Scaling Notes

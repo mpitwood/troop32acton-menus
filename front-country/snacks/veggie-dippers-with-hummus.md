@@ -3,7 +3,7 @@
 *Any meal · Snack · Vegan · Nut-Free: Check hummus label · Egg-Free: Yes ·
 No-Cook · Serves 6 · Prep 10 min · Cook: none*
 
-Simple, fast, and it's the vegetable-heaviest snack in the repo — a good
+Simple, fast, and it's the vegetable-heaviest snack in the repo - a good
 pick on a day when the meals already leaned carb- and protein-heavy.
 
 ## Ingredients (serves 6)
@@ -28,7 +28,7 @@ pick on a day when the meals already leaned carb- and protein-heavy.
 
 ### Advance Prep (at home)
 
-- Slice the peppers and cucumbers into dipping-size pieces ahead — both
+- Slice the peppers and cucumbers into dipping-size pieces ahead - both
   hold up fine in a cooler for a day or two. Baby carrots are already
   ready to go.
 
@@ -46,7 +46,7 @@ pick on a day when the meals already leaned carb- and protein-heavy.
 
 ## Allergy & Diet Notes
 
-- **Nut-free:** most hummus is nut-free, but check the label — some brands
+- **Nut-free:** most hummus is nut-free, but check the label - some brands
   add tree nuts or are processed on shared lines.
 - **Egg-free:** yes.
 - **Vegan:** yes.
@@ -54,7 +54,7 @@ pick on a day when the meals already leaned carb- and protein-heavy.
 ## Cost Estimate
 
 $3.00/scout for 6: carrots $2.80, peppers $3.50, cucumbers $2.70,
-hummus $9 (2 tubs). Boston-area pricing — see
+hummus $9 (2 tubs). Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes

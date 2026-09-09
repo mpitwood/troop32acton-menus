@@ -1,12 +1,12 @@
-# Cooking Merit Badge Worksheet — Requirement 6 (Trail and Backpacking Meals)
+# Cooking Merit Badge Worksheet - Requirement 6 (Trail and Backpacking Meals)
 
 **This is your worksheet, not a recipe page.**
 
-- Requirement 6 plans and cooks trail food for 3–5 people — the
+- Requirement 6 plans and cooks trail food for 3–5 people - the
   Backpacking Overview document (find it through the menu at the top of
   the page) is built for exactly this: lightweight, shelf-stable, no
   resupply needed.
-- Don't copy answers from a page's "Real Food Check" — read the
+- Don't copy answers from a page's "Real Food Check" - read the
   **Ingredients** list yourself and work it out.
 - Bring the finished worksheet to your merit badge counselor.
 
@@ -45,7 +45,7 @@
 > it from animals.
 >
 > **Note on repeating meals:** meals used for requirements 4, 5, and 6
-> count only toward the Cooking merit badge — they can't be reused for
+> count only toward the Cooking merit badge - they can't be reused for
 > rank advancement or another merit badge, and menus across 4/5/6 can't
 > repeat each other.
 
@@ -60,7 +60,7 @@
   Overview document's vegetarian policy for how bases and boosts split
   by ingredient rather than by whole dish. ________________________________________________
 
-## 2. Pick your menu — one breakfast, one lunch, one dinner, one snack
+## 2. Pick your menu - one breakfast, one lunch, one dinner, one snack
 
 From the Backpacking Overview document:
 
@@ -77,7 +77,7 @@ From the Backpacking Overview document:
 
   Line 2: ________________________________________________
 
-- Requirement 6d needs **at least one cooked meal** on the actual trip —
+- Requirement 6d needs **at least one cooked meal** on the actual trip -
   make sure one of your picks above is tagged Boil-and-Steep or Simmer,
   not No-Cook or Cold-Soak.
 
@@ -115,7 +115,7 @@ From the Backpacking Overview document:
   the trip? ________________________________________________
 - Which one was cooked over fire or trail stove, and who supervised? ________________________________________________
 
-**Feedback from those you served** — one row per person, add more rows
+**Feedback from those you served** - one row per person, add more rows
 by hand if your group is bigger than the table:
 
 | Person | What they liked | What they'd change |
@@ -126,7 +126,7 @@ by hand if your group is bigger than the table:
 | | | |
 | | | |
 
-**Your own evaluation** — what worked, what would you change?
+**Your own evaluation** - what worked, what would you change?
 
 Line 1: ________________________________________________
 
@@ -143,7 +143,7 @@ Line 2: ________________________________________________
 - How did you divide food and cooking supplies equitably among the
   group, so no one carries a disproportionate share? ________________________________________________
 - Cleanup plan (see the Backpacking Overview document's packaging/trash
-  section — everything gets carried out): ________________
+  section - everything gets carried out): ________________
 - Animal-safe food storage plan for overnight (bear bag, canister,
   hanging, etc.): ________________________________________________
 
@@ -151,5 +151,5 @@ Line 2: ________________________________________________
 
 *Requirement text above is quoted verbatim from the Cooking merit badge
 requirements at scouting.org, confirmed current as of 2026. Requirements
-can be revised — confirm with your counselor that this is still the
+can be revised - confirm with your counselor that this is still the
 current wording before you rely on it.*

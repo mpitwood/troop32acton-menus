@@ -7,7 +7,7 @@ Weight: __ oz/serving · __ kcal/serving (__ kcal/oz) · __g protein*
 
 Target for a full breakfast/lunch/dinner page: 650-900 kcal and 25-40g
 protein per serving (base + boost/protein-side combined for a
-meat-eating scout) — see the [Backpacking Overview](OVERVIEW.html) for
+meat-eating scout) - see the [Backpacking Overview](OVERVIEW.html) for
 where that range comes from.
 
 One or two sentences on what it is. If this is a dinner with a meat boost,
@@ -16,7 +16,7 @@ to make it real food."
 
 ## Ingredients (per person)
 
-- Quantity — ingredient (note if it needs dehydrating/repackaging at home)
+- Quantity - ingredient (note if it needs dehydrating/repackaging at home)
 
 ## Shopping List (for a patrol of __)
 
@@ -30,7 +30,7 @@ to make it real food."
 
 ### Advance Prep (at home)
 
-- Dehydrating, repackaging, portioning — this matters more here than in
+- Dehydrating, repackaging, portioning - this matters more here than in
   front-country, since there's no cooler and no do-over at the store.
 
 ### Onsite (at trail)
@@ -57,7 +57,7 @@ to make it real food."
 
 ## Cost Estimate
 
-- $X/scout — breakdown if useful; note if any ingredient is a specialty
+- $X/scout - breakdown if useful; note if any ingredient is a specialty
   item not found at a regular grocery store.
 
 ## Scaling Notes

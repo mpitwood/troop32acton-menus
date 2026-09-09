@@ -1,17 +1,17 @@
-# Loaded Breakfast Hash — Vegetarian Base + Bacon Boost
+# Loaded Breakfast Hash - Vegetarian Base + Bacon Boost
 
 *Breakfast · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 2-Burner Stove · Serves 6 · Prep 15 min · Cook 20-25 min*
 
 A hot, hearty, genuinely egg-free breakfast for a scout with an egg
-allergy — not just oatmeal again. Crispy potatoes and peppers are the
+allergy - not just oatmeal again. Crispy potatoes and peppers are the
 shared base; bacon is cooked separately and spooned on by scouts who want
 it.
 
 ## Ingredients
 
 **Base (serves 6):**
-- 2 lb frozen diced hash potatoes (or 6 medium potatoes, diced small —
+- 2 lb frozen diced hash potatoes (or 6 medium potatoes, diced small -
   either works, dice-ahead fresh potatoes hold up in a cooler just as well)
 - 1 onion, diced
 - 1 bell pepper, diced
@@ -34,7 +34,7 @@ it.
 - [ ] Paprika (take from home if available, purchase if necessary)
 - [ ] Garlic powder (take from home if available, purchase if necessary)
 - [ ] Optional: shredded cheese, green onion
-- [ ] Bacon — buy based on headcount of meat-eaters
+- [ ] Bacon - buy based on headcount of meat-eaters
 - [ ] Breakfast drink, patrol's choice
 
 ## Equipment
@@ -48,7 +48,7 @@ it.
 ### Advance Prep (at home)
 
 - If using fresh potatoes instead of frozen diced, dice them at home and
-  cooler-pack — either option travels fine for 1-2 days.
+  cooler-pack - either option travels fine for 1-2 days.
 - Decant the paprika and garlic powder into one small spice container
   instead of bringing two full jars.
 
@@ -61,7 +61,7 @@ it.
    Season with salt and pepper.
 3. On the other burner, cook the chopped bacon in the small skillet until
    crisp. Drain on a paper towel, keep in its own bowl.
-4. **To serve:** portion the hash into bowls first — this is the
+4. **To serve:** portion the hash into bowls first - this is the
    vegetarian-safe dish. Top with cheese or green onion if using.
    Meat-eating scouts then spoon bacon from its own bowl onto their own
    plate.
@@ -70,13 +70,13 @@ it.
 
 - **Protein (base):** cheese (optional); + bacon (boost)
 - **Vegetables:** potato, onion, bell pepper
-- **Processed:** frozen diced potatoes (convenience — fresh potatoes swap
+- **Processed:** frozen diced potatoes (convenience - fresh potatoes swap
   in with zero recipe changes); bacon boost is a processed meat
 
 ## Allergy & Diet Notes
 
 - **Nut-free:** yes.
-- **Egg-free:** yes — the whole dish, base and boost, contains no egg.
+- **Egg-free:** yes - the whole dish, base and boost, contains no egg.
   This is the go-to hot breakfast if a scout in the patrol has an egg
   allergy and pancakes/oatmeal have gotten repetitive.
 
@@ -84,15 +84,15 @@ it.
 
 Base: $2.00/scout for 6 (potatoes $4.75, onion/pepper $3.05, cheese
 $1.90, spices/oil $1.25). Bacon boost: $0.90 per meat-eating scout (8
-slices $5, split 5-6 ways). Add $0.75-1.00/scout for the breakfast drink
-— not in the totals above, budget it separately. Boston-area pricing —
-see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
+slices $5, split 5-6 ways). Add $0.75-1.00/scout for the breakfast
+drink - not in the totals above, budget it separately. Boston-area
+pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 1.3 lb potatoes, scale veggies down proportionally;
   bacon sized to however many of the 4 eat meat.
-- **Patrol of 8:** 2.7 lb potatoes — cook in two batches if the skillet is
+- **Patrol of 8:** 2.7 lb potatoes - cook in two batches if the skillet is
   too crowded to crisp properly; bacon sized per actual meat-eater
   headcount.
 

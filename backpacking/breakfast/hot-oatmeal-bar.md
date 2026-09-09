@@ -4,7 +4,7 @@
 Boil-and-Steep · Serves 1 · Weight: 5.3 oz/serving · 613-683
 kcal/serving (116-129 kcal/oz) · 24-27g protein*
 
-One boil, done — the lowest-fuel hot breakfast on the menu. Everything is
+One boil, done - the lowest-fuel hot breakfast on the menu. Everything is
 pre-mixed into a single per-person packet at home, so there's no
 measuring or combining at camp, just water. Sized with the protein side
 included to land close to Philmont's 700-1,000 kcal breakfast range.
@@ -31,7 +31,7 @@ included to land close to Philmont's 700-1,000 kcal breakfast range.
 - [ ] Dried fruit, 3 oz
 - [ ] Nonfat dry milk powder, 3 oz
 - [ ] Sunflower seeds, 6 oz
-- [ ] Jerky/meat sticks and sunflower seed butter packets — buy based on
+- [ ] Jerky/meat sticks and sunflower seed butter packets - buy based on
       how many scouts want each, not one of each per scout
 
 ## Equipment
@@ -45,15 +45,15 @@ included to land close to Philmont's 700-1,000 kcal breakfast range.
 
 - Combine the oats, sugar, cinnamon, dried fruit, milk powder, and
   sunflower seeds into one bag per person per breakfast day. This is the
-  only assembly step — everything else happens at camp with hot water.
+  only assembly step - everything else happens at camp with hot water.
 
 ### Onsite (at trail)
 
 1. Boil about 1 cup water per person.
 2. Pour into the oat packet (or a bowl), stir, cover, let sit 3–5 minutes
    until thickened.
-3. Add the protein side — a jerky stick for meat-eating scouts, a
-   sunflower seed butter packet for vegetarian scouts — as a separate
+3. Add the protein side - a jerky stick for meat-eating scouts, a
+   sunflower seed butter packet for vegetarian scouts - as a separate
    item, not stirred into the shared pot if cooking for the group at once.
 
 ## Real Food Check
@@ -61,19 +61,19 @@ included to land close to Philmont's 700-1,000 kcal breakfast range.
 - **Protein:** milk powder, sunflower seeds; + jerky or sunflower seed
   butter (protein side)
 - **Whole food:** oats, dried fruit
-- **Processed:** none significant in the base — brown sugar is the only
+- **Processed:** none significant in the base - brown sugar is the only
   added sugar, in a controlled small amount
 
 ## Allergy & Diet Notes
 
-- Nut-free: yes — sunflower seeds and sunflower seed butter throughout,
+- Nut-free: yes - sunflower seeds and sunflower seed butter throughout,
   never peanut.
 - Egg-free: yes.
 - Vegan: yes, if using a vegan protein side and a plant milk powder.
 
 ## Packaging & Trash Notes
 
-- Pre-mixed single-serving bags mean zero measuring trash at camp — just
+- Pre-mixed single-serving bags mean zero measuring trash at camp - just
   the one bag per person, reused as the eating vessel, then packed out.
 - Buy sunflower seeds and dried fruit in bulk and portion at home rather
   than buying pre-portioned pouches.
@@ -83,7 +83,7 @@ included to land close to Philmont's 700-1,000 kcal breakfast range.
 Base: $0.75/scout (oats $0.30, sugar/cinnamon $0.10, dried fruit
 $0.35, milk powder $0.15, sunflower seeds $0.45). Protein side: jerky/
 meat stick $1.25 or sunflower seed butter packet $0.60. Boston-area
-pricing — see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
+pricing - see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes
 

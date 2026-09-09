@@ -1,9 +1,9 @@
-# Camp Pancakes — Mix-In Bar
+# Camp Pancakes - Mix-In Bar
 
 *Breakfast · Main · Vegetarian · Nut-Free: Yes (check chocolate chip brand) · Egg-Free: No (swap below) ·
 2-Burner Stove · Serves 6 · Prep 5 min · Cook 15-20 min*
 
-The reliable, crowd-pleasing default — cheap, fast, and everyone can eat the
+The reliable, crowd-pleasing default - cheap, fast, and everyone can eat the
 base recipe. Troop policy: no plain pancakes. Every scout picks at least one
 mix-in (chocolate chips, berries, banana, or cinnamon-sugar) and it goes on
 their pancakes at the griddle, so one patrol can run several flavors off the
@@ -21,7 +21,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 - Butter or oil, for the griddle
 - Syrup
 
-**Mix-In Bar (quantities below are totals for the whole patrol — stock
+**Mix-In Bar (quantities below are totals for the whole patrol - stock
 2-3 of these options, not all four, and let each scout pick one):**
 - 1 cup mini chocolate chips total (buy a brand specifically labeled
   nut-free)
@@ -40,7 +40,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 - [ ] Eggs (2, or skip if using flax swap)
 - [ ] Oil or butter (take from home if available, purchase if necessary)
 - [ ] Syrup
-- [ ] Mix-ins — pick 2-3 of: mini chocolate chips (nut-free brand),
+- [ ] Mix-ins - pick 2-3 of: mini chocolate chips (nut-free brand),
       blueberries, bananas, cinnamon + brown sugar, based on what the
       patrol actually wants
 - [ ] Breakfast drink, patrol's choice
@@ -56,7 +56,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 
 ### Advance Prep (at home)
 
-- If using the flax-egg swap, no advance prep needed — it's mixed fresh.
+- If using the flax-egg swap, no advance prep needed - it's mixed fresh.
 - Decant the 3 tbsp of oil (or soften the butter) into a small travel
   container instead of packing a full bottle.
 - Pour syrup into a small squeeze bottle rather than hauling the full jug,
@@ -67,7 +67,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 ### Onsite (at camp)
 
 1. Whisk mix, milk, eggs (or flax egg, see below), and oil together until
-   just combined — some lumps are fine, don't overmix. Leave the batter
+   just combined - some lumps are fine, don't overmix. Leave the batter
    plain; mix-ins go on at the griddle, not in the bowl.
 2. Heat griddle over medium, lightly oiled.
 3. Pour 1/4 cup batter per pancake. Ask each scout which mix-in they want,
@@ -80,8 +80,8 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 
 ## Real Food Check
 
-- **Protein:** eggs, milk — present but modest, not the anchor of the meal
-- **Fruit:** real, if the scout picks berries or banana — the mix-in policy
+- **Protein:** eggs, milk - present but modest, not the anchor of the meal
+- **Fruit:** real, if the scout picks berries or banana - the mix-in policy
   actually gets fruit onto the plate more often than a plain pancake would
 - **Processed:** boxed pancake mix, syrup, chocolate chips (all added sugar)
 - Pair with a protein-forward side (eggs, sausage) rather than serving
@@ -90,7 +90,7 @@ same bowl of batter. Good as a lighter breakfast or paired with a meat side
 ## Allergy & Diet Notes
 
 - **Nut-free:** base batter is nut-free as written. Chocolate chips are a
-  common cross-contamination risk — buy a bag specifically labeled
+  common cross-contamination risk - buy a bag specifically labeled
   nut-free, not just "may not contain nuts." Berries, banana, and
   cinnamon-sugar are nut-free with no swap needed.
 - **Egg-free swap:** replace the 2 eggs with 2 tbsp ground flaxseed mixed
@@ -106,14 +106,14 @@ $0.50, syrup $5.50. Mix-ins add roughly $0.60-0.90/scout depending on
 picks: chocolate chips $4.20/bag, blueberries $4.50/pint, bananas
 $0.96/lb, cinnamon-sugar under $0.50 total. Total lands close to
 $2.60/scout for a bag of chips plus a pint of berries split across the
-patrol. Add $0.75-1.00/scout for the breakfast drink — not in the totals
+patrol. Add $0.75-1.00/scout for the breakfast drink - not in the totals
 above, budget it separately.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 2 cups mix, 1.25 cups milk, 1-2 eggs; scale mix-ins down
   proportionally, still buy at least 2 different options.
-- **Patrol of 8:** 4 cups mix, 2.5 cups milk, 3 eggs — cook in more batches
+- **Patrol of 8:** 4 cups mix, 2.5 cups milk, 3 eggs - cook in more batches
   rather than crowding the griddle, or use two pans across both burners.
   Add a third mix-in option so there's enough variety to go around.
 

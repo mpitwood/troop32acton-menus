@@ -1,10 +1,10 @@
-# Dutch Oven Enchilada Bake — Vegetarian Base + Chicken Boost
+# Dutch Oven Enchilada Bake - Vegetarian Base + Chicken Boost
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Dutch Oven · Serves 6 (base) + boost scaled to meat-eaters · Prep 15 min ·
 Cook 30-35 min*
 
-A layered casserole-style enchilada bake — torn tortillas instead of
+A layered casserole-style enchilada bake - torn tortillas instead of
 individually rolled ones, so it's one shared dish, not thirty small ones.
 Chicken is warmed separately and spooned onto individual portions.
 
@@ -33,7 +33,7 @@ Chicken is warmed separately and spooned onto individual portions.
 - [ ] Onion, 1/2
 - [ ] Shredded Mexican cheese blend, 2.5 cups
 - [ ] Optional: olives, cilantro, sour cream
-- [ ] Cooked shredded chicken — buy based on headcount of meat-eaters
+- [ ] Cooked shredded chicken - buy based on headcount of meat-eaters
 
 ## Equipment
 
@@ -46,7 +46,7 @@ Chicken is warmed separately and spooned onto individual portions.
 
 ### Advance Prep (at home)
 
-- Dice the onion ahead and cooler-pack — holds up fine for a day or two.
+- Dice the onion ahead and cooler-pack - holds up fine for a day or two.
 - Canned chicken needs no cooler space at all; if using rotisserie chicken
   instead, shred it at home and cooler-pack.
 
@@ -61,7 +61,7 @@ Chicken is warmed separately and spooned onto individual portions.
    until bubbly and the cheese is melted through.
 4. While it bakes, warm the shredded chicken in a small pot with a splash
    of enchilada sauce on a camp stove burner. Keep it in its own pot.
-5. **To serve:** scoop portions from the dutch oven first — this is the
+5. **To serve:** scoop portions from the dutch oven first - this is the
    vegetarian-safe dish. Meat-eating scouts top their own portion with
    warmed chicken from its own pot.
 
@@ -69,7 +69,7 @@ Chicken is warmed separately and spooned onto individual portions.
 
 - **Protein (base):** black beans, cheese; + chicken (boost)
 - **Vegetables:** corn, onion
-- **Processed:** canned enchilada sauce — a minimally processed pantry
+- **Processed:** canned enchilada sauce - a minimally processed pantry
   item, not ultra-processed; no need to make it from scratch
 
 ## Allergy & Diet Notes
@@ -82,7 +82,7 @@ Chicken is warmed separately and spooned onto individual portions.
 Base: $2.85/scout for 6 (tortillas $4, enchilada sauce $4.70, beans
 $1.50, corn $1.50, onion $0.65, cheese $4.70). Chicken boost: $1.25
 per meat-eating scout (2 cups canned/rotisserie chicken $7, split 5-6
-ways). Boston-area pricing — see
+ways). Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes

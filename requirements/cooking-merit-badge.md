@@ -2,7 +2,7 @@
 
 Source: scouting.org, Cooking merit badge requirements page. Kept here as
 the reference copy used to write `cooking-mb-worksheet-req5.md` and
-`cooking-mb-worksheet-req6.md` — confirmed current as of 2026.
+`cooking-mb-worksheet-req6.md` - confirmed current as of 2026.
 
 ## Overview
 
@@ -12,7 +12,7 @@ about food safety, nutritional guidelines, meal planning, and methods of
 food preparation, and will review the variety of culinary (or cooking)
 careers available.
 
-**Note — repeating meals or menus:** The meals prepared for Cooking merit
+**Note - repeating meals or menus:** The meals prepared for Cooking merit
 badge requirements 4, 5, and 6 will count only toward this merit badge
 and may not be used for rank advancement or any other merit badge. Meals
 prepared for rank advancement or other merit badges may not be counted
@@ -133,7 +133,7 @@ learned with your counselor, including any adjustments that could have
 improved or enhanced your meals. Tell how planning and preparation help
 ensure a successful meal.
 
-*This repo doesn't cover requirement 4 — it's built for camp/trail meals,
+*This repo doesn't cover requirement 4 - it's built for camp/trail meals,
 not a home kitchen.*
 
 ## 5. Camp cooking

@@ -10,11 +10,11 @@ every diet in the patrol from one pot.
 
 ## Ingredients (serves 6)
 
-- 6 packs instant ramen noodles (seasoning packets optional — using only
+- 6 packs instant ramen noodles (seasoning packets optional - using only
   half keeps sodium down)
 - 1 cup fresh snap peas or green beans, trimmed
 - 1 cup carrots, thinly sliced or shredded
-- 1 cup corn, canned and drained (shelf-stable — no cooler space needed)
+- 1 cup corn, canned and drained (shelf-stable - no cooler space needed)
 - 3 green onions, sliced
 - 2 cups cooked, sliced chicken or 1 (14 oz) block firm tofu, cubed
   (or both, cooked separately, for a mixed patrol)
@@ -45,13 +45,13 @@ every diet in the patrol from one pot.
 
 ### Advance Prep (at home)
 
-- Trim the snap peas/green beans and slice or shred the carrots — both
+- Trim the snap peas/green beans and slice or shred the carrots - both
   hold up fine in a cooler for a day or two, unlike frozen vegetables,
   which either need to stay frozen (not realistic in a cooler) or get
   used the day they thaw.
 - Decant the soy sauce and sesame oil into small squeeze or dropper
   bottles instead of packing the full bottles for 1 tbsp and 1 tsp.
-- Canned corn needs no cooler space at all — pack it as a shelf-stable can
+- Canned corn needs no cooler space at all - pack it as a shelf-stable can
   alongside the ramen.
 
 ### Onsite (at camp)
@@ -66,21 +66,21 @@ every diet in the patrol from one pot.
    of choice (chicken or tofu).
 5. **Optional egg:** in a separate small pot, soft-boil eggs (6-7 minutes
    at a simmer), cool briefly in cold water, peel, halve, and offer as a
-   topping only to scouts who want one — keeps the base dish egg-free for
+   topping only to scouts who want one - keeps the base dish egg-free for
    anyone with an allergy.
 
 ## Real Food Check
 
 - **Protein:** chicken or tofu; optional soft-boiled egg
 - **Vegetables:** snap peas/green beans, carrots, corn, green onion
-- **Processed:** instant ramen noodles and seasoning packet — using only
+- **Processed:** instant ramen noodles and seasoning packet - using only
   half the packet cuts a meaningful share of the sodium and processed
   flavoring
 
 ## Allergy & Diet Notes
 
 - **Nut-free:** yes, as written (no peanut sauce).
-- **Egg-free:** yes — egg is an optional garnish only, never mixed into the
+- **Egg-free:** yes - egg is an optional garnish only, never mixed into the
   shared pot.
 - **Vegetarian/vegan:** yes with tofu instead of chicken; check the ramen
   seasoning packet for fish/meat-derived ingredients, or skip the packet and
@@ -89,15 +89,15 @@ every diet in the patrol from one pot.
 ## Cost Estimate
 
 $2.90/scout for 6: ramen $4, vegetables (snap peas/carrots/corn) $5,
-chicken/tofu $5.50 (tofu is cheaper, chicken pricier — this splits the
+chicken/tofu $5.50 (tofu is cheaper, chicken pricier - this splits the
 difference), soy sauce/sesame oil $1, green onion $1.75, optional eggs
-$2. Boston-area pricing — see
+$2. Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 4 ramen packs, scale vegetables to about 2/3.
-- **Patrol of 8:** 8 ramen packs, scale vegetables to about 1.3x — use the
+- **Patrol of 8:** 8 ramen packs, scale vegetables to about 1.3x - use the
   largest pot the patrol has, or cook in two batches so noodles don't
   clump.
 

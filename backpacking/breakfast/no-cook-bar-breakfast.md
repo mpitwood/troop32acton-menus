@@ -4,7 +4,7 @@
 Egg-Free: Yes · No-Cook · Serves 1 · Weight: 5.9 oz/serving · 710-780
 kcal/serving (120-132 kcal/oz) · 17.5-20.5g protein*
 
-Zero fuel, zero time — grab it and start hiking. Good for a summit-day or
+Zero fuel, zero time - grab it and start hiking. Good for a summit-day or
 early-alpine-start morning where lighting a stove costs you daylight
 you'd rather spend moving. Closer to Philmont's own multi-item breakfast
 bags (bar + granola + fruit + protein) than a single granola bar alone.
@@ -26,19 +26,19 @@ bags (bar + granola + fruit + protein) than a single granola bar alone.
 - [ ] Dried fruit pouches, 6
 - [ ] Granola pouches, 6
 - [ ] Electrolyte drink mix packets, 6
-- [ ] Jerky sticks and sunflower seed butter packets — buy based on how
+- [ ] Jerky sticks and sunflower seed butter packets - buy based on how
       many scouts want each
 
 ## Equipment
 
-- None — no stove needed for this meal
+- None - no stove needed for this meal
 
 ## Instructions
 
 ### Advance Prep (at home)
 
 - Bag each person's bar, fruit pouch, granola pouch, drink mix, and
-  protein side together into one labeled bag per breakfast day — this is
+  protein side together into one labeled bag per breakfast day - this is
   entirely a grab-and-eat meal, so the only prep is portioning.
 
 ### Onsite (at trail)
@@ -54,14 +54,14 @@ bags (bar + granola + fruit + protein) than a single granola bar alone.
 - **Protein:** jerky or sunflower seed butter; modest amounts from the
   bar and granola
 - **Processed:** the bar, granola pouch, and drink mix are processed
-  convenience items — standard for a zero-fuel trail breakfast, not
+  convenience items - standard for a zero-fuel trail breakfast, not
   something to eat exclusively for a multi-day trip
 - Pair with a hot breakfast (oatmeal bar, breakfast burrito) on days that
   don't need an early start, rather than using this every morning
 
 ## Allergy & Diet Notes
 
-- Nut-free: check the specific bar and granola brands — many use almonds/
+- Nut-free: check the specific bar and granola brands - many use almonds/
   peanuts; nut-free-labeled versions are the safe default for this page.
 - Egg-free: yes for the components listed; check bar ingredients.
 - Vegetarian: yes with the sunflower seed butter protein side.
@@ -69,11 +69,11 @@ bags (bar + granola + fruit + protein) than a single granola bar alone.
 ## Packaging & Trash Notes
 
 - This is the highest-wrapper-count breakfast in the repo (bar wrapper,
-  fruit pouch, granola pouch, drink mix packet, protein-side wrapper) —
+  fruit pouch, granola pouch, drink mix packet, protein-side wrapper) -
   reserve it for days it's actually needed rather than defaulting to it
   every morning, to keep total trip trash down.
 - Individually wrapped bars are worth keeping wrapped as-is (protects
-  from crushing in the pack) — the trash-reduction opportunity here is in
+  from crushing in the pack) - the trash-reduction opportunity here is in
   not over-buying, not in repackaging bars themselves.
 
 ## Cost Estimate
@@ -81,17 +81,17 @@ bags (bar + granola + fruit + protein) than a single granola bar alone.
 Meat build: $4.35/scout (bar $2.00, fruit pouch $0.35, granola pouch
 $0.30, drink mix $0.75, jerky $1.25). Vegetarian build: $3.70/scout
 (swap jerky for sunflower seed butter packet $0.60). Boston-area
-pricing — see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
+pricing - see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes
 
 - Patrol of 4/8: scales linearly.
 - Fine to carry for the whole trip since nothing needs refrigeration, but
-  weigh against using it every day — see Real Food Check.
+  weigh against using it every day - see Real Food Check.
 
 ## Advancement Tie-In
 
 - **Tenderfoot:** assist in preparing this meal.
 - **Cooking merit badge (trail cooking):** planning a no-cook trail
-  breakfast still counts toward meal planning — check with the counselor
+  breakfast still counts toward meal planning - check with the counselor
   on whether a specific requirement needs an actual cooking step.

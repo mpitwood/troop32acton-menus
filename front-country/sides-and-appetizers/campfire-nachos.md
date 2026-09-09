@@ -3,7 +3,7 @@
 *Any meal · Appetizer · Vegetarian base, meat add-in optional · Nut-Free:
 Yes · Egg-Free: Yes · Dutch Oven · Serves 6 · Prep 10 min · Cook 8-10 min*
 
-A shared appetizer or a side for chili/fajita night — layered and melted in
+A shared appetizer or a side for chili/fajita night - layered and melted in
 the dutch oven, no oven-temp guesswork since it's really just melting
 cheese quickly with more heat on top than bottom.
 
@@ -41,28 +41,28 @@ cheese quickly with more heat on top than bottom.
 ### Advance Prep (at home)
 
 - If using ground beef, brown and season it at home, then cooler-pack in
-  its own container — keeps camp prep to reheating only.
+  its own container - keeps camp prep to reheating only.
 - Slice the green onions ahead; dice the tomato on site so it doesn't go
   watery.
 
 ### Onsite (at camp)
 
-1. Light coals — this only needs a short, hot melt, so lean toward more
+1. Light coals - this only needs a short, hot melt, so lean toward more
    coals on the lid than the bottom (about 4 under, 12-14 on the lid).
-2. Layer the chips, beans, and cheese in the dutch oven — the whole pot
+2. Layer the chips, beans, and cheese in the dutch oven - the whole pot
    stays vegetarian. If using meat, warm it separately and keep it in its
    own bowl the entire time; it never goes into the dutch oven.
 3. Cover and heat 8-10 minutes, checking at 6, until cheese is fully
    melted.
 4. Top with tomato, jalapeños, and green onion. Serve straight from the
-   oven with salsa and sour cream — meat-eating scouts spoon meat from its
+   oven with salsa and sour cream - meat-eating scouts spoon meat from its
    own bowl onto their own plate after serving from the shared oven.
 
 ## Real Food Check
 
 - **Protein:** black beans, cheese (+ optional ground beef or chicken)
 - **Vegetables:** tomato, green onion, jalapeño
-- **Processed:** tortilla chips — a vehicle for the beans/cheese/toppings,
+- **Processed:** tortilla chips - a vehicle for the beans/cheese/toppings,
   not the point of the dish
 
 ## Allergy & Diet Notes
@@ -70,21 +70,21 @@ cheese quickly with more heat on top than bottom.
 - **Nut-free:** yes, as written.
 - **Egg-free:** yes.
 - **Vegetarian:** keep meat in its own bowl, never mixed into the dutch
-  oven itself — that way the shared pot (including seconds) stays safe for
+  oven itself - that way the shared pot (including seconds) stays safe for
   a vegetarian scout the whole meal, not just the first serving.
 
 ## Cost Estimate
 
 $3.25/scout for 6 as a shared side: chips $4.75, cheese $3.75, beans
 $1.50, produce $3.90, salsa/sour cream $5.75 (meat add-in extra $4.25
-if used). Boston-area pricing — see
+if used). Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** use a smaller (10") dutch oven or don't fully layer to
   the top; 2/3 the chips and toppings.
-- **Patrol of 8:** layer in a 14" oven or do two batches — an overfilled
+- **Patrol of 8:** layer in a 14" oven or do two batches - an overfilled
   12" oven melts unevenly.
 
 ## Advancement Tie-In

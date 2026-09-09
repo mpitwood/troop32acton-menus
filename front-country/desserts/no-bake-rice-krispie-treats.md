@@ -4,7 +4,7 @@
 label) · Egg-Free: Yes · 2-Burner Stove · Serves 6 · Prep 10 min (plus set
 time) · Cook 5 min*
 
-No dutch oven, no coals to manage — just a pot on the stove and a few
+No dutch oven, no coals to manage - just a pot on the stove and a few
 minutes of stirring. Good for a night when the fire crew is already
 stretched thin managing the main course.
 
@@ -45,32 +45,32 @@ stretched thin managing the main course.
 3. Remove from heat, fold in the rice cereal until evenly coated.
 4. Press into a greased pan (or shape into individual treats with greased
    hands, camp-style).
-5. Let cool and set 15-20 minutes before cutting or serving — cools faster
+5. Let cool and set 15-20 minutes before cutting or serving - cools faster
    if set in the cooler for a few minutes.
 
 ## Real Food Check
 
 - **Protein:** minimal
-- **Processed:** cereal and marshmallows, no way around it — a treat, not
+- **Processed:** cereal and marshmallows, no way around it - a treat, not
   a food-group-checking dessert. Earns its spot for being fast on a night
   the cook crew needs a break, not for nutrition.
 
 ## Allergy & Diet Notes
 
-- **Nut-free:** yes, as written — check the cereal brand for a
+- **Nut-free:** yes, as written - check the cereal brand for a
   shared-facility nut warning.
 - **Egg-free:** yes.
 
 ## Cost Estimate
 
 $1.55/scout for 6: cereal $4.75, butter $1.35, marshmallows $3.10.
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for
 sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 4 cups cereal, scale butter/marshmallows down slightly.
-- **Patrol of 8:** 10-12 cups cereal — melt marshmallows in two batches so
+- **Patrol of 8:** 10-12 cups cereal - melt marshmallows in two batches so
   the pot doesn't overflow when the cereal is folded in.
 
 ## Advancement Tie-In

@@ -211,7 +211,7 @@ function buildRecipePage(relSrcMd, relOutPath, location, category) {
   const meta = parseRecipeMeta(summary);
   const bodyMd = rewriteLinks(stripTitleLine(raw));
   const bodyHtml = `<p class="crumb">${location} &rsaquo; ${category}</p>\n<h1>${escapeHtml(title)}</h1>\n` + renderMarkdownWithHeadingIds(bodyMd);
-  const description = summary ? summary.replace(/·/g, '—').slice(0, 200) : '';
+  const description = summary ? summary.replace(/·/g, '-').slice(0, 200) : '';
   const html = layout({ title, bodyHtml, relOutPath, description });
   writeOut(relOutPath, html);
   return {
@@ -343,13 +343,13 @@ function buildHomepage(frontCountryCount) {
 </figure>
 <h1>Troop 32 Acton Menu Book</h1>
 <p class="lede">Pre-planned camp meals, ready to pick from instead of
-planning from scratch — shopping lists, allergy tags, and cost estimates
+planning from scratch - shopping lists, allergy tags, and cost estimates
 already worked out.</p>
 
 <div class="landing-cards">
   <a class="landing-card" href="front-country/OVERVIEW.html">
     <span class="lc-title">Front-Country</span>
-    <span class="lc-desc">Car camping — ${frontCountryCount} recipes across
+    <span class="lc-desc">Car camping - ${frontCountryCount} recipes across
     breakfast, lunch, dinner, sides, desserts, and snacks.</span>
     <span class="lc-cta">Open the guide →</span>
   </a>
@@ -361,9 +361,9 @@ already worked out.</p>
 </div>
 
 <p class="lede">Leaders: <a href="menu-system-talking-points.html">a 2-3
-minute troop intro</a> covering how the menu system works and why — how
+minute troop intro</a> covering how the menu system works and why - how
 to plan a meal, vegetarian/allergy policy, nutrition, pricing, and
-advancement in priority order — as speaking notes, not a script.</p>
+advancement in priority order - as speaking notes, not a script.</p>
 
 <p class="lede">Already know what you're looking for? <a href="browse.html">Browse
 &amp; filter every recipe →</a></p>
@@ -380,7 +380,7 @@ function buildBrowsePage(recipes) {
 
   const bodyHtml = `
 <h1>Browse Recipes</h1>
-<p class="lede">All ${recipes.length} Front-Country recipes — search or
+<p class="lede">All ${recipes.length} Front-Country recipes - search or
 filter to narrow it down. Backpacking recipes aren't listed here yet; see
 the <a href="backpacking/under-construction.html">Backpacking page</a>.</p>
 

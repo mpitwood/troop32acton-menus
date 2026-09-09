@@ -4,7 +4,7 @@
 label) · Egg-Free: No (swap below) · Dutch Oven · Serves 6 · Prep 10 min ·
 Cook 25-30 min*
 
-Box mix, baked in the dutch oven instead of a home oven — the fudgy
+Box mix, baked in the dutch oven instead of a home oven - the fudgy
 payoff-to-effort ratio is hard to beat.
 
 ## Ingredients (serves 6)
@@ -19,7 +19,7 @@ payoff-to-effort ratio is hard to beat.
 - [ ] Brownie mix, 1 box
 - [ ] Oil (take from home if available, purchase if necessary; check box for
       amount)
-- [ ] Eggs (check box — usually 2, or see egg-free swap)
+- [ ] Eggs (check box - usually 2, or see egg-free swap)
 - [ ] Foil, if lining the oven instead of greasing it
 - [ ] Optional: spray whipped cream, if budget allows
 
@@ -47,20 +47,20 @@ payoff-to-effort ratio is hard to beat.
    handles to lift the finished brownies out. Pour in the batter.
 4. Cover. Set on 8 coals underneath, 16-17 coals on the lid. Bake 25-30
    minutes, rotating the oven and lid a quarter turn every 10 minutes.
-   Check with a toothpick at 25 minutes — it should come out mostly clean.
-5. Let cool 10 minutes before cutting — they fall apart if cut too hot.
+   Check with a toothpick at 25 minutes - it should come out mostly clean.
+5. Let cool 10 minutes before cutting - they fall apart if cut too hot.
 
 ## Real Food Check
 
-- **Protein:** minimal — from the eggs only
-- **Processed:** boxed mix, meaningful added sugar — occasional dessert,
+- **Protein:** minimal - from the eggs only
+- **Processed:** boxed mix, meaningful added sugar - occasional dessert,
   not a template for the weekend's food quality
 - The egg-free applesauce swap is also the less-processed version; worth
   using even without an allergy in the patrol
 
 ## Allergy & Diet Notes
 
-- **Nut-free:** as written, assuming the box mix doesn't contain nuts —
+- **Nut-free:** as written, assuming the box mix doesn't contain nuts -
   check the label, some brands share lines with nut products.
 - **Egg-free swap:** replace each egg the box calls for with 1/4 cup
   unsweetened applesauce. Texture comes out slightly denser and fudgier,
@@ -69,7 +69,7 @@ payoff-to-effort ratio is hard to beat.
 ## Cost Estimate
 
 $0.85/scout for 6: brownie mix $3.40, oil/eggs $1.50 (or applesauce $2
-for the egg-free version). Boston-area pricing — see
+for the egg-free version). Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes

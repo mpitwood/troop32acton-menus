@@ -1,11 +1,11 @@
-# One-Pot Cajun Red Beans & Rice — Vegetarian Base + Andouille Boost
+# One-Pot Cajun Red Beans & Rice - Vegetarian Base + Andouille Boost
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 2-Burner Stove · Serves 6 (base) + boost scaled to meat-eaters · Prep 10
 min · Cook 25-30 min*
 
 Rice and beans cooked together in one pot with the Cajun "holy trinity"
-(onion, celery, bell pepper) — filling and cheap on its own, with sliced
+(onion, celery, bell pepper) - filling and cheap on its own, with sliced
 andouille sausage browned separately for meat-eating scouts to stir in.
 
 ## Ingredients
@@ -36,7 +36,7 @@ andouille sausage browned separately for meat-eating scouts to stir in.
 - [ ] Garlic (take from home if available, purchase if necessary)
 - [ ] Cajun seasoning (take from home if available, purchase if necessary)
 - [ ] Bay leaf (take from home if available, purchase if necessary)
-- [ ] Andouille or smoked sausage — buy based on headcount of meat-eaters
+- [ ] Andouille or smoked sausage - buy based on headcount of meat-eaters
 
 ## Equipment
 
@@ -48,7 +48,7 @@ andouille sausage browned separately for meat-eating scouts to stir in.
 
 ### Advance Prep (at home)
 
-- Dice the onion, bell pepper, and celery (the "holy trinity") ahead —
+- Dice the onion, bell pepper, and celery (the "holy trinity") ahead -
   all hold up fine in a cooler for a day or two.
 - Decant the Cajun seasoning into a small container and pack just 1-2 bay
   leaves loose in a small bag rather than the whole jar/box.
@@ -65,7 +65,7 @@ andouille sausage browned separately for meat-eating scouts to stir in.
    rice is tender and the liquid is absorbed. Remove the bay leaf.
 4. Meanwhile, brown the sliced sausage in a separate skillet on the other
    burner. Keep it in its own bowl.
-5. **To serve:** portion the rice and beans into bowls first — this is the
+5. **To serve:** portion the rice and beans into bowls first - this is the
    vegetarian-safe dish. Meat-eating scouts stir sausage from its own bowl
    into their own bowl.
 
@@ -86,13 +86,13 @@ andouille sausage browned separately for meat-eating scouts to stir in.
 Base: $2.45/scout for 6 (rice $2.65, beans $3, onion/pepper/celery
 $6.30, garlic $1, seasoning $1, broth/oil $0.75). Andouille boost:
 $0.95 per meat-eating scout (0.875 lb $5.75, split 6 ways). Boston-area
-pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
+pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 1.3 cups rice, scale beans/veggies proportionally;
   sausage sized to however many of the 4 eat meat.
-- **Patrol of 8:** 2.7 cups rice — use the largest pot available, rice
+- **Patrol of 8:** 2.7 cups rice - use the largest pot available, rice
   needs room to absorb liquid evenly; sausage sized per actual meat-eater
   headcount.
 

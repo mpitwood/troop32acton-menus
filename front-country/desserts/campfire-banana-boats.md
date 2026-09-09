@@ -35,7 +35,7 @@ dessert in the repo.
 
 ### Advance Prep (at home)
 
-- Portion the chocolate chips and marshmallows into small bags — no need
+- Portion the chocolate chips and marshmallows into small bags - no need
   to bring the full bags of either for 6 bananas' worth.
 - Bananas travel fine at room temperature or in the cooler; no special
   prep needed.
@@ -49,20 +49,20 @@ dessert in the repo.
 3. Wrap each banana individually in foil.
 4. Set near the edge of the coals (not directly in the hottest part) for
    5-8 minutes, until the chocolate and marshmallow are melted.
-5. Unwrap carefully — it's hot — top with crushed graham crackers if using,
+5. Unwrap carefully - it's hot - top with crushed graham crackers if using,
    and eat with a spoon.
 
 ## Real Food Check
 
 - **Protein:** minimal
 - **Fruit:** whole banana carries the dish
-- **Processed:** chocolate chips, marshmallows — a sugar-forward treat,
+- **Processed:** chocolate chips, marshmallows - a sugar-forward treat,
   but built on real produce rather than a boxed mix
 
 ## Allergy & Diet Notes
 
 - **Nut-free:** the recipe itself is nut-free, but chocolate chips are
-  commonly produced on shared lines with nuts — buy a brand that's
+  commonly produced on shared lines with nuts - buy a brand that's
   specifically labeled nut-free/peanut-free if a scout with a nut allergy
   will be eating from the same bag.
 - **Egg-free:** yes.
@@ -70,13 +70,13 @@ dessert in the repo.
 ## Cost Estimate
 
 $1.15/scout for 6: bananas $2, chocolate chips $2.75, marshmallows $2.
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for
 sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 4 bananas, scale chips/marshmallows proportionally.
-- **Patrol of 8:** 8 bananas — this scales linearly with no batching
+- **Patrol of 8:** 8 bananas - this scales linearly with no batching
   concerns, each banana is its own packet.
 
 ## Advancement Tie-In

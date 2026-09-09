@@ -1,10 +1,10 @@
-# First Class Menu Planning Worksheet — Requirement 2a
+# First Class Menu Planning Worksheet - Requirement 2a
 
 **This is your worksheet, not a recipe page.**
 
-- Requirement 2a asks *you* to plan a menu and explain the nutrition —
+- Requirement 2a asks *you* to plan a menu and explain the nutrition -
   not read it off a page.
-- Don't copy from a page's "Real Food Check" — read the **Ingredients**
+- Don't copy from a page's "Real Food Check" - read the **Ingredients**
   list yourself and work it out.
 - Bring the finished worksheet to the senior scout who signs off on this
   requirement.
@@ -16,7 +16,7 @@
 > model and how it meets nutritional needs for the planned activity or
 > campout."
 
-- This repo uses RealFood.gov, which replaced MyPlate in January 2026 —
+- This repo uses RealFood.gov, which replaced MyPlate in January 2026 -
   same idea. Ask your leader which term they want you to use.
 
 ---
@@ -30,7 +30,7 @@
 - Nights: _____
 - Activity level: ☐ Easy/relaxed ☐ Moderate (day hikes, active program)
   ☐ Strenuous (long miles, elevation, cold weather)
-- *Matters in Section 5 — a strenuous backpacking day needs more food
+- *Matters in Section 5 - a strenuous backpacking day needs more food
   than a relaxed weekend in the campground.*
 
 ## 2. Pick your three meals
@@ -38,7 +38,7 @@
 - Browse the Front-Country Overview or the Backpacking Overview document
   (find both through the menu at the top of the page) and pick one
   breakfast, one lunch, one dinner.
-- **At least 2 of the 3 must require cooking** — a "No-Cook" page doesn't
+- **At least 2 of the 3 must require cooking** - a "No-Cook" page doesn't
   count.
 
 | Meal | Page you picked | Cook method | Requires cooking? |
@@ -54,7 +54,7 @@
 
 - List anyone going with a food allergy, intolerance, or diet (vegetarian,
   nut allergy, egg allergy, etc.): ________________________________________
-- Check each meal's Diet/Allergen tags against that list — does it work
+- Check each meal's Diet/Allergen tags against that list - does it work
   for everyone as written? ________________________________________________
 - If a substitution is needed, name it and where it happens (e.g. "Priya
   gets the vegetarian base, no meat boost in her bowl"): ________________________________________________
@@ -62,17 +62,9 @@
 ## 4. Sort the ingredients into food groups yourself
 
 - For each meal, open its **Ingredients** list and sort it into the table
-  below — write the actual ingredient, not just a checkmark.
+  below - write the actual ingredient, not just a checkmark.
 
-**Breakfast — ____________________**
-
-| Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
-|---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-
-**Lunch — ____________________**
+**Breakfast - ____________________**
 
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
@@ -80,7 +72,15 @@
 | | | | | |
 | | | | | |
 
-**Dinner — ____________________**
+**Lunch - ____________________**
+
+| Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+
+**Dinner - ____________________**
 
 | Protein | Vegetables/Fruit | Grains | Dairy | Other/processed |
 |---|---|---|---|---|
@@ -112,10 +112,10 @@ Across all three meals:
 
 - The Backpacking Overview targets **2,600–2,900 kcal and 90–100g
   protein/day**. In range? ________________
-- If low, what would you add or swap — bigger portion, protein boost, or
+- If low, what would you add or swap - bigger portion, protein boost, or
   a snack from the snacks folder? ________________________________________________
 
-**Front-country trip** (no calorie table — answer in your own words):
+**Front-country trip** (no calorie table - answer in your own words):
 
 - Real protein source at each meal, not just a side dish? ________________________________________________
 - Vegetable or fruit at more than one meal? ________________________________________________
@@ -126,7 +126,7 @@ Across all three meals:
 
 - Write 3–5 sentences explaining how this menu meets the nutritional
   needs of *this* campout.
-- Use what you found in Sections 4–5 — explain *why* it works, don't just
+- Use what you found in Sections 4–5 - explain *why* it works, don't just
   relist ingredients.
 - This is what you'll tell the senior scout who signs off on this
   requirement.
@@ -145,15 +145,15 @@ Line 5: ________________________________________________
 
 ## What comes next
 
-Same menu carries into the rest of First Class Cooking — keep this
+Same menu carries into the rest of First Class Cooking - keep this
 worksheet:
 
-- **2b** — build a budget and food-amount list for 3+ youth; secure the
+- **2b** - build a budget and food-amount list for 3+ youth; secure the
   ingredients.
-- **2c** — show which pans, utensils, and gear this menu needs.
-- **2d** — demonstrate safe handling/storage of perishables and proper
+- **2c** - show which pans, utensils, and gear this menu needs.
+- **2d** - demonstrate safe handling/storage of perishables and proper
   disposal of camp garbage and waste water.
-- **2e** — actually cook this menu on a campout: serve as cook, supervise
+- **2e** - actually cook this menu on a campout: serve as cook, supervise
   your assistant(s), and supervise cleanup.
 
 ---

@@ -4,7 +4,7 @@
 separate) · Egg-Free: Yes · 2-Burner Stove · Serves 6 · Prep 5 min ·
 Cook 10 min*
 
-The fastest hot breakfast in the repo — good for Sunday morning when the
+The fastest hot breakfast in the repo - good for Sunday morning when the
 patrol needs to strike camp, or any morning with an early activity. One pot
 of oats, a spread of toppings, everyone builds their own bowl.
 
@@ -44,7 +44,7 @@ of oats, a spread of toppings, everyone builds their own bowl.
 ### Advance Prep (at home)
 
 - Decant the brown sugar and cinnamon into small containers or a
-  double-bagged zip pouch — no need to bring the full bag/jar for a
+  double-bagged zip pouch - no need to bring the full bag/jar for a
   topping bar.
 - Portion dried cranberries/raisins and sunflower seeds into small bags if
   the troop wants pre-measured toppings rather than bulk bowls.
@@ -54,7 +54,7 @@ of oats, a spread of toppings, everyone builds their own bowl.
 1. Bring water or milk to a boil with a pinch of salt.
 2. Stir in oats, reduce heat, simmer 3-5 minutes, stirring occasionally,
    until thickened.
-3. Portion into bowls. Lay out toppings so scouts build their own — this
+3. Portion into bowls. Lay out toppings so scouts build their own - this
    also naturally handles different tastes and allergies without a second
    cook process.
 
@@ -62,7 +62,7 @@ of oats, a spread of toppings, everyone builds their own bowl.
 
 - **Protein:** milk (or yogurt cups), sunflower seeds
 - **Whole food:** oats, dried fruit, banana
-- **Processed:** none significant — brown sugar is the only added sugar,
+- **Processed:** none significant - brown sugar is the only added sugar,
   and it's a topping scouts add themselves rather than baked in
 
 ## Allergy & Diet Notes
@@ -70,7 +70,7 @@ of oats, a spread of toppings, everyone builds their own bowl.
 - **Nut-free:** the base recipe is nut-free. If the troop wants to offer
   nuts (walnuts, almonds) as a topping, put them in a clearly labeled
   separate bowl with their own serving spoon, kept away from the shared
-  toppings — don't scoop nuts from the same spot as everything else.
+  toppings - don't scoop nuts from the same spot as everything else.
 - **Egg-free:** yes.
 - **Vegan:** yes, if made with water or a plant milk and skipping yogurt.
 
@@ -78,14 +78,14 @@ of oats, a spread of toppings, everyone builds their own bowl.
 
 $2.20/scout for 6: oats $3.50, milk $1.75, toppings (dried fruit,
 sunflower seeds, brown sugar, bananas) $8. Add $0.75-1.00/scout for the
-breakfast drink — not in the total above, budget it separately.
-Boston-area pricing — see
+breakfast drink - not in the total above, budget it separately.
+Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 2 cups oats, 4 cups liquid.
-- **Patrol of 8:** 4 cups oats, 8 cups liquid — may need two pots since a
+- **Patrol of 8:** 4 cups oats, 8 cups liquid - may need two pots since a
   single medium pot gets crowded once oats thicken.
 
 ## Advancement Tie-In

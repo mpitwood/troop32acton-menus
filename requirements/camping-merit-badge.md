@@ -2,7 +2,7 @@
 
 Source: scouting.org, Camping merit badge requirements page. Only
 requirement 8 (food/cooking) is transcribed here, since that's the only
-part relevant to this repo — confirmed current as of 2026.
+part relevant to this repo - confirmed current as of 2026.
 
 ## 8. Menu planning and trail/camp cooking
 
@@ -34,6 +34,6 @@ lunch, and one dinner for your patrol from the meals you have planned
 for requirement 8(c). At least one of those meals must be a trail meal
 requiring the use of a lightweight stove.
 
-*Not yet reflected in this repo's recipe tags or talking points — flag
+*Not yet reflected in this repo's recipe tags or talking points - flag
 if/when we want front-country and backpacking recipes cross-tagged for
 this requirement.*

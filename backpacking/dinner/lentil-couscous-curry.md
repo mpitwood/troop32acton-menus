@@ -5,7 +5,7 @@ Simmer (short) · Serves 1 (base) + optional boost · Weight: 6 oz/serving
 · 650 kcal/serving (108 kcal/oz) · 34g protein*
 
 This is the dinner that proves vegetarian doesn't need a meat boost to be
-a genuine main course — red lentils cook fast and pack real protein and
+a genuine main course - red lentils cook fast and pack real protein and
 fiber on their own, and a scoop of TVP closes the rest of the gap to a
 full dinner-sized protein target. A chicken boost is offered because
 choice matters, not because the base needs help.
@@ -53,18 +53,18 @@ choice matters, not because the base needs help.
    occasionally, until the lentils are tender.
 3. Stir in the couscous, remove from heat, cover, and let sit 5 minutes
    until the couscous absorbs the remaining liquid.
-4. Serve. Scouts who want the chicken boost stir it into their own bowl —
+4. Serve. Scouts who want the chicken boost stir it into their own bowl -
    the base is a complete meal without it.
 
 ## Real Food Check
 
-- **Protein:** red lentils and TVP carry this dish on their own —
+- **Protein:** red lentils and TVP carry this dish on their own -
   genuinely high protein and fiber for the weight, not a "needs meat to
   be real food" situation
 - **Vegetables:** dehydrated mixed vegetables
 - **Processed:** coconut milk powder and TVP are the most processed
   ingredients here, and both are doing real work (fat/calorie density and
-  protein density for the weight) — a reasonable tradeoff for a
+  protein density for the weight) - a reasonable tradeoff for a
   backpacking dinner
 
 ## Allergy & Diet Notes
@@ -77,9 +77,9 @@ choice matters, not because the base needs help.
 
 - Pre-combine the lentil/TVP/spice/coconut-milk-powder portion into one
   bag; keep couscous in a second small bag since it's added at a
-  different step — two bags per person per dinner, both packed out
+  different step - two bags per person per dinner, both packed out
   afterward.
-- Buy lentils, TVP, and coconut milk powder in bulk — all are common
+- Buy lentils, TVP, and coconut milk powder in bulk - all are common
   bulk-bin items even outside specialty outdoor retailers.
 
 ## Cost Estimate
@@ -87,7 +87,7 @@ choice matters, not because the base needs help.
 $2.05/scout (lentils $0.55, couscous $0.30, coconut milk powder
 $0.68, dehydrated vegetables $0.50, TVP $0.18). Optional boost: $1.60
 per scout who wants it (dehydrated chicken bits run higher per ounce than
-the beef/bacon boosts elsewhere in the repo). Boston-area pricing — see
+the beef/bacon boosts elsewhere in the repo). Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes

@@ -1,11 +1,11 @@
-# Loaded Baked Potato Bar — Vegetarian Base + Bacon Boost
+# Loaded Baked Potato Bar - Vegetarian Base + Bacon Boost
 
 *Lunch · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Foil Pack/Coals · Serves 6 (base) + boost scaled to meat-eaters ·
 Prep 10 min · Cook 45-60 min*
 
 Foil-wrapped potatoes baked right in the coals, split open and loaded up
-buffet-style. Good for a morning where the patrol is out on an activity —
+buffet-style. Good for a morning where the patrol is out on an activity -
 start the potatoes in the coals before you leave, they hold heat well.
 
 ## Ingredients
@@ -30,8 +30,8 @@ start the potatoes in the coals before you leave, they hold heat well.
 - [ ] Shredded cheddar cheese, 1 cup
 - [ ] Sour cream, 1/2 cup
 - [ ] Green onions
-- [ ] Black beans, 1 can (15 oz) — or broccoli
-- [ ] Bacon — buy based on headcount of meat-eaters
+- [ ] Black beans, 1 can (15 oz) - or broccoli
+- [ ] Bacon - buy based on headcount of meat-eaters
 - [ ] Heavy-duty foil
 
 ## Equipment
@@ -44,9 +44,9 @@ start the potatoes in the coals before you leave, they hold heat well.
 
 ### Advance Prep (at home)
 
-- Decant the oil and salt into small travel containers — only a couple
+- Decant the oil and salt into small travel containers - only a couple
   tablespoons of oil and a pinch of salt per potato is needed.
-- Slice the green onions ahead and cooler-pack — they hold up fine for a
+- Slice the green onions ahead and cooler-pack - they hold up fine for a
   day or two.
 
 ### Onsite (at camp)
@@ -79,14 +79,14 @@ start the potatoes in the coals before you leave, they hold heat well.
 Base: $2.30/scout for 6 (potatoes $6, cheese $1.90, sour cream $2,
 green onion $1.75, black beans $1.50, oil/salt $0.75). Bacon boost:
 $0.70 per meat-eating scout (6 slices $3.75, split 5-6 ways).
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for
 sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 4 potatoes; bacon sized to however many of the 4 eat
   meat.
-- **Patrol of 8:** 8 potatoes — start them earlier or bank more coals, a
+- **Patrol of 8:** 8 potatoes - start them earlier or bank more coals, a
   crowded coal bed cooks slower per potato.
 
 ## Advancement Tie-In

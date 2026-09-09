@@ -3,7 +3,7 @@
 *Breakfast · Main · Vegetarian · Nut-Free: Yes · Egg-Free: Check label ·
 Dutch Oven · Serves 6 · Prep 10 min · Cook 25-30 min*
 
-Pull-apart cinnamon sugar biscuit bread — sweet, fast, and a genuine crowd
+Pull-apart cinnamon sugar biscuit bread - sweet, fast, and a genuine crowd
 favorite for a lighter breakfast. Pair with fruit or the
 [Nut-Free Snack Basket](../snacks/nut-free-snack-basket.html) fruit option
 to round it out.
@@ -40,7 +40,7 @@ to round it out.
 ### Advance Prep (at home)
 
 - Decant the sugar and cinnamon straight into the zip-top bag you'll toss
-  the biscuit pieces in at camp — one less container to pack.
+  the biscuit pieces in at camp - one less container to pack.
 - The biscuit dough itself needs to stay refrigerated/cooler-cold until
   use; buy it close to departure.
 
@@ -56,15 +56,15 @@ to round it out.
    minutes, rotating the oven and lid a quarter turn every 10 minutes,
    until golden and cooked through in the center (break one piece open to
    check).
-6. Let cool 5-10 minutes — the sugar is very hot right out of the oven.
+6. Let cool 5-10 minutes - the sugar is very hot right out of the oven.
    Pull apart to serve.
 
 ## Real Food Check
 
-- **Protein:** minimal — only what's in the butter and dough
+- **Protein:** minimal - only what's in the butter and dough
 - **Processed:** refrigerated biscuit dough (main ingredient), a full cup
   of added sugar plus brown sugar
-- Treat, not a standalone breakfast — pair with fruit or a protein side
+- Treat, not a standalone breakfast - pair with fruit or a protein side
 
 ## Allergy & Diet Notes
 
@@ -75,21 +75,21 @@ to round it out.
 ## Cost Estimate
 
 $3.00/scout for 6: biscuit dough $11.25 (3 cans), sugar/cinnamon $1.25,
-butter $5.50. Add $0.75-1.00/scout for the breakfast drink — not in the
-total above, budget it separately. Boston-area pricing — see
+butter $5.50. Add $0.75-1.00/scout for the breakfast drink - not in the
+total above, budget it separately. Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 2 cans biscuit dough is enough.
-- **Patrol of 8:** 4 cans — bake in a 14" oven or in two batches, since 4
+- **Patrol of 8:** 4 cans - bake in a 14" oven or in two batches, since 4
   cans of quartered biscuits overfill a 12" oven.
 
 ## Advancement Tie-In
 
 - **Tenderfoot:** assist in preparing this meal.
 - **Second Class:** counts as the hot breakfast a scout cooks solo.
-- **First Class:** works as the hot breakfast in a planned menu — pair with
+- **First Class:** works as the hot breakfast in a planned menu - pair with
   fruit to round out the food groups.
 - **Cooking merit badge:** satisfies the dutch oven cooking method
   requirement.

@@ -1,9 +1,9 @@
-# Dutch Oven Breakfast Casserole — Vegetarian Base + Sausage Boost
+# Dutch Oven Breakfast Casserole - Vegetarian Base + Sausage Boost
 
 *Breakfast · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: No ·
 Dutch Oven · Serves 6 · Prep 15 min (mostly at home) · Cook 35-40 min*
 
-Layered hash browns, egg, veggies, and cheese baked in a 12" dutch oven —
+Layered hash browns, egg, veggies, and cheese baked in a 12" dutch oven -
 the "big Saturday morning breakfast." Sausage isn't baked into the
 casserole; it's browned in a separate pan and spooned onto individual
 plates, so the casserole itself stays vegetarian-safe from first serving
@@ -13,7 +13,7 @@ through seconds.
 
 **Base (serves 6):**
 - 1 bag (28-30 oz) frozen shredded hash browns, thawed (buying them frozen
-  is just a shortcut — they thaw fine in the cooler by the time you cook)
+  is just a shortcut - they thaw fine in the cooler by the time you cook)
 - 8 large eggs
 - 1/4 cup milk
 - 1 bell pepper, diced
@@ -41,7 +41,7 @@ through seconds.
 - [ ] Garlic powder (take from home if available, purchase if necessary)
 - [ ] Cooking oil or spray (take from home if available, purchase if
       necessary)
-- [ ] Breakfast sausage — buy based on headcount of meat-eaters
+- [ ] Breakfast sausage - buy based on headcount of meat-eaters
 - [ ] Breakfast drink, patrol's choice
 
 ## Equipment
@@ -59,7 +59,7 @@ through seconds.
 - Dice the pepper and onion, bag together, refrigerate.
 - Pre-shred cheese if not already shredded.
 - Decant the salt, pepper, and garlic powder into a small spice container
-  or a labeled zip bag — no need to bring three full shakers for one dish.
+  or a labeled zip bag - no need to bring three full shakers for one dish.
 
 ### Onsite (at camp)
 
@@ -76,7 +76,7 @@ through seconds.
    camp stove burner (or a few extra coals off to the side). Keep it in its
    own bowl.
 7. Eggs are done when the center is set, not liquid. Rest 5 minutes.
-   **To serve:** cut and plate portions from the casserole first — this is
+   **To serve:** cut and plate portions from the casserole first - this is
    vegetarian-safe as-is. Meat-eating scouts then spoon sausage from its
    own bowl onto their own plate.
 
@@ -90,11 +90,11 @@ through seconds.
 ## Allergy & Diet Notes
 
 - **Nut-free:** yes, as written.
-- **Egg-free:** no — eggs are structural to this dish, there isn't a good
+- **Egg-free:** no - eggs are structural to this dish, there isn't a good
   substitute for a casserole. If a scout in the patrol has an egg allergy,
   pick [Camp Pancakes](camp-pancakes.html) (egg-free swap available) or
   [Oatmeal Toppings Bar](oatmeal-toppings-bar.html) instead.
-- **Vegetarian:** the base already excludes meat by default — no
+- **Vegetarian:** the base already excludes meat by default - no
   substitution needed, sausage is simply never added to it.
 
 ## Cost Estimate
@@ -102,8 +102,8 @@ through seconds.
 Base: $2.85/scout for 6 (hash browns $4, eggs $3.85, milk $1.25,
 veggies $3.05, cheese $3.75, spices/oil $1.25). Sausage boost: $0.90
 per meat-eating scout (3/4 lb sausage $4.70, split 5-6 ways). Add
-$0.75-1.00/scout for the breakfast drink — not in the totals above,
-budget it separately. Boston-area pricing — see
+$0.75-1.00/scout for the breakfast drink - not in the totals above,
+budget it separately. Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes

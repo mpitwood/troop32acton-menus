@@ -4,7 +4,7 @@
 brand) · Egg-Free: Yes · No-Cook · Serves 6 · Prep 10 min · Cook: none*
 
 The classic camp snack, made safe by default with sunflower seed butter
-instead of peanut butter — nobody has to ask "does this have nuts," it
+instead of peanut butter - nobody has to ask "does this have nuts," it
 simply doesn't.
 
 ## Ingredients (serves 6, 2 logs each)
@@ -28,7 +28,7 @@ simply doesn't.
 
 ### Advance Prep (at home)
 
-- Cut the celery into logs ahead and cooler-pack — holds up fine for a day
+- Cut the celery into logs ahead and cooler-pack - holds up fine for a day
   or two.
 - No need to decant the sunflower seed butter jar itself; it's already a
   reasonably sized container for the trip.
@@ -47,7 +47,7 @@ simply doesn't.
 ## Allergy & Diet Notes
 
 - **Nut-free:** sunflower seed butter is the standard nut-free substitute
-  for peanut butter, but always check the specific jar — some brands are
+  for peanut butter, but always check the specific jar - some brands are
   processed in facilities that also handle tree nuts.
 - **Egg-free:** yes.
 - **Vegan:** yes.
@@ -55,15 +55,15 @@ simply doesn't.
 ## Cost Estimate
 
 $2.10/scout for 6: celery $2.80, sunflower seed butter $7, raisins
-$2.80. Boston-area pricing — see
+$2.80. Boston-area pricing - see
 [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 8 celery logs.
-- **Patrol of 8:** 16 celery logs — scales linearly, no batching needed.
+- **Patrol of 8:** 16 celery logs - scales linearly, no batching needed.
 
 ## Advancement Tie-In
 
 - **Cooking merit badge:** satisfies the snack requirement for camp
-  cooking — no-cook still counts.
+  cooking - no-cook still counts.

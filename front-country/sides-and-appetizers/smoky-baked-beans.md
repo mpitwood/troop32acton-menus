@@ -1,18 +1,18 @@
-# Smoky Baked Beans — Vegetarian Base + Bacon Boost
+# Smoky Baked Beans - Vegetarian Base + Bacon Boost
 
 *Any meal · Side · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Dutch Oven · Serves 6 (base) + boost scaled to meat-eaters · Prep 10 min ·
 Cook 25-30 min*
 
 Doctored canned beans get smoky depth from paprika instead of bacon mixed
-straight in — so the pot itself stays vegetarian, and bacon is a topping
+straight in - so the pot itself stays vegetarian, and bacon is a topping
 scouts add to their own bowl.
 
 ## Ingredients
 
 **Base (serves 6):**
 - 3 (15 oz) cans great northern or navy beans, drained (or vegetarian
-  baked beans — check the label, most canned "vegetarian" baked beans have
+  baked beans - check the label, most canned "vegetarian" baked beans have
   no meat)
 - 1/3 cup brown sugar
 - 2 tbsp mustard
@@ -32,7 +32,7 @@ scouts add to their own bowl.
 - [ ] Ketchup
 - [ ] Smoked paprika (take from home if available, purchase if necessary)
 - [ ] Onion, 1/2
-- [ ] Bacon — buy based on headcount of meat-eaters
+- [ ] Bacon - buy based on headcount of meat-eaters
 
 ## Equipment
 
@@ -45,7 +45,7 @@ scouts add to their own bowl.
 ### Advance Prep (at home)
 
 - Decant the brown sugar, mustard, ketchup, and smoked paprika into small
-  travel containers — no need for full-size bottles/jars for this side.
+  travel containers - no need for full-size bottles/jars for this side.
 - Dice the onion ahead and cooler-pack.
 
 ### Onsite (at camp)
@@ -58,7 +58,7 @@ scouts add to their own bowl.
    and bubbly.
 4. Meanwhile, cook the chopped bacon in a small skillet until crisp,
    drain, keep in its own bowl.
-5. **To serve:** scoop beans first — this is the vegetarian-safe dish.
+5. **To serve:** scoop beans first - this is the vegetarian-safe dish.
    Meat-eating scouts stir bacon bits from its own bowl into their own
    bowl.
 
@@ -66,7 +66,7 @@ scouts add to their own bowl.
 
 - **Protein (base):** great northern/navy beans; + bacon (boost)
 - **Vegetables:** onion
-- **Processed:** none in the base — doctored with real pantry ingredients
+- **Processed:** none in the base - doctored with real pantry ingredients
   (mustard, ketchup, brown sugar, paprika) rather than a pre-made product
 
 ## Allergy & Diet Notes
@@ -79,17 +79,17 @@ scouts add to their own bowl.
 Base: $1.20/scout for 6 (beans $4.50, brown sugar/mustard/ketchup/
 paprika $1.50, onion $0.65, oil $0.50). Bacon boost: $0.70 per
 meat-eating scout (5 slices $3.90, split 5-6 ways). Boston-area
-pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
+pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 2 cans beans, scale seasonings down slightly.
-- **Patrol of 8:** 5 cans beans — use a larger dutch oven or simmer in two
+- **Patrol of 8:** 5 cans beans - use a larger dutch oven or simmer in two
   batches.
 
 ## Advancement Tie-In
 
 - **Tenderfoot:** assist in preparing this meal.
 - **Cooking merit badge:** satisfies the dutch oven cooking method
-  requirement — pairs well as the side for a foil-pack or stove main to
+  requirement - pairs well as the side for a foil-pack or stove main to
   round out a full camp-cooking meal.

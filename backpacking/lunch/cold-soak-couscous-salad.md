@@ -1,11 +1,11 @@
-# Cold-Soak Couscous Salad — Vegetarian Base + Salami Boost
+# Cold-Soak Couscous Salad - Vegetarian Base + Salami Boost
 
 *Lunch · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Cold-Soak · Serves 1 (base) + boost scaled to meat-eaters · Weight: 6.45
 oz/serving base + 1 oz/meat-eater · 738 kcal/serving base (114
 kcal/oz) + 140 kcal boost · 32g protein base + 6g boost*
 
-Couscous is the rare grain that rehydrates in cold water — no stove
+Couscous is the rare grain that rehydrates in cold water - no stove
 needed, which makes this the zero-fuel option when a hot lunch isn't
 worth the fuel cost. TVP is added to the base for protein so a
 vegetarian scout's lunch doesn't depend on the boost to hit target.
@@ -28,7 +28,7 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 
 - [ ] Couscous, 15 oz
 - [ ] Olive oil packets, 6 (take from home if available, purchase if
-      necessary — a scout can bring a small squeeze bottle instead of
+      necessary - a scout can bring a small squeeze bottle instead of
       buying packets)
 - [ ] Dehydrated tomato/pepper flakes, 2.5 oz
 - [ ] Lemon pepper seasoning (take from home if available, purchase if
@@ -36,7 +36,7 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 - [ ] Parmesan powder, 3 oz
 - [ ] TVP, 4.5 oz
 - [ ] Energy/protein bars, 6
-- [ ] Pepperoni or salami — buy based on headcount of meat-eaters
+- [ ] Pepperoni or salami - buy based on headcount of meat-eaters
 
 ## Equipment
 
@@ -53,7 +53,7 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 ### Onsite (at trail)
 
 1. At the morning break (or the night before), add 1/2 cup cold water to
-   the couscous/TVP bag, seal, and let sit — couscous is ready in as
+   the couscous/TVP bag, seal, and let sit - couscous is ready in as
    little as 10–15 minutes, and the TVP rehydrates in the same time.
 2. At lunch, stir in the oil, veggie flakes, seasoning, and parmesan
    powder.
@@ -67,7 +67,7 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
   salami (boost)
 - **Vegetables:** dehydrated tomato/pepper flakes
 - **Processed:** couscous is a refined grain; parmesan powder, TVP, and
-  the bar are processed — the TVP is specifically there to make sure the
+  the bar are processed - the TVP is specifically there to make sure the
   vegetarian base doesn't fall short on protein without the meat boost
 
 ## Allergy & Diet Notes
@@ -78,16 +78,16 @@ vegetarian scout's lunch doesn't depend on the boost to hit target.
 ## Packaging & Trash Notes
 
 - Buy couscous, TVP, veggie flakes, and parmesan powder in bulk and
-  portion at home — cuts individual packet trash to zero for this meal
+  portion at home - cuts individual packet trash to zero for this meal
   beyond the personal ration bags already needed for prep.
-- The soaking bag doubles as the bowl — no separate dish.
+- The soaking bag doubles as the bowl - no separate dish.
 
 ## Cost Estimate
 
 Base: $2.10/scout (couscous $0.50, oil $0.15, veggie flakes $0.40,
-parmesan powder $0.30, TVP $0.26, bar $1.50 rounds this up further —
+parmesan powder $0.30, TVP $0.26, bar $1.50 rounds this up further -
 total with bar $3.10/scout). Boost: $1.10 per meat-eating scout.
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes
 

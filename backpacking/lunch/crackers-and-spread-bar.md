@@ -4,7 +4,7 @@
 Yes · No-Cook · Serves 1 · Weight: 7.25 oz/serving · 858-908
 kcal/serving (118-125 kcal/oz) · 32-35g protein*
 
-The classic cracker-barrel trail lunch — crackers, a spreadable cheese,
+The classic cracker-barrel trail lunch - crackers, a spreadable cheese,
 a protein side, and an energy bar, laid out for everyone to build their
 own plate. No stove needed. Close to Philmont's actual Lunch #1 total
 (crackers + protein pouch + trail mix + bar ≈ 950 kcal, 38g protein).
@@ -26,18 +26,18 @@ own plate. No stove needed. Close to Philmont's actual Lunch #1 total
 - [ ] Cheese spread wedges, 9
 - [ ] Trail mix, 4.5 oz (shared)
 - [ ] Energy/protein bars, 6
-- [ ] Meat sticks and sunflower seed butter/jam packets — buy based on
+- [ ] Meat sticks and sunflower seed butter/jam packets - buy based on
       how many scouts want each
 
 ## Equipment
 
-- None — no stove needed
+- None - no stove needed
 
 ## Instructions
 
 ### Advance Prep (at home)
 
-- Strip crackers out of their cardboard boxes into zip-top bags — the box
+- Strip crackers out of their cardboard boxes into zip-top bags - the box
   never needed to come on the trip.
 - Portion the shared trail mix into one bag per cook group rather than
   per person, to cut down on wrapper count.
@@ -46,7 +46,7 @@ own plate. No stove needed. Close to Philmont's actual Lunch #1 total
 
 1. Lay out crackers, cheese spread, trail mix, and bars.
 2. Each scout builds their own plate: crackers with cheese spread, a
-   handful of trail mix, the bar, and their protein choice — meat stick
+   handful of trail mix, the bar, and their protein choice - meat stick
    for meat-eaters, sunflower seed butter and jam for vegetarians.
 
 ## Real Food Check
@@ -59,18 +59,18 @@ own plate. No stove needed. Close to Philmont's actual Lunch #1 total
 ## Allergy & Diet Notes
 
 - Nut-free: yes, as written, with sunflower seed butter as the peanut
-  butter stand-in — check the trail mix and bar ingredients for nuts and
+  butter stand-in - check the trail mix and bar ingredients for nuts and
   keep any nut-containing trail mix in a separate labeled bag if the
   troop wants to offer one.
 - Egg-free: yes.
 
 ## Packaging & Trash Notes
 
-- This is the meal where box-stripping matters most — a full cracker box
+- This is the meal where box-stripping matters most - a full cracker box
   is mostly air and cardboard. Repackaged into a flat bag, the same
   crackers take a fraction of the space and weight.
 - Cheese spread wedges are individually packaged for a reason (they don't
-  keep well once opened) — no repackaging opportunity there, just budget
+  keep well once opened) - no repackaging opportunity there, just budget
   for the wrapper.
 
 ## Cost Estimate
@@ -79,7 +79,7 @@ Meat build: $4.02/scout (crackers $0.60, cheese wedge $0.90, meat
 stick $1.25, trail mix $0.32, bar $0.95... rounded, see below). Total
 with bar at $1.50: $4.57/scout. Vegetarian build: $4.07/scout with
 sunflower seed butter + jam ($0.75) in place of the meat stick.
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing) for sourcing.
 
 ## Scaling Notes
 

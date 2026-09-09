@@ -1,4 +1,4 @@
-# Foil Packet Fajitas — Vegetarian Base + Chicken/Steak Boost
+# Foil Packet Fajitas - Vegetarian Base + Chicken/Steak Boost
 
 *Dinner · Main · Vegetarian base · Nut-Free: Yes · Egg-Free: Yes ·
 Foil Pack/Coals · Serves 6 (base) + boost scaled to meat-eaters · Prep 15
@@ -36,7 +36,7 @@ packets of scouts who want it, before sealing.
 - [ ] Fajita seasoning (take from home if available, purchase if necessary)
 - [ ] Flour tortillas, 12
 - [ ] Shredded cheese, 1.5 cups
-- [ ] Chicken thighs (or steak) — buy based on headcount of meat-eaters
+- [ ] Chicken thighs (or steak) - buy based on headcount of meat-eaters
 - [ ] Optional: sour cream, salsa, lime
 - [ ] Heavy-duty foil
 
@@ -50,7 +50,7 @@ packets of scouts who want it, before sealing.
 
 ### Advance Prep (at home)
 
-- Decant the oil and fajita seasoning into small travel containers — only
+- Decant the oil and fajita seasoning into small travel containers - only
   a few tablespoons of each are needed for the whole meal.
 - Slice the peppers and onion ahead; they hold up fine in a cooler for a
   day or two. Slice the mushrooms closer to cook time so they don't get
@@ -59,7 +59,7 @@ packets of scouts who want it, before sealing.
 ### Onsite (at camp)
 
 1. Toss the sliced portobellos, black beans, peppers, and onion with oil
-   and fajita seasoning — this is the shared base filling for every packet.
+   and fajita seasoning - this is the shared base filling for every packet.
 2. Separately, toss the sliced chicken (or steak) with its own oil and
    seasoning in its own bowl.
 3. Build the vegetarian packet(s) first: base filling only, into a
@@ -69,7 +69,7 @@ packets of scouts who want it, before sealing.
 5. Cook all packets together on a grate over medium-hot coals, 12-15
    minutes, flipping once. Chicken needs to reach full doneness; check the
    thickest piece before serving.
-6. Open carefully — hot steam escapes. Serve the filling in warmed
+6. Open carefully - hot steam escapes. Serve the filling in warmed
    tortillas with cheese and toppings.
 
 ## Real Food Check
@@ -85,7 +85,7 @@ packets of scouts who want it, before sealing.
 - **Egg-free:** yes.
 - **Vegan:** base is vegan with a dairy-free cheese shred or no cheese.
 - Assembling the vegetarian packet(s) first, before the raw meat bowl is
-  even opened, avoids any cross-contact — not just separate seasoning bowls
+  even opened, avoids any cross-contact - not just separate seasoning bowls
   but a genuinely separate prep step.
 
 ## Cost Estimate
@@ -93,8 +93,8 @@ packets of scouts who want it, before sealing.
 Base: $4.10/scout for 6 (mushrooms $7.50, black beans $1.50, peppers
 $5.25, onion $1.30, oil/seasoning $1.75, tortillas $4.40, cheese
 $2.85). Meat boost: $1.45 per meat-eating scout with chicken (1 lb
-$5.75, split 4 ways) — steak runs closer to $3.25/scout. Boston-area
-pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
+$5.75, split 4 ways) - steak runs closer to $3.25/scout. Boston-area
+pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for sourcing.
 
 ## Scaling Notes
 

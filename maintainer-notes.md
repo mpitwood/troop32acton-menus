@@ -1,6 +1,6 @@
 # Maintainer Notes
 
-This page is for whoever maintains the repo and the website it builds —
+This page is for whoever maintains the repo and the website it builds -
 not needed to plan a menu or work a requirement. See
 [Front-Country Overview](front-country/OVERVIEW.html) for that.
 
@@ -15,7 +15,7 @@ food/
     First-Class.pdf          gitignored, not in the public repo
     Second-Class-v2.pdf      gitignored, not in the public repo
     cooking-merit-badge.md   tracked -- used to write the Cooking MB worksheets
-  front-country/           car camping — coolers and car-transportable gear OK
+  front-country/           car camping - coolers and car-transportable gear OK
     OVERVIEW.md              scout/leader-facing guide + browsable menu tables
     TEMPLATE.md              blank page to copy when adding a new recipe
     breakfast/
@@ -31,13 +31,13 @@ food/
     dinner/
     snacks/
   site/                      website build tooling (see "Building the website" below)
-  docs/                       generated website output — GitHub Pages serves this folder
+  docs/                       generated website output - GitHub Pages serves this folder
 ```
 
 Front-country and backpacking each keep one combined Overview (guide +
-browsable menu tables) rather than a separate Overview/INDEX pair — having
+browsable menu tables) rather than a separate Overview/INDEX pair - having
 two documents for the same section was confusing to read. The two
-Overview pages don't link to each other, on purpose — both are meant to
+Overview pages don't link to each other, on purpose - both are meant to
 stand alone if printed.
 
 ## Adding a new recipe
@@ -47,14 +47,14 @@ right `front-country/<category>/` folder, fill it in, and add a row to
 the [Recipe List](front-country/OVERVIEW.md#recipe-list) tables in
 front-country/OVERVIEW.md. For backpacking recipes, use
 [backpacking/TEMPLATE.md](backpacking/TEMPLATE.md) and add a row to
-[backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#recipe-list) instead —
+[backpacking/OVERVIEW.md](backpacking/OVERVIEW.md#recipe-list) instead -
 different template, different tables. Then rebuild the site (below) so
 the new page actually appears.
 
 ## Pricing methodology
 
 Cost estimates are built for a **Boston-area (Greater Boston) grocery
-trip**, not a national average — this troop is in a high-cost-of-living
+trip**, not a national average - this troop is in a high-cost-of-living
 area and national figures were running noticeably low.
 
 - **Directly sourced Boston prices** (via [Numbeo Boston food
@@ -67,30 +67,30 @@ area and national figures were running noticeably low.
 - **Everything else** (bacon, sausage, deli meat, canned goods, pasta,
   tortillas, box mixes, most produce not listed above, pantry items) is a
   **national average estimate** (rough figures from general knowledge, not
-  a live price check) **scaled up 1.35x** — the Boston-vs-national premium
+  a live price check) **scaled up 1.35x** - the Boston-vs-national premium
   observed across the sourced staples above ran from about 1.27x (beef) to
   1.52x (chicken), so 1.35x is a middle-of-the-road estimate applied
   consistently rather than a per-item lookup.
 - Eggs are a known exception: the sourced Boston price was running about
   2.7x the national figure at the time of the check, likely reflecting a
-  temporary regional supply issue rather than a stable premium — treat the
+  temporary regional supply issue rather than a stable premium - treat the
   egg-heavy recipes' costs as the most likely to have moved since.
 - **None of this is a live per-store price check.** It's a planning-stage
   estimate, not a receipt. Before finalizing a shopping budget, a patrol
   should sanity-check a few line items against Market Basket, Stop & Shop,
-  or wherever they're actually shopping — prices vary by store even within
+  or wherever they're actually shopping - prices vary by store even within
   Boston, and grocery inflation was running 4% year-over-year in the
   Boston area as of mid-2026.
 
 ## Building the website
 
-The site under `docs/` is generated from the Markdown files — the Markdown
+The site under `docs/` is generated from the Markdown files - the Markdown
 stays the single source of truth. All the build tooling lives in `site/`,
 away from the recipe content:
 
 ```
 site/
-  build.js       Node build script — reads every .md file, writes docs/
+  build.js       Node build script - reads every .md file, writes docs/
   style.css      site stylesheet
   filter.js      client-side recipe search/filter, used on the homepage
   images/        source images (build.js copies these into docs/assets/images/)
@@ -98,7 +98,7 @@ site/
 
 **The site rebuilds and republishes itself automatically.** A GitHub
 Actions workflow (`.github/workflows/pages.yml`) runs `npm run build` and
-deploys the result to GitHub Pages on every push to `main` — including an
+deploys the result to GitHub Pages on every push to `main` - including an
 edit made straight in GitHub's web editor, no local setup needed. Check
 the Actions tab on the repo to watch a deploy or see why one failed.
 `docs/` is git-ignored: it's a build artifact now, not something anyone
@@ -117,21 +117,21 @@ changed).
 A few pages are deliberately **not** linked from the site's main
 navigation, on purpose:
 
-- `leader-answer-key.md` — linked once, from the bottom of the published
+- `leader-answer-key.md` - linked once, from the bottom of the published
   Overview, not from the nav or homepage. It compiles the same Real Food
   Check content that's already public on every recipe page, so this isn't
-  real access control — it's just not one click away from a scout
+  real access control - it's just not one click away from a scout
   browsing the site.
-- `maintainer-notes.md` (this file) — linked once, from the bottom of the
+- `maintainer-notes.md` (this file) - linked once, from the bottom of the
   published Overview.
-- `front-country/TEMPLATE.md` / `backpacking/TEMPLATE.md` — built and
+- `front-country/TEMPLATE.md` / `backpacking/TEMPLATE.md` - built and
   linked from this page, but not from the main nav.
 
 The two official BSA requirement PDFs
 (`requirements/First-Class.pdf`, `requirements/Second-Class-v2.pdf`) and
 the `import/` folder are intentionally excluded from git via
-`.gitignore` — they're either copyrighted BSA material or raw working
+`.gitignore` - they're either copyrighted BSA material or raw working
 files, not meant for a public repo. `requirements/cooking-merit-badge.md`
 *is* tracked (it's our own transcription, not a redistributed PDF) and
-isn't built into the site — it's a reference copy for whoever next
+isn't built into the site - it's a reference copy for whoever next
 updates the Cooking MB worksheets.

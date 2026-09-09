@@ -35,9 +35,9 @@ travels better in a cooler.
 ### Advance Prep (at home)
 
 - Whisk the vinegar, oil, sugar, celery seed, salt, and pepper together
-  and pour into a small travel jar — no need to bring full bottles of
+  and pour into a small travel jar - no need to bring full bottles of
   vinegar and oil for 2 tbsp each.
-- Toss the dressing with the coleslaw mix the night before if possible —
+- Toss the dressing with the coleslaw mix the night before if possible -
   it's better after 30+ minutes and travels fine cold in the cooler.
 
 ### Onsite (at camp)
@@ -49,31 +49,31 @@ travels better in a cooler.
 
 ## Real Food Check
 
-- **Protein:** none — pair with a protein-forward main
+- **Protein:** none - pair with a protein-forward main
 - **Vegetables:** cabbage, carrot
 - **Processed:** none
 
 ## Allergy & Diet Notes
 
 - **Nut-free:** yes.
-- **Egg-free:** yes — vinaigrette-based, not mayo (mayo contains egg).
+- **Egg-free:** yes - vinaigrette-based, not mayo (mayo contains egg).
 - **Vegan:** yes, as written.
 
 ## Cost Estimate
 
 $0.75/scout for 6: coleslaw mix $3.25, vinegar/oil/sugar $1.25.
-Boston-area pricing — see [pricing basis](../OVERVIEW.html#pricing-basis) for
+Boston-area pricing - see [pricing basis](../OVERVIEW.html#pricing-basis) for
 sourcing.
 
 ## Scaling Notes
 
 - **Patrol of 4:** 2/3 bag of coleslaw mix, scale dressing proportionally.
-- **Patrol of 8:** 1.5 bags — mix in a larger bowl or bag, dressing scales
+- **Patrol of 8:** 1.5 bags - mix in a larger bowl or bag, dressing scales
   linearly.
 
 ## Advancement Tie-In
 
 - **Tenderfoot:** assist in preparing this meal.
 - **Cooking merit badge:** a no-cook prep component that rounds out a
-  planned camp meal — pair with a stove or dutch oven main to satisfy the
+  planned camp meal - pair with a stove or dutch oven main to satisfy the
   cooking-method requirement for that meal.
