@@ -25,6 +25,8 @@ script. Glance and talk, don't read it aloud.
   but the patrol still needs to plan *who's* doing which part.
 - Any deviation from the menus needs advance approval from a scoutmaster
   or committee member.
+- Only one Dutch oven recipe per meal — no time to cook a main, let it
+  cool, clean the oven, and cook a dessert too.
 
 ## Vegetarian & allergy policy
 
