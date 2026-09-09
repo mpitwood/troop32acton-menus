@@ -74,13 +74,10 @@ since each scout builds their own from a shared spread.
 | [Campfire Banana Boats](desserts/campfire-banana-boats.md) | Vegetarian | Yes* | Yes | Foil Pack | $1.15 |
 | [Dutch Oven Brownies](desserts/dutch-oven-brownies.md) | Vegetarian | Yes | No (swap available) | Dutch Oven | $0.85 |
 | [Dutch Oven Apple Crisp](desserts/dutch-oven-apple-crisp.md) | Vegetarian | Yes | Yes | Dutch Oven | $2.30 |
-| [Campfire Pie Iron Fruit Pies](desserts/campfire-pie-iron-fruit-pies.md) | Vegetarian | Yes | Check label | Pie Iron/Coals† | $1.70 |
+| [Campfire Pie Iron Fruit Pies](desserts/campfire-pie-iron-fruit-pies.md) | Vegetarian | Yes | Check label | Pie Iron/Coals | $1.70 |
 | [No-Bake Rice Krispie Treats](desserts/no-bake-rice-krispie-treats.md) | Vegetarian | Yes* | Yes | Stove | $1.55 |
 
 \* buy a chocolate chip brand specifically labeled nut-free.
-† a pie iron is neither foil nor a skewer — this does **not** satisfy the
-Cooking MB foil-pack/skewer method requirement. Pair the meal's main with
-a true foil-pack recipe if a scout still needs that method.
 
 ### Snacks (6)
 
