@@ -261,6 +261,16 @@ toward:
   [cooking-mb-worksheet-req6.md](../cooking-mb-worksheet-req6.md) (trail and
   backpacking). Requirement 4 (cooking at home) isn't covered here — this
   repo is built for camp and trail meals, not a home kitchen.
+- **Camping merit badge (requirement 8)** — plan a camp menu (two
+  breakfasts, three lunches, two suppers) and, while camping, cook at
+  least one breakfast, one lunch, and one dinner from that plan; at least
+  one of those meals must use a lightweight trail stove, so pull that one
+  from the Backpacking side once it's live. Also covers stove safety
+  (propane/butane and liquid fuel), fuel storage, and explaining how a
+  camp menu differs from a backpacking or float-trip menu. Not yet
+  reflected in individual recipe tags — full requirement text in
+  `requirements/camping-merit-badge.md` (maintainer reference, not
+  published on the site).
 
 - The worksheets above are deliberately scout-facing — sort a recipe's
   ingredients into food groups yourself, don't read it off "Real Food
