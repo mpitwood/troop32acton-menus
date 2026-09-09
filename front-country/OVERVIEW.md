@@ -19,14 +19,14 @@ Every breakfast Main below also lists a drink (Ingredients, Shopping List,
 and Cost Estimate) — easy to lose track of at the store or when budgeting
 if it's not written into the page itself.
 
-| Page | Diet | Nut-Free | Egg-Free | Method | Cost | Advancement |
-|---|---|---|---|---|---|---|
-| [Dutch Oven Breakfast Casserole — Base + Sausage Boost](breakfast/dutch-oven-breakfast-casserole.md) | Vegetarian base | Yes | No | Dutch Oven | $2.85 base + $0.90/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [Breakfast Burrito Bar — Base + Sausage Boost](breakfast/breakfast-burrito-bar.md) | Vegetarian/Vegan base | Yes | Yes | Stove | $2.95 base + $0.85/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [Camp Pancakes — Mix-In Bar](breakfast/camp-pancakes.md) | Vegetarian | Check label | No (swap available) | Stove | $1.95 base + mix-ins | 2nd Class, 1st Class, Cooking MB |
-| [Oatmeal Toppings Bar](breakfast/oatmeal-toppings-bar.md) | Vegetarian/Vegan | Yes* | Yes | Stove | $2.20 | 2nd Class, 1st Class, Cooking MB |
-| [Dutch Oven Monkey Bread](breakfast/dutch-oven-monkey-bread.md) | Vegetarian | Yes | Check label | Dutch Oven | $3.00 | 2nd Class, 1st Class, Cooking MB |
-| [Loaded Breakfast Hash — Base + Bacon Boost](breakfast/loaded-breakfast-hash.md) | Vegetarian base | Yes | Yes | Stove | $2.00 base + $0.90/meat-eater | 2nd Class, 1st Class, Cooking MB |
+| Page | Diet | Nut-Free | Egg-Free | Method | Cost |
+|---|---|---|---|---|---|
+| [Dutch Oven Breakfast Casserole — Base + Sausage Boost](breakfast/dutch-oven-breakfast-casserole.md) | Vegetarian base | Yes | No | Dutch Oven | $2.85 base + $0.90/meat-eater |
+| [Breakfast Burrito Bar — Base + Sausage Boost](breakfast/breakfast-burrito-bar.md) | Vegetarian/Vegan base | Yes | Yes | Stove | $2.95 base + $0.85/meat-eater |
+| [Camp Pancakes — Mix-In Bar](breakfast/camp-pancakes.md) | Vegetarian | Check label | No (swap available) | Stove | $1.95 base + mix-ins |
+| [Oatmeal Toppings Bar](breakfast/oatmeal-toppings-bar.md) | Vegetarian/Vegan | Yes* | Yes | Stove | $2.20 |
+| [Dutch Oven Monkey Bread](breakfast/dutch-oven-monkey-bread.md) | Vegetarian | Yes | Check label | Dutch Oven | $3.00 |
+| [Loaded Breakfast Hash — Base + Bacon Boost](breakfast/loaded-breakfast-hash.md) | Vegetarian base | Yes | Yes | Stove | $2.00 base + $0.90/meat-eater |
 
 \* keep any optional nut toppings in a separate labeled bowl.
 
@@ -35,47 +35,47 @@ if it's not written into the page itself.
 Lunches lean "assemble your own" — no base/boost split needed for most,
 since each scout builds their own from a shared spread.
 
-| Page | Diet | Nut-Free | Egg-Free | Method | Cost | Advancement |
-|---|---|---|---|---|---|---|
-| [Loaded Wrap Bar](lunch/loaded-wrap-bar.md) | Meat & Vegetarian (one bar) | Yes | Yes | No-Cook | $3.85 | Tenderfoot, 1st Class |
-| [Campfire Quesadillas](lunch/campfire-quesadillas.md) | Meat & Vegetarian (one station) | Yes | Yes | Stove | $4.20 | 2nd Class, 1st Class, Cooking MB |
-| [Ramen Noodle Upgrade Bowl](lunch/ramen-noodle-upgrade-bowl.md) | Meat, Vegetarian, or Vegan | Yes | Yes | Stove | $2.90 | 2nd Class, 1st Class, Cooking MB |
-| [Loaded Baked Potato Bar — Base + Bacon Boost](lunch/loaded-baked-potato-bar.md) | Vegetarian base | Yes | Yes | Foil Pack | $2.30 base + $0.70/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [Camp Pasta Salad](lunch/camp-pasta-salad.md) | Vegetarian base, meat add-in | Yes | Yes | Stove | $2.80 base + $0.95/meat-eater | Tenderfoot, 1st Class, Cooking MB |
-| [Grilled Cheese & Tomato Soup — Base + Ham Boost](lunch/grilled-cheese-tomato-soup.md) | Vegetarian base | Yes | Yes | Stove | $2.65 base + $0.70/meat-eater | 2nd Class, 1st Class, Cooking MB |
+| Page | Diet | Nut-Free | Egg-Free | Method | Cost |
+|---|---|---|---|---|---|
+| [Loaded Wrap Bar](lunch/loaded-wrap-bar.md) | Meat & Vegetarian (one bar) | Yes | Yes | No-Cook | $3.85 |
+| [Campfire Quesadillas](lunch/campfire-quesadillas.md) | Meat & Vegetarian (one station) | Yes | Yes | Stove | $4.20 |
+| [Ramen Noodle Upgrade Bowl](lunch/ramen-noodle-upgrade-bowl.md) | Meat, Vegetarian, or Vegan | Yes | Yes | Stove | $2.90 |
+| [Loaded Baked Potato Bar — Base + Bacon Boost](lunch/loaded-baked-potato-bar.md) | Vegetarian base | Yes | Yes | Foil Pack | $2.30 base + $0.70/meat-eater |
+| [Camp Pasta Salad](lunch/camp-pasta-salad.md) | Vegetarian base, meat add-in | Yes | Yes | Stove | $2.80 base + $0.95/meat-eater |
+| [Grilled Cheese & Tomato Soup — Base + Ham Boost](lunch/grilled-cheese-tomato-soup.md) | Vegetarian base | Yes | Yes | Stove | $2.65 base + $0.70/meat-eater |
 
 ### Dinner Mains (6) — vegetarian base + meat boost
 
-| Page | Diet | Nut-Free | Egg-Free | Method | Cost | Advancement |
-|---|---|---|---|---|---|---|
-| [Foil Packet Fajitas — Base + Chicken/Steak Boost](dinner/foil-packet-fajitas.md) | Vegetarian/Vegan base | Yes | Yes | Foil Pack | $4.10 base + $1.45/meat-eater (chicken; steak $3.25) | 2nd Class, 1st Class, Cooking MB |
-| [Dutch Oven Chili — Base + Ground Beef Boost](dinner/dutch-oven-chili.md) | Vegetarian/Vegan base | Yes | Yes | Dutch Oven | $3.15 base + $1.65/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [One-Pot Creamy White Bean Pasta — Base + Sausage Boost](dinner/one-pot-pasta.md) | Vegetarian base | Yes | Yes | Stove | $3.25 base + $1.00/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [Dutch Oven Southwest Pizza — Base + Pepperoni Boost](dinner/dutch-oven-pizza.md) | Vegetarian base | Yes | Check label | Dutch Oven | $3.15 base + $0.75/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [Dutch Oven Enchilada Bake — Base + Chicken Boost](dinner/dutch-oven-enchilada-bake.md) | Vegetarian base | Yes | Yes | Dutch Oven | $2.85 base + $1.25/meat-eater | 2nd Class, 1st Class, Cooking MB |
-| [Cajun Red Beans & Rice — Base + Andouille Boost](dinner/cajun-red-beans-and-rice.md) | Vegetarian base | Yes | Yes | Stove | $2.45 base + $0.95/meat-eater | 2nd Class, 1st Class, Cooking MB |
+| Page | Diet | Nut-Free | Egg-Free | Method | Cost |
+|---|---|---|---|---|---|
+| [Foil Packet Fajitas — Base + Chicken/Steak Boost](dinner/foil-packet-fajitas.md) | Vegetarian/Vegan base | Yes | Yes | Foil Pack | $4.10 base + $1.45/meat-eater (chicken; steak $3.25) |
+| [Dutch Oven Chili — Base + Ground Beef Boost](dinner/dutch-oven-chili.md) | Vegetarian/Vegan base | Yes | Yes | Dutch Oven | $3.15 base + $1.65/meat-eater |
+| [One-Pot Creamy White Bean Pasta — Base + Sausage Boost](dinner/one-pot-pasta.md) | Vegetarian base | Yes | Yes | Stove | $3.25 base + $1.00/meat-eater |
+| [Dutch Oven Southwest Pizza — Base + Pepperoni Boost](dinner/dutch-oven-pizza.md) | Vegetarian base | Yes | Check label | Dutch Oven | $3.15 base + $0.75/meat-eater |
+| [Dutch Oven Enchilada Bake — Base + Chicken Boost](dinner/dutch-oven-enchilada-bake.md) | Vegetarian base | Yes | Yes | Dutch Oven | $2.85 base + $1.25/meat-eater |
+| [Cajun Red Beans & Rice — Base + Andouille Boost](dinner/cajun-red-beans-and-rice.md) | Vegetarian base | Yes | Yes | Stove | $2.45 base + $0.95/meat-eater |
 
 ### Sides & Appetizers (6)
 
-| Page | Diet | Nut-Free | Egg-Free | Method | Cost | Advancement |
-|---|---|---|---|---|---|---|
-| [Campfire Dutch Oven Nachos](sides-and-appetizers/campfire-nachos.md) | Vegetarian base, meat add-in | Yes | Yes | Dutch Oven | $3.25 | Tenderfoot, Cooking MB |
-| [Grilled Veggie & Corn Foil Packets](sides-and-appetizers/grilled-veggie-corn-foil-packets.md) | Vegan | Yes | Yes | Foil Pack | $1.65 | Tenderfoot, Cooking MB |
-| [Dutch Oven Garlic Biscuits](sides-and-appetizers/dutch-oven-garlic-biscuits.md) | Vegetarian | Yes | Check label | Dutch Oven | $1.60 | Tenderfoot, Cooking MB |
-| [Campfire Queso Dip](sides-and-appetizers/campfire-queso-dip.md) | Vegetarian base, meat add-in | Yes | Yes | Stove | $2.60 | Tenderfoot, Cooking MB |
-| [Campfire Coleslaw](sides-and-appetizers/campfire-coleslaw.md) | Vegan | Yes | Yes | No-Cook | $0.75 | Tenderfoot, Cooking MB |
-| [Smoky Baked Beans — Base + Bacon Boost](sides-and-appetizers/smoky-baked-beans.md) | Vegetarian base | Yes | Yes | Dutch Oven | $1.20 base + $0.70/meat-eater | Tenderfoot, Cooking MB |
+| Page | Diet | Nut-Free | Egg-Free | Method | Cost |
+|---|---|---|---|---|---|
+| [Campfire Dutch Oven Nachos](sides-and-appetizers/campfire-nachos.md) | Vegetarian base, meat add-in | Yes | Yes | Dutch Oven | $3.25 |
+| [Grilled Veggie & Corn Foil Packets](sides-and-appetizers/grilled-veggie-corn-foil-packets.md) | Vegan | Yes | Yes | Foil Pack | $1.65 |
+| [Dutch Oven Garlic Biscuits](sides-and-appetizers/dutch-oven-garlic-biscuits.md) | Vegetarian | Yes | Check label | Dutch Oven | $1.60 |
+| [Campfire Queso Dip](sides-and-appetizers/campfire-queso-dip.md) | Vegetarian base, meat add-in | Yes | Yes | Stove | $2.60 |
+| [Campfire Coleslaw](sides-and-appetizers/campfire-coleslaw.md) | Vegan | Yes | Yes | No-Cook | $0.75 |
+| [Smoky Baked Beans — Base + Bacon Boost](sides-and-appetizers/smoky-baked-beans.md) | Vegetarian base | Yes | Yes | Dutch Oven | $1.20 base + $0.70/meat-eater |
 
 ### Desserts (6)
 
-| Page | Diet | Nut-Free | Egg-Free | Method | Cost/Scout | Advancement |
-|---|---|---|---|---|---|---|
-| [Dutch Oven Peach Cobbler](desserts/dutch-oven-peach-cobbler.md) | Vegetarian | Yes | Yes | Dutch Oven | $2.05 | Tenderfoot, Cooking MB |
-| [Campfire Banana Boats](desserts/campfire-banana-boats.md) | Vegetarian | Yes* | Yes | Foil Pack | $1.15 | Tenderfoot, Cooking MB |
-| [Dutch Oven Brownies](desserts/dutch-oven-brownies.md) | Vegetarian | Yes | No (swap available) | Dutch Oven | $0.85 | Tenderfoot, Cooking MB |
-| [Dutch Oven Apple Crisp](desserts/dutch-oven-apple-crisp.md) | Vegetarian | Yes | Yes | Dutch Oven | $2.30 | Tenderfoot, Cooking MB |
-| [Campfire Pie Iron Fruit Pies](desserts/campfire-pie-iron-fruit-pies.md) | Vegetarian | Yes | Check label | Pie Iron/Coals† | $1.70 | Tenderfoot only† |
-| [No-Bake Rice Krispie Treats](desserts/no-bake-rice-krispie-treats.md) | Vegetarian | Yes* | Yes | Stove | $1.55 | Tenderfoot, Cooking MB |
+| Page | Diet | Nut-Free | Egg-Free | Method | Cost/Scout |
+|---|---|---|---|---|---|
+| [Dutch Oven Peach Cobbler](desserts/dutch-oven-peach-cobbler.md) | Vegetarian | Yes | Yes | Dutch Oven | $2.05 |
+| [Campfire Banana Boats](desserts/campfire-banana-boats.md) | Vegetarian | Yes* | Yes | Foil Pack | $1.15 |
+| [Dutch Oven Brownies](desserts/dutch-oven-brownies.md) | Vegetarian | Yes | No (swap available) | Dutch Oven | $0.85 |
+| [Dutch Oven Apple Crisp](desserts/dutch-oven-apple-crisp.md) | Vegetarian | Yes | Yes | Dutch Oven | $2.30 |
+| [Campfire Pie Iron Fruit Pies](desserts/campfire-pie-iron-fruit-pies.md) | Vegetarian | Yes | Check label | Pie Iron/Coals† | $1.70 |
+| [No-Bake Rice Krispie Treats](desserts/no-bake-rice-krispie-treats.md) | Vegetarian | Yes* | Yes | Stove | $1.55 |
 
 \* buy a chocolate chip brand specifically labeled nut-free.
 † a pie iron is neither foil nor a skewer — this does **not** satisfy the
@@ -84,14 +84,14 @@ a true foil-pack recipe if a scout still needs that method.
 
 ### Snacks (6)
 
-| Page | Diet | Nut-Free | Egg-Free | Method | Cost/Scout | Advancement |
-|---|---|---|---|---|---|---|
-| [Nut-Free Snack Basket](snacks/nut-free-snack-basket.md) | Vegetarian | Yes | Yes | No-Cook | $5.50 | Cooking MB |
-| [Ants on a Log (Sunflower Seed Butter)](snacks/ants-on-a-log-sunflower-seed-butter.md) | Vegan | Yes | Yes | No-Cook | $2.10 | Cooking MB |
-| [No-Bake Sunflower Seed Energy Bites](snacks/no-bake-sunflower-seed-energy-bites.md) | Vegan option | Yes | Yes | No-Cook | $2.20 | Cooking MB |
-| [Campfire Kettle Popcorn](snacks/campfire-kettle-popcorn.md) | Vegan | Yes | Yes | Stove | $0.80 | Cooking MB |
-| [Chilled Grape & Fruit Skewers](snacks/frozen-grape-fruit-skewers.md) | Vegan | Yes | Yes | No-Cook | $3.30 | Cooking MB |
-| [Veggie Dippers with Hummus](snacks/veggie-dippers-with-hummus.md) | Vegan | Check label | Yes | No-Cook | $3.00 | Cooking MB |
+| Page | Diet | Nut-Free | Egg-Free | Method | Cost/Scout |
+|---|---|---|---|---|---|
+| [Nut-Free Snack Basket](snacks/nut-free-snack-basket.md) | Vegetarian | Yes | Yes | No-Cook | $5.50 |
+| [Ants on a Log (Sunflower Seed Butter)](snacks/ants-on-a-log-sunflower-seed-butter.md) | Vegan | Yes | Yes | No-Cook | $2.10 |
+| [No-Bake Sunflower Seed Energy Bites](snacks/no-bake-sunflower-seed-energy-bites.md) | Vegan option | Yes | Yes | No-Cook | $2.20 |
+| [Campfire Kettle Popcorn](snacks/campfire-kettle-popcorn.md) | Vegan | Yes | Yes | Stove | $0.80 |
+| [Chilled Grape & Fruit Skewers](snacks/frozen-grape-fruit-skewers.md) | Vegan | Yes | Yes | No-Cook | $3.30 |
+| [Veggie Dippers with Hummus](snacks/veggie-dippers-with-hummus.md) | Vegan | Check label | Yes | No-Cook | $3.00 |
 
 Note: the Nut-Free Snack Basket and Chilled Grape & Fruit Skewers run
 noticeably pricier than the other snacks at Boston produce/cheese
