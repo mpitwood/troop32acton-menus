@@ -10,8 +10,6 @@ see [Pricing basis](#pricing-basis). More on how pages are laid out:
 
 ## Recipe List
 
-Every course below has 6 options.
-
 ### Breakfast (6)
 
 Every breakfast Main below also lists a drink (Ingredients, Shopping List,

@@ -425,6 +425,11 @@ function buildUnderConstruction() {
     margin: 0;
     padding: 2rem 1rem 4rem;
     background-color: #000;
+    background-image:
+      radial-gradient(#fff 1px, transparent 1px),
+      radial-gradient(#fff 1px, transparent 1px);
+    background-size: 60px 60px;
+    background-position: 0 0, 30px 30px;
     font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
     color: #fff;
     text-align: center;
@@ -436,6 +441,23 @@ function buildUnderConstruction() {
     border: 6px dashed #00ffff;
     padding: 1.5rem;
     box-shadow: 8px 8px 0 #000;
+    animation: border-cycle 3s linear infinite;
+  }
+  @keyframes border-cycle {
+    0% { border-color: #00ffff; }
+    25% { border-color: #ffff00; }
+    50% { border-color: #00ff00; }
+    75% { border-color: #ff6600; }
+    100% { border-color: #00ffff; }
+  }
+  .new-badge {
+    position: relative;
+    display: inline-block;
+    color: #fff200;
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-shadow: 2px 2px 0 #cc0000;
+    animation: blink 0.6s steps(1) infinite;
   }
   h1 {
     font-size: 2rem;
@@ -526,6 +548,7 @@ function buildUnderConstruction() {
 </head>
 <body>
 <div class="panel">
+  <span class="new-badge">★ NEW ★</span>
   <div class="construction-banner">🚧👷‍♂️🔨🚧</div>
   <h1>~*~ UNDER CONSTRUCTION ~*~</h1>
   <p class="bg-yellow">THE BACKPACKING SECTION OF THIS SITE IS NOT YET READY.<br>PLEASE CHECK BACK SOON!!</p>
@@ -541,6 +564,7 @@ function buildUnderConstruction() {
     <span>BEST VIEWED AT 800x600</span>
     <span>NETSCAPE NOW!</span>
     <span>UNDER CONSTRUCTION SINCE 2026</span>
+    <span>WEBMASTER APPROVED</span>
   </div>
   <a class="home-link" href="../index.html">&larr; Back to the Menu Book home page</a>
 </div>
