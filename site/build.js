@@ -425,9 +425,6 @@ function buildUnderConstruction() {
     margin: 0;
     padding: 2rem 1rem 4rem;
     background-color: #000;
-    background-image: repeating-linear-gradient(
-      45deg, #ffcc00, #ffcc00 20px, #000 20px, #000 40px
-    );
     font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
     color: #fff;
     text-align: center;
