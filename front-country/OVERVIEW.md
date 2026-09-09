@@ -8,6 +8,9 @@ Ingredients onto your shopping list. Cost = base (vegetarian, per scout)
 see [Pricing basis](#pricing-basis). More on how pages are laid out:
 [Page format](#page-format). Advancement tags: [below](#advancement-tie-ins).
 
+**Any substitutions or deviations from these menus must be preapproved
+by an adult (scoutmaster or committee member) before the shopping trip.**
+
 ## Recipe List
 
 ### Breakfast (6)
