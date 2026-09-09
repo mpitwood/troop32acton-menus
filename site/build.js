@@ -532,6 +532,30 @@ function buildUnderConstruction() {
     border: 1px solid #fff;
     padding: 0.3rem 0.5rem;
   }
+  .icon-strip {
+    font-size: 1.6rem;
+    letter-spacing: 0.3rem;
+    margin: 1rem 0;
+    line-height: 1.6;
+  }
+  .icon-strip span {
+    display: inline-block;
+    animation: bounce 0.8s ease-in-out infinite alternate;
+  }
+  .icon-strip span:nth-child(odd) { animation-delay: 0.15s; }
+  .icon-strip span:nth-child(3n) { animation-delay: 0.3s; }
+  @keyframes bounce {
+    from { transform: translateY(0); }
+    to { transform: translateY(-6px); }
+  }
+  .spin {
+    display: inline-block;
+    animation: spin 2.5s linear infinite;
+  }
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
   a { color: #00ffff; }
   a:visited { color: #ff66ff; }
   .home-link {
@@ -548,23 +572,31 @@ function buildUnderConstruction() {
 </head>
 <body>
 <div class="panel">
+  <div class="icon-strip">
+    <span>🏔️</span><span>🎒</span><span>🥾</span><span>⛺</span><span>🔥</span><span>🧭</span><span>🗺️</span><span>🌲</span><span>⛰️</span>
+  </div>
   <span class="new-badge">★ NEW ★</span>
-  <div class="construction-banner">🚧👷‍♂️🔨🚧</div>
+  <div class="construction-banner">🚧👷‍♂️🔨🚧🪧⚠️</div>
   <h1>~*~ UNDER CONSTRUCTION ~*~</h1>
-  <p class="bg-yellow">THE BACKPACKING SECTION OF THIS SITE IS NOT YET READY.<br>PLEASE CHECK BACK SOON!!</p>
+  <p class="bg-yellow">🚧 THE BACKPACKING SECTION OF THIS SITE IS NOT YET READY. 🚧<br>⚠️ PLEASE CHECK BACK SOON!! ⚠️</p>
   <div class="rainbow"></div>
   <div class="marquee-wrap">
-    <span class="marquee">*** thank you for your patience *** this page works best with Netscape Navigator 3.0 *** more trail recipes coming soon *** you are visitor number 000042 *** ***</span>
+    <span class="marquee">🥾 *** thank you for your patience *** 🏕️ this page works best with Netscape Navigator 3.0 *** 🔥 more trail recipes coming soon *** 🎒 you are visitor number 000042 *** ⛺ ***</span>
   </div>
-  <p>In the meantime, front-country (car camping) recipes are ready to go:</p>
-  <p><a href="../front-country/OVERVIEW.html">→ Front-Country Guide ←</a></p>
+  <p><span class="spin">⚙️</span> In the meantime, front-country (car camping) recipes are ready to go: <span class="spin">⚙️</span></p>
+  <p><a href="../front-country/OVERVIEW.html">🍳 → Front-Country Guide ← 🥓</a></p>
   <div class="rainbow"></div>
-  <p>Hits: <span class="hitcounter">000042</span></p>
+  <p>Hits: <span class="hitcounter">000042</span> 📈</p>
   <div class="badge-row">
-    <span>BEST VIEWED AT 800x600</span>
-    <span>NETSCAPE NOW!</span>
-    <span>UNDER CONSTRUCTION SINCE 2026</span>
-    <span>WEBMASTER APPROVED</span>
+    <span>📺 BEST VIEWED AT 800x600</span>
+    <span>🌐 NETSCAPE NOW!</span>
+    <span>🚧 UNDER CONSTRUCTION SINCE 2026</span>
+    <span>✅ WEBMASTER APPROVED</span>
+    <span>💾 SAVE OFTEN</span>
+    <span>📧 EMAIL THE WEBMASTER</span>
+  </div>
+  <div class="icon-strip">
+    <span>🔨</span><span>🪓</span><span>⛏️</span><span>🧰</span><span>🚧</span><span>👷</span><span>🪜</span><span>📐</span><span>🔧</span>
   </div>
   <a class="home-link" href="../index.html">&larr; Back to the Menu Book home page</a>
 </div>
