@@ -12,8 +12,9 @@ script. Glance and talk, don't read it aloud.
   cost estimates already included.
 - For now: Front-Country (car camping). Backpacking (trail) will
   follow.
-- For now: printed recipes. Putting them on a website is an option
-  later.
+- Website's live now — good for browsing during the week. Printed
+  pages go to whoever's actually planning, for the planning session
+  itself.
 
 ## How to use it
 
@@ -71,6 +72,6 @@ multiple meals to satisfy req 2a, so give them the room when it's there.
 
 ## Close with
 
-- Everything will be in the book and, later, on the website.
+- Everything is in the book and on the website — website's live now.
 - Senior scouts should use their experience to help newer ones through
   it, campout by campout.
