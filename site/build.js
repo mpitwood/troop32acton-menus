@@ -131,7 +131,7 @@ const NAV_ITEMS = [
 // scoutmaster's direction they're no longer promoted from nav or the
 // homepage: paired with the menu guide, the paperwork read as overwhelming
 // next to just leaning on senior scouts' existing know-how. See
-// advancement-talking-points.md for the replacement pitch.
+// menu-system-talking-points.md for the replacement pitch.
 
 function layout({ title, bodyHtml, relOutPath, description, bodyClass }) {
   const prefix = depthPrefix(relOutPath);
@@ -278,7 +278,7 @@ function main() {
   for (const file of WORKSHEET_FILES) {
     buildDocPage(file.replace(/\.html$/, '.md'), file, { worksheet: true });
   }
-  buildDocPage('advancement-talking-points.md', 'advancement-talking-points.html');
+  buildDocPage('menu-system-talking-points.md', 'menu-system-talking-points.html');
   // leader answer key: built, but intentionally not linked from nav/index
   // (see NAV_ITEMS / homepage) so it isn't one click away from a scout
   // browsing the site -- the worksheets ask scouts to work answers out
@@ -339,10 +339,10 @@ copy the ingredient list onto a shopping list, and go. See the
 <a href="backpacking/OVERVIEW.html">Backpacking Guide</a> for the full
 system plus plain browsable tables, or use the search/filter below.</p>
 
-<p class="lede">Leaders: <a href="advancement-talking-points.html">a 2-3
-minute advancement intro</a> to give patrol leaders and scouts — which
-rank needs which cooking requirement next, leaning on senior scouts'
-existing know-how instead of separate paperwork.</p>
+<p class="lede">Leaders: <a href="menu-system-talking-points.html">a 2-3
+minute troop intro</a> covering how the menu system works and why — how
+to plan a meal, vegetarian/allergy policy, nutrition, pricing, and
+advancement in priority order — as speaking notes, not a script.</p>
 
 <section class="browser">
   <h2>Browse recipes</h2>
